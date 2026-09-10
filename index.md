@@ -11,7 +11,7 @@
 
 **Įmonė:** UAB "Primum"  
 **Adresas:** [Raudondvario pl. 101A-3, Kaunas](https://maps.app.goo.gl/S75XgsDz6BMZP6rP6)  
-**Tel.:** [+370 600 35828](tel:+37060035828)
+**Tel.:** [+370 600 35828](tel:+37060035828)  
 **Įmonės kodas:** <span id="code-company">302640482</span> <button onclick="navigator.clipboard.writeText('302640482')">Kopijuoti</button>  
-**PVM mokėtojo kodas:** <span id="code-vat">LT100006734318</span> <button onclick="navigator.clipboard.writeText('LT100006734318')">Kopijuoti</button> 
+**PVM mokėtojo kodas:** <span id="code-vat">LT100006734318</span> <button onclick="navigator.clipboard.writeText('LT100006734318')">Kopijuoti</button>  
 **Vadovas:** Mindaugas Nemira, direktorius
