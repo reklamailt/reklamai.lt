@@ -1,1 +1,100 @@
 
+<!DOCTYPE html>
+<html lang="lt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>reklamai.lt</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: 40px auto;
+            background: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+        }
+        h1 {
+            color: #111;
+            font-size: 1.8rem;
+            margin-top: 0;
+            border-bottom: 2px solid #eee;
+            padding-bottom: 15px;
+        }
+        h3 {
+            color: #444;
+            margin-top: 30px;
+            border-bottom: 1px solid #eaeaea;
+            padding-bottom: 6px;
+        }
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+            line-height: 2.2;
+        }
+        a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        button {
+            margin-left: 10px;
+            padding: 4px 10px;
+            cursor: pointer;
+            background: #f0f0f0;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            font-size: 0.85rem;
+        }
+        button:active {
+            background: #e0e0e0;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>reklamai.lt</h1>
+
+    <h3>Kontaktas</h3>
+    <ul>
+        <li><strong>Prisijungimas klientams:</strong> <a href="http://spaustuve.reklamai.lt" target="_blank">spaustuve.reklamai.lt</a></li>
+        <li><strong>Telefonas:</strong> <a href="tel:+37060035828">+370 600 35828</a></li>
+        <li><strong>Emailas:</strong> <a href="mailto:vaida@reklamai.lt">vaida@reklamai.lt</a></li>
+        <li><strong>Adresas:</strong> <a href="https://maps.app.goo.gl/S75XgsDz6BMZP6rP6" target="_blank">Raudondvario pl. 101A-3, Kaunas</a></li>
+    </ul>
+
+    <h3>Rekvizitai</h3>
+    <ul>
+        <li><strong>Įmonė:</strong> <span id="val-1">UAB "Primum"</span> <button onclick="copyText('val-1')">Kopijuoti</button></li>
+        <li><strong>Adresas:</strong> <span id="val-2">Raudondvario pl. 101A-3, Kaunas</span> <button onclick="copyText('val-2')">Kopijuoti</button></li>
+        <li><strong>Tel.:</strong> <span id="val-3">+370 600 35828</span> <button onclick="copyText('val-3')">Kopijuoti</button></li>
+        <li><strong>Įmonės kodas:</strong> <span id="val-4">302640482</span> <button onclick="copyText('val-4')">Kopijuoti</button></li>
+        <li><strong>PVM mokėtojo kodas:</strong> <span id="val-5">LT100006734318</span> <button onclick="copyText('val-5')">Kopijuoti</button></li>
+        <li><strong>Vadovas:</strong> <span id="val-6">Mindaugas Nemira, direktorius</span> <button onclick="copyText('val-6')">Kopijuoti</button></li>
+    </ul>
+</div>
+
+<script>
+function copyText(elementId) {
+    const text = document.getElementById(elementId).innerText;
+    navigator.clipboard.writeText(text).then(() => {
+        const btn = document.querySelector(`#${elementId} + button`);
+        const originalText = btn.innerText;
+        btn.innerText = "Nukopijuota!";
+        setTimeout(() => btn.innerText = originalText, 1500);
+    });
+}
+</script>
+
+</body>
+</html>
