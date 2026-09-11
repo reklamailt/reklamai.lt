@@ -1,10 +1,9 @@
-
 <!DOCTYPE html>
 <html lang="lt">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>reklamai.lt</title>
+    <title>UAB Primum</title>
     <style>
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
@@ -46,17 +45,42 @@
         a:hover {
             text-decoration: underline;
         }
-        button {
-            margin-left: 10px;
-            padding: 4px 10px;
+        .copy-row {
             cursor: pointer;
-            background: #f0f0f0;
-            border: 1px solid #ccc;
+            padding: 2px 6px;
             border-radius: 4px;
-            font-size: 0.85rem;
+            transition: background 0.2s;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
         }
-        button:active {
-            background: #e0e0e0;
+        .copy-row:hover {
+            background-color: #f0f4f8;
+        }
+        .copy-icon {
+            width: 14px;
+            height: 14px;
+            opacity: 0.5;
+            flex-shrink: 0;
+        }
+        .copy-row:hover .copy-icon {
+            opacity: 0.9;
+        }
+        .toast {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background: #333;
+            color: #fff;
+            padding: 8px 16px;
+            border-radius: 4px;
+            font-size: 0.9rem;
+            opacity: 0;
+            transition: opacity 0.3s;
+            pointer-events: none;
+        }
+        .toast.show {
+            opacity: 1;
         }
     </style>
 </head>
@@ -75,23 +99,25 @@
 
     <h3>Rekvizitai</h3>
     <ul>
-        <li><strong>Įmonė:</strong> <span id="val-1">UAB "Primum"</span> <button onclick="copyText('val-1')">Kopijuoti</button></li>
-        <li><strong>Adresas:</strong> <span id="val-2">Raudondvario pl. 101A-3, Kaunas</span> <button onclick="copyText('val-2')">Kopijuoti</button></li>
-        <li><strong>Tel.:</strong> <span id="val-3">+370 600 35828</span> <button onclick="copyText('val-3')">Kopijuoti</button></li>
-        <li><strong>Įmonės kodas:</strong> <span id="val-4">302640482</span> <button onclick="copyText('val-4')">Kopijuoti</button></li>
-        <li><strong>PVM mokėtojo kodas:</strong> <span id="val-5">LT100006734318</span> <button onclick="copyText('val-5')">Kopijuoti</button></li>
-        <li><strong>Vadovas:</strong> <span id="val-6">Mindaugas Nemira, direktorius</span> <button onclick="copyText('val-6')">Kopijuoti</button></li>
+        <li><strong>Įmonė:</strong> <span class="copy-row" onclick="copyText('UAB &quot;Primum&quot;')"><span id="val-1">UAB "Primum"</span><svg class="copy-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg></span></li>
+        <li><strong>Adresas:</strong> <span class="copy-row" onclick="copyText('Raudondvario pl. 101A-3, Kaunas')"><span id="val-2">Raudondvario pl. 101A-3, Kaunas</span><svg class="copy-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg></span></li>
+        <li><strong>Tel.:</strong> <span class="copy-row" onclick="copyText('+370 600 35828')"><span id="val-3">+370 600 35828</span><svg class="copy-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg></span></li>
+        <li><strong>Įmonės kodas:</strong> <span class="copy-row" onclick="copyText('302640482')"><span id="val-4">302640482</span><svg class="copy-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg></span></li>
+        <li><strong>PVM mokėtojo kodas:</strong> <span class="copy-row" onclick="copyText('LT100006734318')"><span id="val-5">LT100006734318</span><svg class="copy-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg></span></li>
+        <li><strong>Vadovas:</strong> <span class="copy-row" onclick="copyText('Mindaugas Nemira, direktorius')"><span id="val-6">Mindaugas Nemira, direktorius</span><svg class="copy-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg></span></li>
     </ul>
 </div>
 
+<div id="toast" class="toast">Nukopijuota į schowek!</div>
+
 <script>
-function copyText(elementId) {
-    const text = document.getElementById(elementId).innerText;
+function copyText(text) {
     navigator.clipboard.writeText(text).then(() => {
-        const btn = document.querySelector(`#${elementId} + button`);
-        const originalText = btn.innerText;
-        btn.innerText = "Nukopijuota!";
-        setTimeout(() => btn.innerText = originalText, 1500);
+        const toast = document.getElementById('toast');
+        toast.classList.add('show');
+        setTimeout(() => {
+            toast.classList.remove('show');
+        }, 1500);
     });
 }
 </script>
