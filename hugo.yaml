@@ -1,0 +1,4 @@
+baseURL: 'https://reklamai.lt/'
+languageCode: 'lt-LT'
+title: 'Reklamai.lt'
+theme: 'blowfish'
