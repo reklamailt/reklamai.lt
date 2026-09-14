@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="lt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UAB Primum</title>
+    <style>
+        :root {
+            --bg-color: #f9f9f9;
+            --container-bg: #fff;
+            --text-main: #333;
+            --text-heading: #111;
+            --text-sub: #666;
+            --border-color: #eee;
+            --border-sub: #eaeaea;
+            --link-color: #0066cc;
+            --copy-hover: #f0f4f8;
+            --toast-bg: #333;
+            --toast-color: #fff;
+            --shadow: 0 2px 8px rgba(0,0,0,0.05);
+            --toggle-bg: #eee;
+            --toggle-hover: #ddd;
+        }
+
+        [data-theme="dark"] {
+            --bg-color: #121212;
+            --container-bg: #1e1e1e;
+            --text-main: #e0e0e0;
+            --text-heading: #ffffff;
+            --text-sub: #aaa;
+            --border-color: #2c2c2c;
+            --border-sub: #2c2c2c;
+            --link-color: #4da3ff;
+            --copy-hover: #2a343d;
+            --toast-bg: #e0e0e0;
+            --toast-color: #121212;
+            --shadow: 0 4px 12px rgba(0,0,0,0.3);
+            --toggle-bg: #2c2c2c;
+            --toggle-hover: #3c3c3c;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            margin: 0;
+            padding: 20px;
+            transition: background-color 0.3s, color 0.3s;
+        }
+        .container {
+            max-width: 600px;
+            margin: 40px auto;
+            background: var(--container-bg);
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: var(--shadow);
+            position: relative;
+            transition: background-color 0.3s, box-shadow 0.3s;
+        }
+        .theme-toggle {
+            position: absolute;
+            top: 30px;
+            right: 30px;
+            background: var(--toggle-bg);
+            border: none;
+            cursor: pointer;
+            width: 36px;
+            height: 36px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: background 0.2s;
+        }
+        .theme-toggle:hover {
+            background: var(--toggle-hover);
+        }
+        .theme-toggle svg {
+            width: 18px;
+            height: 18px;
+            stroke: var(--text-main);
+        }
+        .sun-icon { display: none; }
+        .moon-icon { display: block; }
+        [data-theme="dark"] .sun-icon { display: block; }
+        [data-theme="dark"] .moon-icon { display: none; }
+
+        h1 {
+            color: var(--text-heading);
+            font-size: 1.8rem;
+            margin-top: 0;
+            margin-bottom: 8px;
+            padding-right: 40px;
+        }
+        .subtitle {
+            color: var(--text-sub);
+            font-size: 0.95rem;
+            line-height: 1.5;
+            margin-bottom: 20px;
+            border-bottom: 2px solid var(--border-color);
+            padding-bottom: 15px;
+        }
+        h3 {
+            color: var(--text-heading);
+            margin-top: 30px;
+            border-bottom: 1px solid var(--border-sub);
+            padding-bottom: 6px;
+        }
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+            line-height: 2.2;
+        }
+        a {
+            color: var(--link-color);
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .copy-row {
+            cursor: pointer;
+            padding: 2px 6px;
+            border-radius: 4px;
+            transition: background 0.2s;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+        }
+        .copy-row:hover {
+            background-color: var(--copy-hover);
+        }
+        .copy-icon {
+            width: 14px;
+            height: 14px;
+            opacity: 0.5;
+            flex-shrink: 0;
+            stroke: var(--text-main);
+        }
+        .copy-row:hover .copy-icon {
+            opacity: 0.9;
+        }
+        .toast {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background: var(--toast-bg);
+            color: var(--toast-color);
+            padding: 8px 16px;
+            border-radius: 4px;
+            font-size: 0.9rem;
+            opacity: 0;
+            transition: opacity 0.3s;
+            pointer-events: none;
+        }
+        .toast.show {
+            opacity: 1;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <button class="theme-toggle" id="themeToggle" title="Perjungti temą">
+        <!-- Moon Icon -->
+        <svg class="moon-icon" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
+        <!-- Sun Icon -->
+        <svg class="sun-icon" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg>
+    </button>
+
+    <h1>UAB "Primum"</h1>
+    <div class="subtitle">Reklamos gamybos ir skaitmeninės spaudos paslaugų įmonė, teikianti plačiaformatės spaudos bei kartono gaminių sprendimus.</div>
+
+    <h3>Kontaktas</h3>
+    <ul>
+        <li><strong>Prisijungimas klientams:</strong> <a href="http://primumprint.reklamai.lt" target="_blank">primumprint.reklamai.lt</a></li>
+        <li><strong>Telefonas:</strong> <a href="tel:+37060035828">+370 600 35828</a></li>
+        <li><strong>Emailas:</strong> <a href="mailto:vaida@reklamai.lt">vaida@reklamai.lt</a></li>
+        <li><strong>Adresas:</strong> <a href="https://maps.app.goo.gl/S75XgsDz6BMZP6rP6" target="_blank">Raudondvario pl. 101A-3, Kaunas</a></li>
+    </ul>
+
+    <h3>Rekvizitai</h3>
+    <ul>
+        <li><strong>Įmonė:</strong> <span class="copy-row" onclick="copyText('UAB &quot;Primum&quot;')"><span id="val-1">UAB "Primum"</span><svg class="copy-icon" viewBox="0 0 24 24" fill="none" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg></span></li>
+        <li><strong>Adresas:</strong> <span class="copy-row" onclick="copyText('Raudondvario pl. 101A-3, Kaunas')"><span id="val-2">Raudondvario pl. 101A-3, Kaunas</span><svg class="copy-icon" viewBox="0 0 24 24" fill="none" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg></span></li>
+        <li><strong>Tel.:</strong> <span class="copy-row" onclick="copyText('+370 600 35828')"><span id="val-3">+370 600 35828</span><svg class="copy-icon" viewBox="0 0 24 24" fill="none" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg></span></li>
+        <li><strong>Įmonės kodas:</strong> <span class="copy-row" onclick="copyText('302640482')"><span id="val-4">302640482</span><svg class="copy-icon" viewBox="0 0 24 24" fill="none" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg></span></li>
+        <li><strong>PVM mokėtojo kodas:</strong> <span class="copy-row" onclick="copyText('LT100006734318')"><span id="val-5">LT100006734318</span><svg class="copy-icon" viewBox="0 0 24 24" fill="none" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg></span></li>
+        <li><strong>Vadovas:</strong> <span class="copy-row" onclick="copyText('Mindaugas Nemira, direktorius')"><span id="val-6">Mindaugas Nemira, direktorius</span><svg class="copy-icon" viewBox="0 0 24 24" fill="none" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg></span></li>
+    </ul>
+</div>
+
+<div id="toast" class="toast">Nukopijuota!</div>
+
+<script>
+// Obsługa przełączania motywu
+const themeToggle = document.getElementById('themeToggle');
+const htmlElement = document.documentElement;
+
+// Sprawdzenie zapisanego motywu lub preferencji systemowych
+const savedTheme = localStorage.getItem('theme');
+if (savedTheme) {
+    htmlElement.setAttribute('data-theme', savedTheme);
+} else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    htmlElement.setAttribute('data-theme', 'dark');
+}
+
+themeToggle.addEventListener('click', () => {
+    const currentTheme = htmlElement.getAttribute('data-theme');
+    const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+    
+    if (newTheme === 'dark') {
+        htmlElement.setAttribute('data-theme', 'dark');
+        localStorage.setItem('theme', 'dark');
+    } else {
+        htmlElement.removeAttribute('data-theme');
+        localStorage.setItem('theme', 'light');
+    }
+});
+
+// Funkcja kopiowania
+function copyText(text) {
+    navigator.clipboard.writeText(text).then(() => {
+        const toast = document.getElementById('toast');
+        toast.classList.add('show');
+        setTimeout(() => {
+            toast.classList.remove('show');
+        }, 1500);
+    });
+}
+</script>
+
+</body>
+</html>
