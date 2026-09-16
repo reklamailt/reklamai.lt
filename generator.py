@@ -24,11 +24,14 @@ with open(csv_file, mode='r', encoding='utf-8') as f:
         folder_path.mkdir(parents=True, exist_ok=True)
         file_path = folder_path / file_name
 
+        # Bezpieczne oczyszczenie cudzysłowów w opisie, żeby nie psuły YAML Frontmatter
+        safe_desc = row['meta_description'].replace('"', "'")
+
         # Składamy Frontmatter dla Hugo
         frontmatter = f"""---
 title: "{row['H1']}"
 slug: "{slug}"
-description: "{row['meta_description']}"
+description: "{safe_desc}"
 robots: "{row['robots']}"
 layout: "{row['layout']}"
 weight: {row.get('weight', 10) or 10}
