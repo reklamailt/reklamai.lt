@@ -17,18 +17,18 @@ with open(csv_file, mode='r', encoding='utf-8') as f:
             folder_path = Path('content')
             file_name = '_index.md'
         else:
-            # Tworzymy strukturę folderów na podstawie sluga
+            # Tworzymy strukturę folderów na podstawie sluga (zawsze _index.md dla poprawnych list w Blowfish)
             folder_path = Path('content') / slug
-            file_name = 'index.md'
+            file_name = '_index.md'
 
         folder_path.mkdir(parents=True, exist_ok=True)
         file_path = folder_path / file_name
 
-        # Składamy Frontmatter dla Hugo
+        # Składamy Frontmatter dla Hugo (pojedyncze cudzysłowy dla description chronią przed cudzysłowami w treści)
         frontmatter = f"""---
 title: "{row['H1']}"
 slug: "{slug}"
-description: "{row['meta_description']}"
+description: '{row['meta_description']}'
 robots: "{row['robots']}"
 layout: "{row['layout']}"
 weight: {row.get('weight', 10) or 10}
