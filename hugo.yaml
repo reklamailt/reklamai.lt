@@ -1,4 +1,5 @@
 baseURL: 'https://reklamai.lt/'
 languageCode: 'lt-LT'
+defaultContentLanguage: 'lt'
 title: 'Reklamai.lt'
 theme: 'blowfish'
