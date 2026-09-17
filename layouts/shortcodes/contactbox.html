@@ -1,0 +1,78 @@
+<style>
+    .custom-contact-box {
+        max-width: 600px;
+        margin: 0 auto;
+        position: relative;
+    }
+    .copy-row {
+        cursor: pointer;
+        padding: 2px 6px;
+        border-radius: 4px;
+        transition: background 0.2s;
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+    }
+    .copy-row:hover {
+        background-color: rgba(0,0,0,0.05);
+    }
+    .copy-icon {
+        width: 14px;
+        height: 14px;
+        opacity: 0.5;
+        flex-shrink: 0;
+    }
+    .toast-popup {
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        background: #333;
+        color: #fff;
+        padding: 8px 16px;
+        border-radius: 4px;
+        font-size: 0.9rem;
+        opacity: 0;
+        transition: opacity 0.3s;
+        pointer-events: none;
+        z-index: 9999;
+    }
+    .toast-popup.show {
+        opacity: 1;
+    }
+</style>
+
+<div class="custom-contact-box">
+    <p>Reklamos gamybos ir skaitmeninės spaudos paslaugų įmonė, teikianti plačiaformatės spaudos bei kartono gaminių sprendimus.</p>
+
+    <h3>Kontaktas</h3>
+    <ul>
+        <li><strong>Prisijungimas klientams:</strong> <a href="http://primumprint.reklamai.lt" target="_blank">primumprint.reklamai.lt</a></li>
+        <li><strong>Telefonas:</strong> <a href="tel:+37060035828">+370 600 35828</a></li>
+        <li><strong>Emailas:</strong> <a href="mailto:vaida@reklamai.lt">vaida@reklamai.lt</a></li>
+        <li><strong>Adresas:</strong> <a href="https://maps.app.goo.gl/S75XgsDz6BMZP6rP6" target="_blank">Raudondvario pl. 101A-3, Kaunas</a></li>
+    </ul>
+
+    <h3>Rekvizitai</h3>
+    <ul>
+        <li><strong>Įmonė:</strong> <span class="copy-row" onclick="copyText('UAB &quot;Primum&quot;')"><span id="val-1">UAB "Primum"</span><svg class="copy-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg></span></li>
+        <li><strong>Adresas:</strong> <span class="copy-row" onclick="copyText('Raudondvario pl. 101A-3, Kaunas')"><span id="val-2">Raudondvario pl. 101A-3, Kaunas</span><svg class="copy-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg></span></li>
+        <li><strong>Tel.:</strong> <span class="copy-row" onclick="copyText('+370 600 35828')"><span id="val-3">+370 600 35828</span><svg class="copy-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg></span></li>
+        <li><strong>Įmonės kodas:</strong> <span class="copy-row" onclick="copyText('302640482')"><span id="val-4">302640482</span><svg class="copy-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg></span></li>
+        <li><strong>PVM mokėtojo kodas:</strong> <span class="copy-row" onclick="copyText('LT100006734318')"><span id="val-5">LT100006734318</span><svg class="copy-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg></span></li>
+        <li><strong>Vadovas:</strong> <span class="copy-row" onclick="copyText('Mindaugas Nemira, direktorius')"><span id="val-6">Mindaugas Nemira, direktorius</span><svg class="copy-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg></span></li>
+    </ul>
+</div>
+
+<div id="toast" class="toast-popup">Nukopijuota!</div>
+
+<script>
+function copyText(text) {
+    navigator.clipboard.writeText(text).then(() => {
+        const toast = document.getElementById('toast');
+        toast.classList.add('show');
+        setTimeout(() => {
+            toast.classList.remove('show');
+        }, 1500);
+    });
+}
+</script>

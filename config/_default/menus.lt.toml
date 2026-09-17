@@ -1,0 +1,112 @@
+[[main]]
+name = "Plačiaformatė spauda"
+url = "/spauda/"
+weight = 10
+
+[[main]]
+name = "Backlit plakatai"
+url = "/backlit/"
+parent = "Plačiaformatė spauda"
+weight = 10
+
+[[main]]
+name = "UV spauda"
+url = "/uv-spauda/"
+parent = "Plačiaformatė spauda"
+weight = 20
+
+[[main]]
+name = "Kartono gaminiai"
+url = "/kartono-sprendimai-reklamai/"
+weight = 20
+
+[[main]]
+name = "Stovai"
+url = "/stovai/"
+parent = "Kartono gaminiai"
+weight = 10
+
+[[main]]
+name = "Stoveliai"
+url = "/prekybiniai-stoveliai/"
+parent = "Kartono gaminiai"
+weight = 20
+
+[[main]]
+name = "Fotodrobės"
+url = "/drobes/"
+parent = "Plačiaformatė spauda"
+weight = 30
+
+[[main]]
+name = "Paletinės dekoracijos"
+url = "/paletines-dekoracijos/"
+parent = "Kartono gaminiai"
+weight = 30
+
+[[main]]
+name = "Tentai"
+url = "/tentai/"
+parent = "Plačiaformatė spauda"
+weight = 40
+
+[[main]]
+name = "Proginės dėžutės"
+url = "/progines-dezutes/"
+parent = "Kartono gaminiai"
+weight = 40
+
+[[main]]
+name = "Etiketės ir lipdukai"
+url = "/etiketes/"
+parent = "Plačiaformatė spauda"
+weight = 50
+
+[[main]]
+name = "Dėžės ir pakuotės"
+url = "/dezes/"
+parent = "Kartono gaminiai"
+weight = 50
+
+[[main]]
+name = "Lentelės ir ženklai"
+url = "/lenteles/"
+parent = "Plačiaformatė spauda"
+weight = 60
+
+[[main]]
+name = "Kontaktai"
+url = "/kontaktai/"
+weight = 80
+
+# --- DOLNE MENU DLA BLOWFISH ---
+[[footer]]
+name = "Plačiaformatė spauda"
+url = "/spauda/"
+weight = 20
+
+[[footer]]
+name = "Kliento sritis"
+url = "http://spaustuve.reklamai.lt"
+weight = 70
+
+[[footer]]
+name = "Kontaktai"
+url = "/kontaktai/"
+weight = 80
+
+[[footer]]
+name = "Apie Primum Print"
+url = "/apie-uab-primum/"
+weight = 81
+
+[[footer]]
+name = "Apsauginės pertvaros"
+url = "/saugiam-verslui/"
+weight = 90
+
+[[footer]]
+name = "ES investicijos"
+url = "/es-investicijos/"
+weight = 90
+
