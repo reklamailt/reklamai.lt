@@ -1,7 +1,7 @@
 ---
 title: ""
 slug: ""
-description: ''
+description: ""
 robots: ""
 layout: ""
 weight: 10
