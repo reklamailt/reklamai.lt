@@ -87,7 +87,7 @@ weight = 20
 
 [[footer]]
 name = "Kliento sritis"
-url = "http://spaustuve.reklamai.lt"
+url = "http://primumprint.reklamai.lt"
 weight = 70
 
 [[footer]]
@@ -105,8 +105,4 @@ name = "Apsauginės pertvaros"
 url = "/saugiam-verslui/"
 weight = 90
 
-[[footer]]
-name = "ES investicijos"
-url = "/es-investicijos/"
-weight = 90
 
