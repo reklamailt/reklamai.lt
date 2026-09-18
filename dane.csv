@@ -1,5 +1,75 @@
 URL (Canonical / Link),slug,H1,menu_title,meta_title,meta_description,robots,layout,weight,image,draft,content,,
-https://reklamai.lt/,,Reklamos gamyba ir skaitmeninė spauda,,Reklamos gamyba ir skaitmeninė spauda | Primum Print | reklamai.lt,"Primum Print – reklamos gamybos ir skaitmeninės spaudos paslaugų įmonė, teikianti plačiaformatės spaudos bei kartono gaminių sprendimus.","index, follow",home,10,,FALSE,,,
+https://reklamai.lt/,,Reklamos gamyba ir skaitmeninė spauda,Reklamos gamyba | Plačiaformatė UV spauda ir kartono gaminiai | Greitas pristatymas,Reklamos gamyba ir skaitmeninė spauda | Primum Print | reklamai.lt,"Primum Print – profesionali reklamos gamyba, pristatymas visoje Lietuvoje. Plačiaformatė UV spauda, tentai, lipdukai, tvarios kartono pakuotės bei prekybiniai stovai. Greitai ir kokybiškai","index, follow",home,10,,FALSE,"<!-- HERO / PAGRINDINĖ ANTRAŠTĖ -->
+<section class=""hero-section"">
+    <h1>Profesionali reklamos gamyba ir skaitmeninė spauda Jūsų verslui</h1>
+    <p class=""hero-subtitle"">Nuo vienetinių projektų iki didelių tiražų. Aukščiausia kokybė, ilgaamžės medžiagos ir operatyvus vykdymas visoje Lietuvoje.</p>
+    <div class=""hero-buttons"">
+        <a href=""/spauda/"" class=""btn btn-primary"">Plačiaformatė spauda</a>
+        <a href=""/kartono-sprendimai-reklamai/"" class=""btn btn-secondary"">Kartono gaminiai ir pakuotės</a>
+    </div>
+</section>
+
+<!-- KODĖL VERTA RINKTIS MUS -->
+<section class=""features-section"">
+    <h2>Kodėl „Primum Print“?</h2>
+    <div class=""features-grid"">
+        <div class=""feature-box"">
+            <h3>Nuosava gamybos bazė</h3>
+            <p>Pažangios technologijos, tiesioginė UV spauda ir ekologiški sprendimai leidžia užtikrinti geriausią kainos ir kokybės santykį.</p>
+        </div>
+        <div class=""feature-box"">
+            <h3>Lankstumas ir greitis</h3>
+            <p>Priimame užsakymus jau nuo 1 vieneto bei efektyviai tvarkome didelius pramoninius tiražus ir nestandartinius projektus.</p>
+        </div>
+        <div class=""feature-box"">
+            <h3>ES finansuojama kokybė</h3>
+            <p>Modernizuota įranga pagal ES projektus garantuoja nepriekaištingą spaudos raišką ir ekologišką gamybą.</p>
+        </div>
+    </div>
+</section>
+
+<!-- PAGRINDINĖS PASLAUGŲ SRITYS (NADKATEGORIJOS) -->
+<section class=""categories-section"">
+    <h2>Mūsų pagrindinės paslaugos ir sprendimai</h2>
+    
+    <div class=""category-card"">
+        <h3><a href=""/spauda/"">Plačiaformatė spauda</a></h3>
+        <p>Viskas jūsų matomumui lauke ir patalpose: tvirti reklaminiai tentai, tiesioginė UV spauda ant plokščių paviršių, backlit plakatai šviesdėžėms, lipdukai bei informacinės lentelės.</p>
+        <ul class=""sub-links"">
+            <li><a href=""/tentai/"">Reklaminiai tentai</a></li>
+            <li><a href=""/uv-spauda/"">Tiesioginė UV spauda</a></li>
+            <li><a href=""/backlit/"">Backlit plakatai</a></li>
+            <li><a href=""/etiketes/"">Lipdukai ir etiketės</a></li>
+            <li><a href=""/drobes/"">Fotodrobės ir interjeras</a></li>
+            <li><a href=""/lenteles/"">Informacinės lentelės</a></li>
+        </ul>
+    </div>
+
+    <div class=""category-card"">
+        <h3><a href=""/kartono-sprendimai-reklamai/"">Kartono gaminiai ir pakuotės</a></h3>
+        <p>Tvarūs ir ekologiški sprendimai prekybos vietoms bei logistiktai: stabilios prekybinės ekspozicijos, stoveliai, proginės dėžutės ir pramoninė tara.</p>
+        <ul class=""sub-links"">
+            <li><a href=""/stovai/"">Reklaminiai ir prekybiniai stovai (FSDU)</a></li>
+            <li><a href=""/prekybiniai-stoveliai/"">Prekybiniai stoveliai ant prekystalio</a></li>
+            <li><a href=""/paletines-dekoracijos/"">Paletinės dekoracijos</a></li>
+            <li><a href=""/progines-dezutes/"">Proginės ir dovanų dėžutės</a></li>
+            <li><a href=""/dezes/"">Kartono dėžės ir pakuotės</a></li>
+        </ul>
+    </div>
+</section>
+
+<!-- SPECIALŪS / KITI SPRENDIMAI -->
+<section class=""special-section"">
+    <h3>Reikia nestandartinio sprendimo?</h3>
+    <p>Taip pat gaminame <a href=""/saugiam-verslui/"">apsaugines pertvaras verslui</a>, o mūsų vykdomi <a href=""/es-investicijos/"">ES finansuojami projektai</a> garantuoja technologinį patikimumą.</p>
+</section>
+
+<!-- CALL TO ACTION (CTA) -->
+<section class=""cta-section"">
+    <h2>Turite klausimų ar idėjos projektui?</h2>
+    <p>Susisiekite su mūsų komanda – aptarsime detales ir paruošime geriausią pasiūlymą.</p>
+    <a href=""/kontaktai/"" class=""btn btn-primary"">Susisiekti su mumis</a>
+</section>",,
 ,,,,,,,,,,,,,
 https://reklamai.lt/spauda/,spauda,Plačiaformatė spauda,Plačiaformatė spauda,Plačiaformatė spauda verslui ir reklamai | Primum Print,"Profesionali plačiaformatė spauda ant įvairių medžiagų. Susipažinkite su mūsų sprendimais: nuo tentų ir lipdukų iki UV spaudos bei fotodrobių. Patvarios medžiagos, nepriekaištinga kokybė, ryškios spalvos ir greitas pristatymas visoje Lietuvoje.","index, follow",list,20,,FALSE,"<p>Ieškote patikimų didelio formato spaudos ir pakuotės sprendimų savo verslui, biurui ar reklaminei kampanijai? Čia rasite visą mūsų siūlomą asortimentą – nuo lauko reklamos elementų iki išskirtinių interjero detalių ir kartono gaminių.</p>
 
@@ -282,12 +352,212 @@ https://reklamai.lt/dezes/,dezes,Kartono dėžių ir pakuočių gamyba,Dėžės 
 
 <p>Ieškote patikimo partnerio savo verslo logistikai ir norite aptarti gamybos sąlygas bei tiražus? <a href=""/kontaktai/"">Susisiekite su mumis</a> jau šiandien – padėsime rasti optimaliausius pakavimo sprendimus!</p>",,
 ,,,,,,,,,,,,,
-https://reklamai.lt/saugiam-verslui/,saugiam-verslui,Apsauginės pertvaros ir priemonės verslui,Apsauginės pertvaros,Apsauginės akrilo pertvaros | Primum Print | reklamai.lt,"Apsauginės pertvaros iš 5 mm skaidraus akrilo biurams, prekybos vietoms ir paslaugų sektoriui. Gamyba pagal užsakymą.","index, follow",page,90,,FALSE,,,
-https://reklamai.lt/es-investicijos/,es-investicijos,ES finansuojami projektai,ES investicijos,ES investicijos,UAB Primum įgyvendinti Europos Sąjungos struktūrinių fondų lėšomis finansuojami projektai.,"index, follow",page,90,,FALSE,,,
-https://reklamai.lt/covid-19-produktai/,covid-19-produktai,COVID-19 projektas,COVID-19,ES investicijos – COVID-19,"UAB Primum įgyvendintas projektas, skirtas apsauginių priemonių gamybai.","noindex, follow",page,90,,FALSE,,,
-https://reklamai.lt/kki-produktu-kurimas/,kki-produktu-kurimas,KKI produktų kūrimas,KKI,ES investicijos – KKI,Naujų kultūros ir kūrybinių sektorių produktų kūrimas UAB Primum.,"noindex, follow",page,90,,FALSE,,,
-https://reklamai.lt/e-komercijos-modelis-covid-19/,e-komercijos-modelis-covid-19,E. komercijos modelio diegimas,E. komercija,ES investicijos – E. komercija,E. komercijos modelio diegimas UAB Primum elektroniniam užsakymų valdymui.,"noindex, follow",page,90,,FALSE,,,
-https://reklamai.lt/eco-inovacijos-lt/,eco-inovacijos-lt,Eco-inovacijos LT,Eco-inovacijos,ES investicijos – Eco-inovacijos,Efektyvios ir aplinką tausojančios įrangos diegimas gamyboje.,"noindex, follow",page,90,,FALSE,,,
+https://reklamai.lt/saugiam-verslui/,saugiam-verslui,Apsauginės pertvaros ir priemonės verslui,Apsauginės pertvaros,Apsauginės akrilo pertvaros | Primum Print | reklamai.lt,"Apsauginės pertvaros iš 5 mm skaidraus akrilo biurams, prekybos vietoms ir paslaugų sektoriui. Gamyba pagal užsakymą.","index, follow",page,90,,FALSE,"<div class=""wp-block-media-text alignwide is-stacked-on-mobile"" style=""grid-template-columns:17% auto""><figure class=""wp-block-media-text__media""><img src=""https://reklamai.lt/wp-content/uploads/2021/12/Primum-covid-skydeliai-2-1024x1024.jpg"" alt="""" class=""wp-image-747 size-full""/></figure><div class=""wp-block-media-text__content""><p style=""font-size:18px"">Apsauginė pertvara su lenktais kraštais. Dėka tokios konstrukcijos ypač stabili. Pagaminta iš 5mm skaidraus akrilo. Tvirtinimas dvipusia lipnia juosta prie stalviršio. </p></div></div>
+
+<div class=""wp-block-media-text alignwide is-stacked-on-mobile"" style=""grid-template-columns:16% auto""><figure class=""wp-block-media-text__media""><img src=""https://reklamai.lt/wp-content/uploads/2021/12/Primum-print-covid-skydeliai-reklama-1-900x1024.jpg"" alt="""" class=""wp-image-695 size-full""/></figure><div class=""wp-block-media-text__content""><p style=""font-size:18px"">Apsauginė pertvara nuimamomis kojelėmis. Dėl tokios konstrukcijos, pertvaros maža pakuotė patogi transportvimui. Pagaminta iš 5 mm skaidraus akrilo. Specialus tvirtinimas nereikalingas, ji tiesiog pasistato. </p></div></div>
+
+<div class=""wp-block-media-text alignwide is-stacked-on-mobile"" style=""grid-template-columns:16% auto""><figure class=""wp-block-media-text__media""><img src=""https://reklamai.lt/wp-content/uploads/2021/12/Primum-print-skydeliai-1-900x1024.jpg"" alt="""" class=""wp-image-693 size-full""/></figure><div class=""wp-block-media-text__content""><p style=""font-size:18px"">Pakabinama pertvara. Pagaminta iš 5 mm skaidraus akrilo. Paruoštos dvi skylutės troseliui. Skirta tvirtinimui nuo lubų.</p></div></div>
+
+<div class=""wp-block-media-text alignwide is-stacked-on-mobile"" style=""grid-template-columns:16% auto""><figure class=""wp-block-media-text__media""><img src=""https://reklamai.lt/wp-content/uploads/2021/12/Primum-print-covid-skaidrus-veido-skydelis-kauke-saugiam-verslui.jpg"" alt="""" class=""wp-image-704 size-full""/></figure><div class=""wp-block-media-text__content""><p style=""font-size:18px"">Apsauginiai skydeliai, kurie yra daugkartinio naudojimo, universalaus dydžio ir lengvai dezinfekuojami. </p></div></div>
+
+<div style=""height:46px"" aria-hidden=""true"" class=""wp-block-spacer""></div>
+
+<p style=""font-size:18px"">Mūsų eshop: <a href=""https://primumprint.lt/"" target=""_blank"" rel=""noreferrer noopener""><strong>primumprint.lt</strong></a></p>
+
+<p style=""font-size:18px"">Taip pat mūsų gaminamus skydus galite įsigyti jums patogiame mieste pas partnerius:</p>
+
+<p><strong>Kaune</strong> <a href=""https://www.adgo.lt/skaidri-kasos-apsauga-atskyrimas/"" target=""_blank"" rel=""noreferrer noopener nofollow"">UAB ""White Line Styling""</a>, <a href=""https://adsystems.lt/kontaktai/"" target=""_blank"" rel=""noreferrer noopener nofollow"">UAB ""Reklamos sistemos""</a>, <a href=""http://bigudy.lt/kontaktai/?fbclid=IwAR1ocHFEE6CIN3ot1-RhaNb1Q4krhQEFiiyhAONMj4K39F3m2x0x2yUvIUg"" target=""_blank"" rel=""noreferrer noopener nofollow"">UAB ""BIGUDY""</a> </p>
+
+<p><strong>Vilniuje</strong> <a href=""https://www.vizpro.lt/saugiam-verslui/?fbclid=IwAR20JIHZ3TOCX4xuPKUwVliAx-1EDpJciOREp-Sd2IPzJo0QWFLAzECYaLw"" target=""_blank"" rel=""noreferrer noopener nofollow"">UAB ""Vizualiniai projektai""</a> </p>
+
+<p><strong>Šakiuose</strong> <a href=""https://www.virsmas.in/kontaktai?fbclid=IwAR2EVFbsqJhd7HE9Yz4neudphb7s9BU2DXdPRKwBHMLKJWFk35rJLbFA0r0"" target=""_blank"" rel=""noreferrer noopener nofollow"">MB ""Virsmas""</a></p>
+
+<p><strong>Šilutėje</strong> <a href=""https://www.reklamospriedai.lt/?fbclid=IwAR0Q0EpJAFQgH6L9T6kFJwhKJluVCnUTSNgPEpf2tul4zZjdyZmCfd_6a60#slide5"" target=""_blank"" rel=""noreferrer noopener nofollow"">UAB ""Reklamos priedai""</a></p>
+
+<div style=""height:40px"" aria-hidden=""true"" class=""wp-block-spacer""></div>
+
+<div class=""wp-block-buttons is-content-justification-center""><div class=""wp-block-button has-custom-font-size is-style-outline has-medium-font-size""><a class=""wp-block-button__link has-luminous-vivid-orange-color has-text-color no-border-radius"" href=""tel://+37060035828"">SKAMBINTI</a></div></div>",,
+https://reklamai.lt/es-investicijos/,es-investicijos,ES finansuojami projektai,ES investicijos,ES investicijos,UAB Primum įgyvendinti Europos Sąjungos struktūrinių fondų lėšomis finansuojami projektai.,"index, follow",page,90,,FALSE,"<p><strong>UAB „Primum“</strong> nuolat investuoja į technologinį atsinaujinimą, gamybos efektyvumą bei tvarius sprendimus. Įgyvendindama Europos Sąjungos struktūrinių fondų lėšomis finansuojamus projektus, įmonė sėkmingai modernizavo reklamos gamybos procesus, išplėtė ekologiškos produkcijos asortimentą ir pritaikė pažangius skaitmeninius įrankius.</p>
+
+<h3>Įgyvendinti ES finansuojami projektai ir jų rezultatai:</h3>
+
+<ul>
+    <li>
+        <strong><a href=""/eco-inovacijos-lt/"">Eco-inovacijos LT</a> („Efektyvios ir aplinką tausojančios įrangos diegimas“)</strong><br>
+        Įgyvendinant šį projektą buvo įsigyta nauja, aplinką tausojanti įranga, leidžianti sumažinti neigiamą poveikį aplinkai ir optimizuoti žaliavų sąnaudas. Tai tiesiogiai pagerino <a href=""/spauda/"">plačiaformatės spaudos</a>, <a href=""/tentai/"">reklaminių tentų</a>, <a href=""/stovai/"">reklaminių bei prekybinių stovų</a> bei <a href=""/etiketes/"">lipdukų ir etikečių</a> gamybos tikslumą bei kokybę.
+    </li>
+    <br>
+    <li>
+        <strong><a href=""/covid-19-produktai/"">COVID-19 projektas</a> („Skaidrių apsauginių veido skydelių ir pertvarų, skirtų kovoti su COVID-19, gamyba“)</strong><br>
+        Įsigijus specialią įrangą, įmonė pradėjo gaminti visuomenei ir verslui būtinas apsaugos priemones. Šios investicijos leido operatyviai pasiūlyti kokybiškas <a href=""/saugiam-verslui/"">apsaugines pertvaras iš akrilo</a> bei daugkartinius veido skydelius, prisidedant prie saugios aplinkos kūrimo biuruose ir prekybos vietose.
+    </li>
+    <br>
+    <li>
+        <strong><a href=""/kki-produktu-kurimas/"">KKI produktų kūrimas</a> („Naujos paslaugos sukūrimas reklamos gamyboje“)</strong><br>
+        Pagal kultūros ir kūrybinių industrijų sektoriaus plėtros priemonę įsigytas modernus spausdintuvas, naudojantis vandens pagrindu pagamintus rašalus. Tai užtikrina ekologiškai švarias technologijas spaudai ant pakuočių ir leido išplėsti tvariais <a href=""/kartono-sprendimai-reklamai/"">kartono gaminiais</a> bei <a href=""/progines-dezutes/"">proginėmis dėžutėmis</a> paremtų paslaugų asortimentą.
+    </li>
+    <br>
+    <li>
+        <strong><a href=""/e-komercijos-modelis-covid-19/"">E. komercijos modelio diegimas</a> („E. komercijos modelio diegimas UAB „Primum““)</strong><br>
+        Įgyvendinant projektą sukurtas pažangus elektroninis verslo sandorių valdymo įrankis. Jo dėka klientai gali patogiai pateikti užsakymus, pasirinkti reikiamas medžiagas bei <a href=""/uv-spauda/"">UV spaudos</a> ar <a href=""/backlit/"">backlit</a> technologijas, valdyti pristatymą ir atsiskaityti nuotoliniu būdu.
+    </li>
+</ul>
+
+<p>Šios ES struktūrinių fondų investicijos leido „Primum Print“ užtikrinti aukščiausią gaminių kokybę, sutrumpinti gamybos terminus ir pasiūlyti klientams konkurencingus bei tvarius reklamos sprendimus.</p>",,
+https://reklamai.lt/covid-19-produktai/,covid-19-produktai,COVID-19 projektas,COVID-19,ES investicijos – COVID-19,"UAB Primum įgyvendintas projektas, skirtas apsauginių priemonių gamybai.","noindex, follow",page,90,,FALSE,"<figure class=""wp-block-image""><img src=""https://reklamai.lt/wp-content/uploads/2021/02/ESFIVP-I-1-1024x512.jpg"" alt=""This image has an empty alt attribute; its file name is ESFIVP-I-1-1024x512.jpg""/></figure>
+
+
+
+<h4>UAB „Primum“&nbsp;įgyvendina Europos regioninės plėtros fondo lėšomis dalinai finansuojamą projektą „Skaidrių apsauginių veido skydelių ir pertvarų, skirtų kovoti su COVID-19, gamyba“</h4>
+
+
+
+<div class=""wp-block-group"">
+<p><strong><a href=""https://reklamai.lt/"">UAB „Primum“</a></strong>&nbsp;įkurta 2011 m. Įmonės vykdoma veikla – reklamos gaminių spaudos paslaugos. Įmonės tikslas – kiekvienam klientui pateikti jo individualius poreikius atitinkančius gaminius, užtikrinti aukštą gaminamos produkcijos kokybę už konkurencingą kainą. Gaminami produktai atitinka aukštus kokybės reikalavimus, taip pat klientų keliamus techninius, dizaino reikalavimus. Reklamos gaminių gamybinėje linijoje atliekami spaudos darbai naudojant skaitmeninės spaudos technologiją</p>
+
+
+
+<p>Vykdant projektą įmonė įsigys įrenginį, kurio pagalba įmonė gamins produktus, skirtus kovai su COVID-19 – apsaugines skaidrias veido kaukes ir pertvaras. Tikslinės grupės ir jų poreikiai – tiek fiziniai, tiek juridiniai asmenys, norintys apsisaugoti nuo COVID-19. Įmonėje iki šiol prekės, skirtos kovai su COVID19 nebuvo gamintos, nes&nbsp;<a href=""https://reklamai.lt/"">UAB Primum</a>&nbsp;neturėjo tam skirtos gamybinės įrangos. Įsigijus naują įrenginį pagerės ne tik įmonės produktyvumas ir konkurencingumas, tačiau prisidedama ir prie bendro visuomeninio tikslo – gaminami produktai padės kovoti su viruso plitimu.</p>
+
+
+
+<p>UAB „Primum“ Projektas įgyvendinamas pagal 2014–2020 m. Europos Sąjungos fondų investicijų veiksmų programos 13 prioriteto „ Veiksmų, skirtų COVID-19 pandemijos sukeltai krizei įveikti, skatinimas ir pasirengimas aplinką tausojančiam, skaitmeniniam ir tvariam ekonomikos atgaivinimui“ įgyvendinimo priemonę „COVID-19 produktai”, projekto numeris 13.1.1-LVPA-T-859-01-0020.</p>
+
+
+
+<p>Projekto tikslas – įrangos, skirtos gaminti produktus kovai su COVID-19, įsigijimas.</p>
+
+
+
+<p>Projektui įgyvendinti iš Europos regioninės plėtros fondo skirta &nbsp;141.575,18 Eur investicijų suma. Finansuojama kaip Europos Sąjungos atsako į COVID-19 pandemiją priemonė.</p>
+
+
+
+<p>Projekto įgyvendinimo trukmė 2 mėnesiai.</p>
+
+
+
+<p>Daugiau informacijos apie įmonę pateikiama internete&nbsp;<a href=""https://reklamai.lt/"">https://reklamai.lt/</a></p>
+</div>",,
+https://reklamai.lt/kki-produktu-kurimas/,kki-produktu-kurimas,KKI produktų kūrimas,KKI,ES investicijos – KKI,Naujų kultūros ir kūrybinių sektorių produktų kūrimas UAB Primum.,"noindex, follow",page,90,,FALSE,"<figure class=""wp-block-image size-full""><img src=""https://reklamai.lt/wp-content/uploads/2022/08/image.png"" alt=""UAB &quot;Primum Print&quot; pradeda projekto „Naujos paslaugos sukūrimas reklamos gamyboje“ įgyvendinimą"" class=""wp-image-973""/></figure>
+
+
+
+<h4><strong>Pradedamas įgyvendinti projektas „Naujos paslaugos sukūrimas reklamos gamyboje“</strong></h4>
+
+
+
+<p>2022 m. birželio 27&nbsp; d. LR kultūros ministro įsakymu Nr. ĮV-578 UAB „Primum“ projektui „<em>Naujos paslaugos sukūrimas reklamos gamyboje</em>“ skirtas 150 647,00 Eur finansavimas pagal priemonę „Paskatos kultūros ir kūrybinių industrijų sektoriui kurti konkurencingus kultūros produktus“.</p>
+
+
+
+<p>Projekto tikslas – naujų, aukštos pridėtinės vertės, konkurencingų kultūros ir kūrybinio turinio ir formos produktų kūrimas, investuojant į naujus konkurencingo skaitmeninio ir (arba) žiedinę ekonomiką skatinančio kultūros ir kūrybinio turinio ir formos produktus, paslaugas ar veiklos procesus&nbsp;</p>
+
+
+
+<p>Įgyvendindama šį projektą, UAB „Primum“ ketina įsigyti spausdintuvą, kuris naudoja vandens pagrindu pagamintus rašalus spaudai ant pakuočių. Tai užtikrins, kad įmonės gamybos procesuose bus taikomos ekologiškai švarios technologijos, sumažinančios sukuriamų teršalų kiekį.&nbsp;</p>
+
+
+
+<p>Projektas Nr. 13.1.1-LVPA-K-310-01-0309 „<em>Naujos paslaugos sukūrimas reklamos gamyboje</em>“ finansuojamas iš Europos regioninės plėtros fondo, kaip Europos Sąjungos atsako į COVID-19 pandemiją priemonė.</p>
+
+
+
+<p>Projekto įgyvendinimo trukmė – 8 mėn.&nbsp;</p>",,
+https://reklamai.lt/e-komercijos-modelis-covid-19/,e-komercijos-modelis-covid-19,E. komercijos modelio diegimas,E. komercija,ES investicijos – E. komercija,E. komercijos modelio diegimas UAB Primum elektroniniam užsakymų valdymui.,"noindex, follow",page,90,,FALSE,"<figure class=""wp-block-image""><img src=""https://reklamai.lt/wp-content/uploads/2021/02/ESFIVP-I-1-1024x512.jpg"" alt=""Pradedamas įgyvendinti projektas „E-komercijos modelio diegimas UAB „Primum““""/></figure>
+
+
+
+<h4>Pradedamas įgyvendinti projektas „E-komercijos modelio diegimas UAB „Primum““</h4>
+
+
+
+<div class=""wp-block-group"">
+<p>2022 m. sausio 28 d. LR ekonomikos ir inovacijų ministro įsakymu Nr. 4-160 UAB „Pimum“ projektui „E-komercijos modelio diegimas UAB „Primum““ skirtas 45 000,00 Eur finansavimas pagal priemonę „E-komercijos modelis COVID-19“.</p>
+
+
+
+<p>Projekto tikslas – informacinių technologijų verslo sandoriams valdyti elektroniniu būdu diegimas, siekiant padidinti pajamų augimą.</p>
+
+
+
+<p>Projekto įgyvendinimo metu bus sukurta sistema kurios pagalba klientai valdys savo užsakymą, matys pristatymo informaciją, galės pasirinkti spaudos būdą, medžiagas, apdirbimo būdą ir už paslaugas apmokėti nuotoliniu būdu.</p>
+
+
+
+<p>UAB „Primum“ vykdoma veikla – reklamos gaminių spaudos paslaugos.</p>
+
+
+
+<p>Projektas Nr. 13.1.1-LVPA-K-860-01-1063 „E-komercijos modelio diegimas UAB „Primum““ finansuojamas iš Europos regioninės plėtros fondo, kaip Europos Sąjungos atsako į COVID-19 pandemiją priemonė.</p>
+
+
+
+<p>Projekto įgyvendinimo trukmė: iki 2023 m. vasario 22 d.</p>
+</div>",,
+https://reklamai.lt/eco-inovacijos-lt/,eco-inovacijos-lt,Eco-inovacijos LT,Eco-inovacijos,ES investicijos – Eco-inovacijos,Efektyvios ir aplinką tausojančios įrangos diegimas gamyboje.,"noindex, follow",page,90,,FALSE,"<figure class=""wp-block-image""><img src=""https://reklamai.lt/wp-content/uploads/2021/02/ESFIVP-I-1-1024x512.jpg"" alt=""""/></figure>
+
+
+
+<h4><strong>UAB „Primum“</strong>&nbsp;įgyvendina Europos regioninės plėtros fondo lėšomis dalinai finansuojamą projektą „EFEKTYVIOS IR APLINKĄ TAUSOJANČIOS ĮRANGOS DIEGIMAS”</h4>
+
+
+
+<div class=""wp-block-group"">
+<p><a href=""https://reklamai.lt/kontaktai/""><strong>UAB „Primum“</strong></a>&nbsp;įkurta 2011 metais. Įmonės vykdoma veikla – reklamos gamybos paslaugos. Įmonės tikslas kiekvienam klientui pateikti jo&nbsp;<a href=""https://reklamai.lt/faq/"">individualius poreikius atitinkančius gaminius, užtikrinti aukštą gaminamos produkcijos kokybę už konkurencingą kainą.&nbsp;</a>Gaminama produkcija yra skirta vidaus rinkai. Gaminami produktai atitinka aukštus kokybės reikalavimus, taip pat klientų keliamus techninius, dizaino reikalavimus. Reklamos gaminių gamybinėje linijoje atliekami spaudos darbai naudojant skaitmeninės spaudos technologiją. Įmonė teikia platų spektrą reklamos gamybos paslaugų:</p>
+
+
+
+<p>1.&nbsp;<a href=""https://reklamai.lt/stovai/"">Reklaminių popieriaus ir kartono gaminių</a>&nbsp;gamybos paslaugos. Tai reklaminiai plakatai; kartono pakuotės; kartono stovai.</p>
+
+
+
+<p>2.&nbsp;<a href=""https://reklamai.lt/plakatai/"">Reklaminių PVC gaminių gamybos paslaugos.</a>&nbsp;Tai reklaminiai tentai; roll-up stendai; klijuojamos reklaminės plėvelės; didelio formato pakabinamos gairelės; Stadur reklaminės plokštės.<br>Naujai įsigyta įranga užtikrins šių projekto uždavinių sprendimą:</p>
+
+
+
+<p>– Ekologiškų, be žmogaus sveikatai pavojingų medžiagų, reklaminių gaminių gamyba;</p>
+
+
+
+<p>– Gamybos našumo, tikslumo ir efektyvumo padidinimas;</p>
+
+
+
+<p>–&nbsp;<a href=""https://reklamai.lt/placiaformate-spauda/#"">Reklamos gamini</a>ų kokybės pagerinimas;</p>
+
+
+
+<p>– Efektyvus resursų naudojimas;</p>
+
+
+
+<p>– Neigiamo reklamos gaminių gamybos poveikio aplinkai sumažinimas;</p>
+
+
+
+<p>–&nbsp;<a href=""https://reklamai.lt/placiaformate-spauda/"">Reklamos gaminių gamyboje</a>&nbsp;naudojamų pagrindinių ir pagalbinių medžiagų kiekių sumažinimas;</p>
+
+
+
+<p><a href=""https://reklamai.lt/""><strong>UAB „Primum“</strong></a>&nbsp;projektas įgyvendinamas pagal 2014–2020 m. Europos sąjungos struktūrinių fondų investicijų veiksmų programos 3 prioriteto „Smulkiojo ir vidutinio verslo konkurencingumo skatinimas“ priemonę Nr. 03.3.2- LVPA-K-837 „Eco-inovacijos LT+“ projekto numeris 03.3.2-LVPA-K-837-03-0063. Priemonės tikslas – išspręsti numatytus uždavinius ir pasiekti užsibrėžtą projekte numatytos veiklos, mažinančios kenksmingų medžiagų naudojimą, taip pat mažinančių žaliavų poreikį produkcijos vienetui.</p>
+
+
+
+<p><a href=""https://reklamai.lt/""><strong>UAB „Primum“</strong></a>&nbsp;įgyvendinamo projekto tikslas – technologinių ekoinovacijų diegimas įmonėje.</p>
+
+
+
+<p>Projektui įgyvendinti iš Europos Sąjungos struktūrinių fondų 83 925,00 Eur investicijų suma.</p>
+
+
+
+<p>Projekto veiklų įgyvendinimo pabaiga – 2022-03.</p>
+
+
+
+<p>Daugiau informacijos apie įmonę pateikiama&nbsp;<a href=""https://reklamai.lt/"">internete</a>.</p>
+</div>",,
 ,,,,,,,,,,,,,
 https://reklamai.lt/kontaktai/,kontaktai,Kontaktai ir rekvizitai,Kontaktai,Kontaktai | Primum Print | reklamai.lt | UAB Primum,"Susisiekite su Primum Print komanda. Teikiame technines konsultacijas. Peržiūrėkite mūsų adresą, telefonus, darbo laiką ir susisiekite su vadybininku.","index, follow",page,80,,FALSE,{{< contactbox >}},,
 https://reklamai.lt/apie-uab-primum/,apie-uab-primum,Apie Primum Print,Apie Primum Print,Apie UAB PRIMUM | reklamai.lt,"Naudodami pažangias technologijas, profesionaliai atliekame įvairių formatų spaudos darbus. Užtikriname aukštą produktų kokybę, patrauklią kainą ir tikslų užsakymų įvykdymą laiku.","index, follow",page,81,,FALSE,"<p>UAB „Primum“ įkurta 2011 metais. Pagrindinė įmonės veiklos sritis – profesionalios reklamos gamybos ir skaitmeninės spaudos paslaugos, orientuotos į verslo klientų poreikius.</p>

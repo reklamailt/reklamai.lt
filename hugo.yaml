@@ -8,3 +8,76 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
+# Pozostawiamy menu główne bez zmian
+menus:
+  main:
+    - name: "Plačiaformatė spauda"
+      url: "/spauda/"
+      weight: 10
+    - name: "Backlit plakatai"
+      url: "/backlit/"
+      parent: "Plačiaformatė spauda"
+      weight: 10
+    - name: "UV spauda"
+      url: "/uv-spauda/"
+      parent: "Plačiaformatė spauda"
+      weight: 20
+    - name: "Kartono gaminiai"
+      url: "/kartono-sprendimai-reklamai/"
+      weight: 20
+    - name: "Stovai"
+      url: "/stovai/"
+      parent: "Kartono gaminiai"
+      weight: 10
+    - name: "Stoveliai"
+      url: "/prekybiniai-stoveliai/"
+      parent: "Kartono gaminiai"
+      weight: 20
+    - name: "Fotodrobės"
+      url: "/drobes/"
+      parent: "Plačiaformatė spauda"
+      weight: 30
+    - name: "Paletinės dekoracijos"
+      url: "/paletines-dekoracijos/"
+      parent: "Kartono gaminiai"
+      weight: 30
+    - name: "Tentai"
+      url: "/tentai/"
+      parent: "Plačiaformatė spauda"
+      weight: 40
+    - name: "Proginės dėžutės"
+      url: "/progines-dezutes/"
+      parent: "Kartono gaminiai"
+      weight: 40
+    - name: "Etiketės ir lipdukai"
+      url: "/etiketes/"
+      parent: "Plačiaformatė spauda"
+      weight: 50
+    - name: "Dėžės ir pakuotės"
+      url: "/dezes/"
+      parent: "Kartono gaminiai"
+      weight: 50
+    - name: "Lentelės ir ženklai"
+      url: "/lenteles/"
+      parent: "Plačiaformatė spauda"
+      weight: 60
+    - name: "Kontaktai"
+      url: "/kontaktai/"
+      weight: 80
+
+# W ten sposób motyw Blowfish wczytuje stopkę natywnie
+params:
+  footerLinks:
+    - name: "Plačiaformatė spauda"
+      url: "/spauda/"
+    - name: "Kliento sritis"
+      url: "http://primumprint.reklamai.lt"
+    - name: "ES finansuojami projektai"
+      url: "https://reklamai.lt/es-investicijos/"
+    - name: "Apie Primum Print"
+      url: "/apie-uab-primum/"
+    - name: "Kontaktai"
+      url: "/kontaktai/"
+    - name: "Apsauginės pertvaros"
+      url: "/saugiam-verslui/"
