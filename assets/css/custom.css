@@ -1,0 +1,35 @@
+/* 1. Wyrównanie treści i nagłówków do lewej */
+.prose,
+.prose h1, .prose h2, .prose h3, .prose p, .prose ul,
+main h1, 
+article header h1 {
+  text-align: left !important;
+  margin-left: 0 !important;
+  margin-right: auto !important;
+}
+
+/* 2. Wyrównanie kontenerów głównych do lewej */
+main .flex.flex-col.items-center,
+article header {
+  align-items: flex-start !important;
+  text-align: left !important;
+}
+
+/* 3. Usunięcie zbędnych kropek pod nagłówkiem */
+article header .flex.items-center span:empty,
+article header .flex.items-center .opacity-50,
+article header .flex.items-center > span:not(:last-child):after,
+.relative header span.text-neutral-400 {
+  display: none !important;
+}
+
+/* 4. Usunięcie dolnej nawigacji i odnośników tekstowych */
+article nav,
+.article-pagination,
+nav.flex.flex-row.justify-between,
+div.flex.flex-row.justify-between.pt-12,
+article + div.flex,
+article footer,
+.flex.justify-between.text-neutral-500 {
+  display: none !important;
+}
