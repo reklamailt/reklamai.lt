@@ -1,32 +1,312 @@
-URL (Canonical / Link),slug,H1,meta_title,meta_description,robots,layout,weight,image,draft
-https://reklamai.lt/,,Reklamos gamyba ir skaitmeninė spauda,Reklamos gamyba ir skaitmeninė spauda | Primum Print | reklamai.lt,"Primum Print – reklamos gamybos ir skaitmeninės spaudos paslaugų įmonė, teikianti plačiaformatės spaudos bei kartono gaminių sprendimus.","index, follow",home,10,,FALSE
-,,,,,,,,,
-https://reklamai.lt/spauda/,spauda,Plačiaformatė spauda,Plačiaformatė spauda verslui | Primum Print | reklamai.lt,"Plačiaformatė spauda. Patvarios medžiagos, nepriekaištinga kokybė, ryškios spalvos ir greitas pristatymas visoje Lietuvoje.","index, follow",list,20,,FALSE
-https://reklamai.lt/backlit/,backlit,Backlit plakatai šviesdėžėms,Backlit plakatai šviesdėžėms | Primum Print | reklamai.lt,"Specialūs backlit plakatai šviesdėžėms ir reklaminiams kasetonams. Tolygus šviesos pralaidumas, sodrios spalvos ir ilgaamžės medžiagos įvairiems formatams.","index, follow",page,10,,FALSE
-https://reklamai.lt/uv-spauda/,uv-spauda,Tiesioginė UV spauda,Tiesioginė UV spauda | Primum Print | reklamai.lt,"Tiesioginė plokščiaatspaudė (flatbed) UV spauda ant medžio, stiklo, plastiko ir metalo. Nepriekaištinga raiška ir atsparumas įbrėžimams.","index, follow",page,20,,FALSE
-https://reklamai.lt/drobes/,drobes,Fotodrobių spausdinimas,Fotodrobių spausdinimas | Primum Print | reklamai.lt,"Fotodrobių gamyba verslui ir interjerui. Aukščiausia spaudos raiška, natūralios tekstūros, sodrios spalvos ir individualūs matmenys.","index, follow",page,30,,FALSE
-https://reklamai.lt/tentai/,tentai,Reklaminių tentų gamyba,Reklaminių tentų gamyba | Primum Print | reklamai.lt,"Reklaminių tentų gamyba lauko reklamai. Visiems oro sąlygoms atsparios medžiagos, sutvirtinti kraštai, metalinės kilpos (liuvesiai), ilgaamžė spauda.","index, follow",page,40,,FALSE
-https://reklamai.lt/etiketes/,etiketes,Lipdukų ir etikečių gamyba,Lipdukų ir etikečių gamyba | Primum Print | reklamai.lt,"Aukščiausios kokybės lipdukai ir etiketės. Itin stiprūs, drėgmei ir UV spinduliams atsparūs klijai, nepriekaištinga spaudos raiška bei gamyba pagal individualius poreikius.","index, follow",page,50,,FALSE
-https://reklamai.lt/iskabos-sviesdezes/,iskabos-sviesdezes,Reklaminių iškabų ir šviesdėžių gamyba,Reklaminės iškabos ir šviesdėžės | Primum Print | reklamai.lt,"Reklaminių iškabų ir šviesdėžių gamyba verslui. Ilgaamžiai apšvietimo sprendimai, ryškus matomumas.","index, follow",page,,,TRUE
-https://reklamai.lt/lenteles/,lenteles,Informacinių lentelių ir ženklų gamyba,Informacinių lentelių gamyba | Primum Print | reklamai.lt,"Gamybinių lentelių, informacinių ženklų ir nuorodų gamyba. Mechaninis atsparumas, aiškus matomumas, ilgaamžės plastiko bei metalo medžiagos ir individualūs sprendimai.","index, follow",page,60,,FALSE
-,,,,,,,,,
-https://reklamai.lt/kartono-sprendimai-reklamai/,Kartono-sprendimai-reklamai,Kartono gaminiai reklamai ir pakuotės,Kartono gaminiai reklamai | Primum Print | reklamai.lt,"Kartono gaminiai reklamai ir pakuotės verslui. Individualūs projektai, ekologiškos medžiaga, ilgaamžė spauda ir tikslus gamybos terminas.","index, follow",list,20,,FALSE
-https://reklamai.lt/stovai/,stovai,Reklaminių ir prekybinių stovų gamyba,"Reklaminiai, prekybiniai stovai | Primum Print | reklamai.lt","Reklaminių ir prekybinių stovų iš kartono gamyba. Individualios konstrukcijos, stabilios medžiagos, aukštos kokybės spauda ir greitas realizavimo terminas.","index, follow",page,10,,FALSE
-https://reklamai.lt/prekybiniai-stoveliai/,prekybiniai-stoveliai,"Prekybiniai stoveliai, prekių laikikliai iš kartono",Prekybiniai stoveliai iš kartono | Primum Print | reklamai.lt,"Praktiški stoveliai prekybai, reklamai, meniu ir kainoms. Gaminame pagal užsakymą, pritaikome Jūsų prekės ženklui ir greitai pristatome visoje šalyje.","index, follow",page,20,,FALSE
-https://reklamai.lt/paletines-dekoracijos/,paletines-dekoracijos,Paletinių dekoracijų ir apjuosimų gamyba,"
+URL (Canonical / Link),slug,H1,menu_title,meta_title,meta_description,robots,layout,weight,image,draft,content,,
+https://reklamai.lt/,,Reklamos gamyba ir skaitmeninė spauda,,Reklamos gamyba ir skaitmeninė spauda | Primum Print | reklamai.lt,"Primum Print – reklamos gamybos ir skaitmeninės spaudos paslaugų įmonė, teikianti plačiaformatės spaudos bei kartono gaminių sprendimus.","index, follow",home,10,,FALSE,,,
+,,,,,,,,,,,,,
+https://reklamai.lt/spauda/,spauda,Plačiaformatė spauda,Plačiaformatė spauda,Plačiaformatė spauda verslui ir reklamai | Primum Print,"Profesionali plačiaformatė spauda ant įvairių medžiagų. Susipažinkite su mūsų sprendimais: nuo tentų ir lipdukų iki UV spaudos bei fotodrobių. Patvarios medžiagos, nepriekaištinga kokybė, ryškios spalvos ir greitas pristatymas visoje Lietuvoje.","index, follow",list,20,,FALSE,"<p>Ieškote patikimų didelio formato spaudos sprendimų savo verslui, biurui ar reklaminei kampanijai? Čia rasite visą mūsų siūlomą asortimentą – nuo lauko reklamos elementų iki išskirtinių interjero detalių ir pakuočių.</p>
+
+<p>Kiekviena produktų kategorija pritaikyta individualiems poreikiams, užtikrinant ilgaamžiškumą, ryškias spalvas ir atsparumą aplinkos poveikiui.</p>
+
+<h3>Mūsų paslaugos ir sprendimai:</h3>
+<ul>
+    <li><strong>Lauko reklama:</strong> <a href=""/tentai/"">Reklaminiai tentai</a> – tvirti, atsparūs oro sąlygoms sprendimai su metalinėmis kilpomis.</li>
+    <li><strong>Spauda ant plokščių ir kietų paviršių:</strong> <a href=""/uv-spauda/"">Tiesioginė UV spauda</a> ant medžio, stiklo, plastiko ar metalo.</li>
+    <li><strong>Apšviečiami elementai:</strong> <a href=""/backlit/"">Backlit plakatai</a> šviesdėžėms ir reklaminiams kasetonams.</li>
+    <li><strong>Lipdukai ir ženklinimas:</strong> <a href=""/etiketes/"">Lipdukai bei etiketės</a> su stipriais, drėgmei ir UV spinduliams atspariais klijais.</li>
+    <li><strong>Interjeras ir dekoras:</strong> <a href=""/drobes/"">Fotodrobių spausdinimas</a> namams, biurui ar prezentacijoms.</li>
+    <li><strong>Informacinės sistemos:</strong> <a href=""/lenteles/"">Informacinės lentelės ir ženklai</a> su mechaniniu atsparumu.</li>
+</ul>
+
+<p>Jei turite nestandartinį projektą ar nežinote, kuri technologija geriausiai tinka Jūsų idėjai, <a href=""/kontaktai/"">susisiekite su mūsų komanda</a> – padėsime pasirinkti optimaliausią variantą.</p>",,
+https://reklamai.lt/backlit/,backlit,Backlit plakatai šviesdėžėms,Backlit plakatai,Backlit plakatai šviesdėžėms | Primum Print | reklamai.lt,"Specialūs backlit plakatai šviesdėžėms ir reklaminiams kasetonams. Tolygus šviesos pralaidumas, sodrios spalvos ir ilgaamžės medžiagos įvairiems formatams.","index, follow",page,10,,FALSE,"<p><strong>BACKLIT plakatas su spauda</strong> – tai speciali, šviesai pralaidi (translucentinė) medžiaga, skirta naudoti šviesdėžėse, LED rėmeliuose, informaciniuose stenduose bei visose vidinį apšvietimą turinčiose konstrukcijose. Specialus medžiagos sluoksnis užtikrina tolygų šviesos sklaidą, todėl visas reklamos plotas atrodo ryškus, kontrastingas ir pastebimas.</p>
+
+<p>Tai praktiškas pasirinkimas vidaus bei lauko šviečiančiai reklamai parduotuvėse, prekybos centruose, kavinėse, restoranuose, kino teatruose ar parodose.</p>
+
+<h3>Pagrindinės backlit spaudos savybės ir privalumai:</h3>
+<ul>
+    <li><strong>Puikus šviesos pralaidumas:</strong> Tolygiai paskirsto šviesą nuo galinio apšvietimo (LED ar lempų), pašalindamas neestetiškus šviesos taškus.</li>
+    <li><strong>Gilios ir sodrios spalvos:</strong> Grafika išlieka itin ryški ir išraiškinga tiek dieną, tiek sutemus.</li>
+    <li><strong>Matmenų stabilumas ir atsparumas:</strong> Medžiaga atspari drėgmei, temperatūros svyravimams bei šviesos šaltinių generuojamai šilumai, kas užtikrina ilgaamžiškumą šviesdėžėse ir citylight stenduose.</li>
+    <li><strong>Įvairūs sprendimai:</strong> Galime pasiūlyti ir specifines parinktis – nuo klasikinės spaudos iki backlit tekstilių spaudos (šviesdėžėms, vitrinoms ar įtempiamoms luboms), atliekant profesionalų apdirbimą pagal Jūsų nurodytą formą ir tvirtinimo būdą.</li>
+</ul>
+
+<h3>Lankstus užsakymų vykdymas ir pristatymas</h3>
+<p>Priimame užsakymus spaustuvėje tiek dideliais tiražais, pasiūlydami patrauklias nuolaidas, tiek gaminame vienetinius projektus – <strong>nuo 1 egzemplioriaus</strong>. Gamyba atliekama pateikus techniškai tvarkingą maketą.</p>
+
+<p>Užsakymus galite atsiimti mūsų gamyboje Kaune arba pasirinkti patogų pristatymą kurjeriu visoje Lietuvoje. Jei ieškote patikimo partnerio savo šviečiančios reklamos projektams, <a href=""/kontaktai/"">susisiekite su Primum Print</a> – aptarsime Jūsų užsakymo detales.</p>",,
+https://reklamai.lt/uv-spauda/,uv-spauda,Tiesioginė UV spauda,UV spauda,Tiesioginė UV spauda | Primum Print | reklamai.lt,"Tiesioginė plokščiaatspaudė (flatbed) UV spauda ant medžio, stiklo, plastiko ir metalo. Nepriekaištinga raiška ir atsparumas įbrėžimams.","index, follow",page,20,,FALSE,"<p><strong>Tiesioginė UV spauda</strong> (plokščiaatspaudis arba flatbed spausdinimas) – tai pažangi technologija ir technika, kuomet atspaudas daromas tiesiai ant pasirinkto paviršiaus specialiais skystais polimeriniais dažais. UV šviesos (ultravioletinių lempų) pagalba dažai akimirksniu sukietinami, todėl paviršius iškart tampa sausas, nereikalauja papildomo apsauginio lako ar laminavimo ir yra visiškai paruoštas naudojimui.</p>
+
+<p>Šis metodas užtikrina išskirtinę fotografinę kokybę, nepriekaištingą detalių atkūrimą bei ekologiškumą – naudojami polimeriniai dažai neišskiria kenksmingų medžiagų ir yra saugūs aplinkai.</p>
+
+<h3>Technologiniai privalumai ir ilgaamžiškumas</h3>
+<ul>
+    <li><strong>Momentinis paruošimas:</strong> Nereikia laukti, kol dažai išdžius, kas ženkliai pagreitina gamybos procesus.</li>
+    <li><strong>Atsparumas aplinkos veiksniams:</strong> Polimerinis sluoksnis saugo spaudą nuo blukimo, mechaninio trynimo, drėgmės bei temperatūros svyravimų, todėl sprendimas puikiai tinka tiek vidaus erdvėms, tiek lauko reklamai.</li>
+    <li><strong>Balta spalva ir skaidrumas:</strong> Galimybė spausdinti balta spalva (CMYK + balta) bei valdyti skaidrumus atveria neribotas dizaino galimybes ant tamsių ar skaidrių paviršių.</li>
+    <li><strong>Gruntavimas (primer):</strong> Sudėtingesniems paviršiams naudojamas automatinis gruntavimas tiesiog prieš spaudą, užtikrinantis maksimalų sukibimą.</li>
+</ul>
+
+<h3>Galimi spaudos pagrindai ir medžiagos</h3>
+<p>Dėl modernių plokščiųjų (flatbed) ir ruloninių ploterių galime spausdinti ant itin plačios standžių bei lanksčių medžiagų paletės, kurių storis siekia iki 100 mm (maksimalus stalo plotas iki 2,80 m x 3,20 m):</p>
+<ul>
+    <li><strong>Plastikai ir kompozitai:</strong> Pleksi (akrilas), PVC, PET, dibondo (aliuminio kompozito) plokštės.</li>
+    <li><strong>Interjero ir baldų elementai:</strong> Stiklas, keramika, baldų plokštės, medis, fanera, MDF, metalas.</li>
+    <li><strong>Tekstilė ir ruloniniai gaminiai:</strong> Drobė (canvas), skajus, natūralios bei sintetinės medžiagos iš rulono.</li>
+</ul>
+
+<p>UV spauda plačiai naudojama reklaminėms iškaboms, stendams, reprezentacinėms plokštėms, interjero dekoravimui bei originaliems nestandartiniams gaminiams kurti. Platesnį spaudos paslaugų spektrą galite apžvelgti bendroje <a href=""/spauda/"">plačiaformatės spaudos apžvalgoje</a>.</p>
+
+<p>Jeigu turite specifinį projektą ar norite sužinoti geriausią gamybos būdą savo idėjai, <a href=""/kontaktai/"">susisiekite su Primum Print komanda</a> – padėsime įgyvendinti net pačius originaliausius sumanymus.</p>",,
+https://reklamai.lt/drobes/,drobes,Fotodrobių spausdinimas,Fotodrobės,Fotodrobių spausdinimas | Primum Print | reklamai.lt,"Fotodrobių gamyba verslui ir interjerui. Aukščiausia spaudos raiška, natūralios tekstūros, sodrios spalvos ir individualūs matmenys.","index, follow",page,35,,FALSE,"<p>Individualaus dizaino fototapetai ir spaustuviniai tapetai – tai efektyvus, stilingas ir ilgaamžis būdas greitai pakeisti bet kurio interjero išvaizdą. Tinkamai parinkta ir kokybiškai atspausdinta grafika tampa stipriu akcentu, kuris kuria išskirtinę atmosferą biuruose, parduotuvėse, restoranuose, viešosiose erdvėse ar edukacinėse įstaigose bei stiprina prekės ženklo įvaizdį.</p>
+
+<h3>Pritaikymo galimybės ir sprendimai</h3>
+<p>Modernios spaudos technologijos leidžia neribotai eksperimentuoti su vizualiniu įvaizdziu:</p>
+<ul>
+    <li><strong>Įmonėms ir biurams:</strong> Įmonės logotipas, firminės spalvos, gaminio grafika ar įkvepiantys peizažai padeda palaikyti vieningą vizualinį stilių (brand identity) ir sukuria profesionalią aplinką darbuotojams bei klientams.</li>
+    <li><strong>Restoranams ir viešbučiams:</strong> Unikalios tekstūros, meninės kompozicijos ar kulinariniai motyvai formuoja išskirtinę erdvės nuotaiką ir įsimena lankytojams.</li>
+    <li><strong>Mokykloms ir vaikų darželiams:</strong> Draugiški, kūrybiškumą skatinantys motyvai kuria įkvepiančią, saugią bei šiltą atmosferą ugdymo įstaigose.</li>
+</ul>
+
+<h3>Medžiagų tipai ir spaudos technologijos</h3>
+<p>Gamyboje naudojame patikimus, laiko patikrintus spaudos pagrindus bei saugias medžiagas:</p>
+<ul>
+    <li><strong>Medžiagų pasirinkimas:</strong> Siūlome lateksinį popierių, flizelino (fleece) pagrindą bei neaustines tekstūrines medžiagas. Papildomai galima padengti matiniu laminatu, kuris apsaugo nuo subraižymų ir nusidėvėjimo.</li>
+    <li><strong>Paviršiaus struktūros:</strong> Galimos įvairios tekstūros – smėlio (sand) imitacija, drobės (canvas) pynimas arba lygi matinė (smooth) danga be blizgesio.</li>
+    <li><strong>Lateksinė spauda:</strong> Naudojami ekologiški, bekvapiai dažai, kurių sudėtyje nėra toksiškų medžiagų. Metodas užtikrina išraiškingas, sodrias spalvas ir didelį atsparumą blukimui nuo saulės spindulių.</li>
+</ul>
+
+<h3>Pagrindiniai fototapetų privalumai</h3>
+<ul>
+    <li><strong>Estetika ir išskirtinumas:</strong> Galimybė sukurti vientisą koliažą iš kelių kliento nuotraukų arba parinkti profesionalią grafiką iš vizualinių bankų.</li>
+    <li><strong>Ilgaamžiškumas:</strong> Atsparumas blukimui, drėgmei ir mechaniniam poveikiui užtikrina nepriekaištingą išvaizdą ilgam laikui.</li>
+    <li><strong>Lankstumas:</strong> Gaminame pagal individualius matmenis ir poreikius – nuo nedidelių plotų iki didelės apimties sienų dekoravimo projektų.</li>
+</ul>
+
+<p>Jei norite atnaujinti interjerą ar ieškote nestandartinio sprendimo savo verslo erdvei, <a href=""/kontaktai/"">susisiekite su Primum Print biuru</a> – padėsime pasirinkti tinkamiausią medžiagą ir įgyvendinti sumanymą.</p>",,
+https://reklamai.lt/tentai/,tentai,Reklaminių tentų gamyba,Tentai,Reklaminių tentų gamyba | Primum Print | reklamai.lt,"Reklaminių tentų gamyba lauko reklamai. Visiems oro sąlygoms atsparios medžiagos, sutvirtinti kraštai, metalinės kilpos (liuvesiai), ilgaamžė spauda.","index, follow",page,40,,FALSE,"<p><strong>Reklaminiai tentai</strong> – tai viena efektyviausių, ekonomiškiausių ir universaliausių lauko bei vidaus reklamos priemonių, užtikrinanti puikų matomumą nedidelėmis sąnaudomis. Šis sprendimas plačiai naudojamas ant pastatų fasadų, statybviečių tvorų, renginių atitvarų, parodų stendų ar transporto priemonių šonų.</p>
+
+<p>Gamyboje naudojame patikimas, drėgmei, UV spinduliams ir temperatūros svyravimams atsparias medžiagas. Vientisas tentas gali būti spausdinamas iki 2,5 m pločio, o didesnio formato projektai profesionaliai sujungiami iš kelių dalių, išlaikant vientisą bei estetišką vaizdą.</p>
+
+<h3>Medžiagų tipai ir konstrukciniai sprendimai</h3>
+<p>Priklausomai nuo pask</i>irties ir montavimo vietos, siūlome kelis patikimus audinių tipus:</p>
+<ul>
+    <li><strong>Lietas PVC tentas (Frontlit):</strong> Ypač tvirtas ir atporus mechaniniam poveikiui audinys, skirtas didesniems plotams arba ilgalaikei ekspozicijai lauko sąlygomis.</li>
+    <li><strong>Laminuotas PVC tentas:</strong> Optimalus, ekonomiškas pasirinkimas trumpesnio laikotarpio ar vidaus projektams.</li>
+    <li><strong>Mesh (perforuotas tinklelis):</strong> Tinklelio struktūros medžiagėla, praleidžianti vėją, todėl idealiai tinka didelėms reklamoms ant vėjuotų fasadų, statybviečių ar tvorų, sumažinant vėjo pasipriešinimą.</li>
+    <li><strong>Reflektiniai ir specialūs tentai:</strong> Atspindintys šviesą audiniai, užtikrinantys matomumą tamsiu paros metu.</li>
+</ul>
+
+<h3>Kokybiškas apdirbimas ir tvirtinimas</h3>
+<p>Kiekvienas tentas gaminamas pagal individualų užsakymą, užtikrinant profesionalų techninį paruošimą:</p>
+<ul>
+    <li><strong>Kraštų stiprinimas:</strong> Kraštai užlenkiami ir suvirinami, kad būtų išvengta plyšimų ir užtikrintas konstrukcijos stabilumas.</li>
+    <li><strong>Metaliniai žiedai (liuvesiai):</strong> Montavimo kilpos kalami standartiškai kas 30 cm, užtikrinant tolygų tento įtempimą lynais ar dirželiais.</li>
+    <li><strong>Paprasta priežiūra:</strong> Paviršiu pakanka nuplauti vandeniu, nenaudojant agresyvių cheminių valiklių.</li>
+</ul>
+
+<p>Plačiaformatė spauda leidžia pasiekti ryškias, sodrias spalvas ir puikų detalių atkūrimą. Daugiau informacijos apie taikomas technologijas rasite mūsų <a href=""/spauda/"">plačiaformatės spaudos skyriuje</a>.</p>
+
+<p>Priimame užsakymus tiek vienetiniams projektams, tiek dideliems tiražams. Jei norite užsisakyti reklaminius tentus ar pasitarti dėl tinkamiausios medžiagos pasirinkimo, <a href=""/kontaktai/"">susisiekite su Primum Print komanda</a> – padėsime rasti geriausią sprendimą Jūsų verslui.</p>",,
+https://reklamai.lt/etiketes/,etiketes,Lipdukų ir etikečių gamyba,Etiketės ir lipdukai,Lipdukų ir etikečių gamyba | Primum Print | reklamai.lt,"Aukščiausios kokybės lipdukai ir etiketės. Itin stiprūs, drėgmei ir UV spinduliams atsparūs klijai, nepriekaištinga spaudos raiška bei gamyba pagal individualius poreikius.","index, follow",page,50,,FALSE,"<p><strong>Lipdukai ir lipnios etiketės</strong> – tai esminis prekių ženklo elementas, naudojamas produkcijos žymėjimui, pakuočių apdailai, informciniams tikslams ir efektyviai lauko ir vidaus reklamai. Kokybiškai pagaminta etiketė ne tik suteikia visą reikalingą techninę informaciją, bet ir formuoja profesionalų įmonės įvaizdį bei patraukliai pristato produktą pirkėjui.</p>
+
+<p>Gamyboje taikome pažangias spaudos technologijas, leidžiančias operatyviai įgyvendinti tiek nedidelius vienetinius užsakymus, tiek didelius pramoninius tiražus.</p>
+
+<h3>Medžiagų pasirinkimas ir technologiniai sprendimai</h3>
+<p>Priklausomai nuo gaminio paskirties ir naudojimo sąlygų, siūlome platų patikimų medžiagų ir apdirbimo būdų spektrą:</p>
+<ul>
+    <li><strong>Lipdukai ant folijos (solventinė ir UV spauda):</strong> Atsparūs drėgmei, temperatūros svyravimams bei UV spinduliams. Idealiai tinka lauko sąlygoms, vitrinoms, automobiliams ar techniniams įrenginiams.</li>
+    <li><strong>Popierinės etiketės (skaitmeninė spauda):</strong> Ekonomiškas pasirinkimas maisto produktams, kosmetikai, dėžėms ir pakuotėms. Galimas blizgus arba matinis padengimas.</li>
+    <li><strong>Etiketės ant ritinių:</strong> Optimizuotas sprendimas gamybiniam pakavimui, kosmetikos, maisto bei logistikos pramonei.</li>
+    <li><strong>Specialūs efektai ir apsauga:</strong> Galimybė padengti etiketes apsauginiu laminatu, naudoti skaidrią foliją, metalizuotus elementus ar tūrines 3D (doming) etiketes su dervos sluoksniu.</li>
+</ul>
+
+<h3>Pritaikymo sritys</h3>
+<p>Mūsų gaminami lipdukai ir etiketės pritaikomi įvairiuose sektoriuose:</p>
+<ul>
+    <li><strong>Pramonė ir e-komercija:</strong> Produktų pakuotės, stiklainiai, buteliai, siuntų žymėjimas ir logistikos etiketės.</li>
+    <li><strong>Paslaugos ir prekyba:</strong> Vitrinų dekoravimas, inventoriaus žymėjimo lentelės, informaciniai bei įspėjamieji ženklai.</li>
+    <li><strong>Namai ir biuras:</strong> Dokumentų archyvavimas, asmeninių daiktų ar taros organizavimas.</li>
+</ul>
+
+<p>Kiekvienas užsakymas vertinamas individualiai – parenkamas optimalus išskirtinis formos iškirtimas po obrysą (ploterinis pjaustymas), klijų stiprumas bei apdaila. Daugiau bendrųjų spaudos galimybių galite rasti mūsų <a href=""/spauda/"">plačiaformatės spaudos skiltyje</a>.</p>
+
+<p>Jei norite užsisakyti lipdukus ar etiketes savo verslui arba turite specifinį projektą, <a href=""/kontaktai/"">susisiekite su Primum Print komanda</a> – padėsime parinkti geriausias medžiagas ir paruošime tikslią gamybos sąmatą.</p>",,
+https://reklamai.lt/iskabos-sviesdezes/,iskabos-sviesdezes,Reklaminių iškabų ir šviesdėžių gamyba,Iškabos ir šviesdėžės,Reklaminės iškabos ir šviesdėžės | Primum Print | reklamai.lt,"Reklaminių iškabų ir šviesdėžių gamyba verslui. Ilgaamžiai apšvietimo sprendimai, ryškus matomumas.","index, follow",page,,,TRUE,,,
+https://reklamai.lt/lenteles/,lenteles,Informacinių lentelių ir ženklų gamyba,Lentelės ir ženklai,Informacinių lentelių gamyba | Primum Print | reklamai.lt,"Gamybinių lentelių, informacinių ženklų ir nuorodų gamyba. Mechaninis atsparumas, aiškus matomumas, ilgaamžės plastiko bei metalo medžiagos ir individualūs sprendimai.","index, follow",page,60,,FALSE,"<p><strong>Informacinės lentelės ir ženklai </strong> – tai esminiai reprezentaciniai, orientaciniai bei komunikaciniai elementai, užtikrinantys aiškią tvarką biuruose, įstaigose, gamybinėse patmonėse, gydymo įstaigose bei viešosiose erdvėse. Profesionaliai pagaminta lentelė padeda lankytojams orientuotis aplinkoje ir formuoja solidų įmonės įvaizdį.</p>
+
+<p>Gamyboje taikome pažangias tiesioginio UV spausdinimo, skaitmeninio spaudos perkėlimo ant folijos su laminavimu, ploterinio pjaustymo bei CNC frezavimo technologijas, leidžiančias įgyvendinti bet kokį individualų projektą jau nuo 1 vieneto.</p>
+
+<h3>Platus medžiagų ir konstrukcijų pasirinkimas</h3>
+<p>Priklausomai nuo paskirties, montavimo vietos (vidaus erdvėse ar lauko sąlygomis) bei estetinių reikalavimų, siūlome įvairius pagrindus ir gamybinius sprendimus:</p>
+<ul>
+    <li><strong>PCV plastikas:</strong> Lengva, ekonomiškja ir universali medžiaga (nuo 1 iki 10 mm storio). Idealiai tinka individualaus dizaino informacinėms lentelėms, kabinetų žymėjimui ir pranešimams.</li>
+    <li><strong>Plexi (akrilas):</strong> Elegantiškas, stiklą imituojantis skaidrus, opalinis ar spalvotas plastikas, naudojamas reprezentacinėms biuro lentelėms, logotipams stendų zonose ir šviesdėžių frontams.</li>
+    <li><strong>Dibondo kompozitas:</strong> Aliuminio plokštės su polietileno šerdimi. Ypač tvirtos, standžios ir ilgaamžės plokštės, atsparios išorės poveikiui.</li>
+    <li><strong>Cinkuota skarda:</strong> Metaliniai sprendimai, pasižymintys išskirtiniu tvirtumu ir naudojami vietose, kur reikalinga didesnė apsauga nuo vandalizmo ar mechaninių pažeidimų.</li>
+    <li><strong>Polikarbonatas:</strong> Lengvas, ekonomiškas sprendimas lauko iškaboms ir šviesdėžių priekinėms dalims.</li>
+    <li><strong>Modulinės ir specialios sistemos:</strong> Modulinės lentelės, patogios keičiamai informacijai poliklinikose bei įstaigose, taip pat CNC frezuota mediena ar fanera natūraliam interjerui.</li>
+</ul>
+
+<h3>Individualus projektas ir gamybos technologijos</h3>
+<p>Kiekvienas gaminys ruošiamas pagal Jūsų pateiktus matmenis ir grafiką:</p>
+<ul>
+    <li><strong>Tiesioginis UV spausdinimas:</strong> Pažangi technologija, leidžianti spausdinti tiesiai ant standaus pagrindo (iki 10 mm storio). Užtikrina didelį atsparumą blukimui, drėgmei ir atmosferos poveikiui.</li>
+    <li><strong>Laminuota spauda:</strong> Kokybiškas lateksinis arba ekosolventinis spaudos būdas ant folijos su apsauginiu UV laminatu, klijuojamu ant plokštės.</li>
+    <li><strong>Pilna personalizacija:</strong> Galimybė gaminti pagal individualų užsakymą, pritaikant norimą grafiką, dydį, formą bei montavimo komplektaciją.</li>
+</ul>
+
+<p>Plačesnį spaudos technologijų spektrą rasite apsilankę mūsų <a href=""/spauda/"">plačiaformatės spaudos skiltyje</a>.</p>
+
+<p>Jeigu turite paruoštą maketą arba norite pasikonsultuoti dėl geriausio techninio sprendimo Jūsų įstaigai ar verslui, <a href=""/kontaktai/"">susisiekite su Primum Print komanda</a> – paruošime individualų pasiūlymą.</p>",,
+,,,,,,,,,,,,,
+https://reklamai.lt/kartono-sprendimai-reklamai/,Kartono-sprendimai-reklamai,Kartono gaminiai reklamai ir pakuotės,Kartono gaminiai,Kartono gaminiai reklamai | Primum Print | reklamai.lt,"Kartono gaminiai reklamai ir pakuotės verslui. Individualūs projektai, ekologiškos medžiaga, ilgaamžė spauda ir tikslus gamybos terminas.","index, follow",list,20,,FALSE,"<p>Ekologiški, lengvi ir tvarūs kartono gaminiai tapo nepakeičiama šiuolaikinės reklamos bei prekybos dalimi. Tai puikus būdas išsiskirti prekybos vietoje, sumažinti logistikos sąnaudas ir užtikrinti profesionalų prekės ženklo pristatymą Lietuvoje ir Europoje.</p>
+<p>Mūsų gamybos bazė leidžia įgyvendinti nestandartinius projektus nuo idėjos iki galutinio produkto, pilnai pasirūpinant projektavimu, gamyba, komplektavimu, pakavimu ir logistika.</p>
+
+<h3>Pagrindinės kartono gaminių sritys ir sprendimai:</h3>
+<ul>
+  <li><strong>Prekybinė įranga ir <a href=""/standai/"">reklaminiai stovai</a>:</strong> stabilios, individualios konstrukcijos Jūsų produkcijai išskirti. Siūlome įvairių tipų ekspozicijas FMCG, maisto, gėrimų, kosmetikos, prekių gyvūnams bei DIY sektoriams – nuo didelių grindų stovų prekės ženklo komunikacijai ir stabilių stovų didesniems svoriams iki kompaktiškų stovų, birios taros krepšių bei patogių konstrukcijų su kabliais prekių eksponavimui.</li>
+  <li><strong>Mažosios formos:</strong> <a href=""/stoveliai/"">Prekybiniai stoveliai</a> ir prekių laikikliai – praktiški sprendimai meniu, kainoms ir smulkioms prekėms.</li>
+  <li><strong>Prekybos vietų apipavidalinimas:</strong> Paletinės dekoracijos ir <a href=""/paletiniai-apjuosimai/"">apjuosimai</a> – efektyvi ekspozicija ant palečių dideliuose prekybos centruose.</li>
+  <li><strong>Pakuotės ir dovanos:</strong> <a href=""/progines-ir-vardines-dezutes/"">Proginės bei dovanų dėžutės</a> – išskirtinis dizainas, vardinė spauda ir kokybiški sprendimai nedideliems tiražams ar išskirtinėms progoms.</li>
+  <li><strong>Pramoninė tara:</strong> <a href=""/dezes/"">Kartono dėžės ir pakuotės</a> – tvirtos, tvarios konstrukcijos pagal individualius matmenis ir kiekius kasdienei logistikai.</li>
+</ul>
+
+<p>Visi gaminiai gaminami pasitelkiant aukštos kokybės skaitmeninę spaudą, užtikrinančią ryškias spalvas, ilgaamžiškumą ir nepriekaištingą estetiką. Jei turite specifinį užsakymą, ieškote tinkamiausio konstrukcinio sprendimo ar norite suderinti visą kampanijos įgyvendinimą, <a href=""/kontaktai/"">susisiekite su mumis</a> – aptarsime projekto detales.</p>",,"<p>Ekologiški, lengvi ir tvarūs kartono gaminiai tampa nepakeičiama šiuolaikinės reklamos bei prekybos dalimi. Tai puikus būdas išsiskirti prekybos vietoje, sumažinti logistikos sąnaudas ir užtikrinti profesionalų prekės ženklo pristatymą.</p>
+
+<p>Mūsų gamybos bazė leidžia įgyvendinti nestandartinius projektus nuo idėjos iki galutinio produkto, pritaikant juos individualiems Jūsų verslo poreikiams.</p>
+
+<h3>Pagrindinės kartono gaminių sritys ir sprendimai:</h3>
+<ul>
+    <li><strong>Prekybinė įranga:</strong> <a href=""/stovai/"">Reklaminiai ir prekybiniai stovai</a> – stabilios, individualios konstrukcijos Jūsų produkcijai išskirti.</li>
+    <li><strong>Mažosios formos:</strong> <a href=""/prekybiniai-stoveliai/"">Prekybiniai stoveliai ir prekių laikikliai</a> – praktiški sprendimai meniu, kainoms ir smulkioms prekėms.</li>
+    <li><strong>Prekybos vietų apipavidalinimas:</strong> <a href=""/paletines-dekoracijos/"">Paletinės dekoracijos ir apjuosimai</a> – efektyvi ekspozicija ant palečių dideliuose prekybos centruose.</li>
+    <li><strong>Pakuotės ir dovanos:</strong> <a href=""/progines-dezutes/"">Proginės bei dovanų dėžutės</a> – išskirtinis dizainas ir kokybiška spauda nedideliems tiražams.</li>
+    <li><strong>Pramoninė tara:</strong> <a href=""/dezes/"">Kartono dėžės ir pakuotės</a> – tvirtos, tvarios konstrukcijos pagal individualius matmenys ir kiekius.</li>
+</ul>
+
+<p>Visi gaminiai gaminami pasitelkiant aukštos kokybės spaudą, užtikrinančią ryškias spalvas ir patvarumą. Jei turite specifinį užsakymą ar ieškote geriausio konstrukcinio sprendimo, <a href=""/kontaktai/"">susisiekite su mumis</a> – aptarsime Jūsų projekto detales.</p>"
+https://reklamai.lt/stovai/,stovai,Reklaminių ir prekybinių stovų gamyba,Stovai,"Reklaminiai, prekybiniai stovai | Primum Print | reklamai.lt","Reklaminių ir prekybinių stovų iš kartono gamyba. Individualios konstrukcijos, stabilios medžiagos, aukštos kokybės spauda ir greitas realizavimo terminas.","index, follow",page,10,,FALSE,"<p><strong>Reklaminiai ir prekybiniai stovai (FSDU – Free Standing Display Units)</strong> – tai efektyviausi didelių formatų ekspoziciniai sprendimai, skirti prekių pristatymui prekybos centruose, parodose, salonuose bei aktyviose rinkodaros kampanijose. Remdamiesi ilgamete patirtimi ir nuosava gamybos baze, užtikriname itin operatyvią gamybą bei profesionalų pristatymą visoje šalyje.</p>
+
+<p>Skirtingai nuo smulkių stoveliai tipų, pilnaformatę ekspoziciją kuriame iš įvairių patvarių medžiagų – nuo tvirtos taisyklės tektūros iki baldinių plokščių bei medienos gaminių, garantuodami konstrukcijos stabilumą ir išskirtinį vizualinį poveikį.</p>
+
+<h3>Pagrindinės ekspozytoritų ir stovų kategorijos</h3>
+<ul>
+    <li><strong>Kartoniniai FSDU standai:</strong> Lengvi, ekologiški, visiškai perdirbami ir ekonomiški sprendimai dideliems prekių kiekis eksponuoti. Gaminami su individualiomis lentynomis, kabliukais ar paletiniais intarpais. Sukuriami pagal individualų užsakymą su pilnu apvedimu ir kasjeravimu.</li>
+    <li><strong>Standai iš baldinių plokščių ir medienos:</strong> Ypač tvirti, ilgaamžiai sprendimai premium klasės prekėms (kosmetikai, elektronikai, drabužiams). Brandingas atliekamas ant šoninių sienelių ir viršutinio topero. Galimas pristatymas visiškai surinktas arba plokščioje pakuotėje (flat-pack) patogiam transportavimui.</li>
+    <li><strong>Kombinuotos konstrukcijos:</strong> Metaliniai, plastikiniai ir mediniai elementai, pritaikyti intensyviam naudojimui ir didesnėms apkrovoms prekybos vietose.</li>
+</ul>
+
+<h3>Kodėl verta rinktis Primum Print kartono stendus?</h3>
+<ul>
+    <li><strong>Greita gamyba ir patirtis:</strong> Dėl optimizuotų procesų ir nuosavų projektavimo bei gamybos įrankių užtikriname sklandų įgyvendinimą nuo idėjos iki galutinio produkto.</li>
+    <li><strong>Pilna personalizacija:</strong> Jūsų prekės ženklas bus pastebėtas – siūlome įvairias spaudos technikas, apsauginius laminatus, lakuotą paviršių bei iškirtimus pagal individualią formą.</li>
+    <li><strong>Pristatymas visoje Lietuvoje:</strong> Paruoštus gaminius saugiai supakuojame ir pristatome tiesiai į Jūsų nurodytą prekybos tašką ar sandėlį.</li>
+</ul>
+
+<p>Jei domitės mažesnio formato sprendimais, kviečiame susipažinti su mūsų <a href=""/prekybiniai-stoveliai/"">prekybinių stoveliai ir laikiklių asortimentu</a>, o platesnę reklamos gaminių apžvalgą rasite <a href=""/spauda/"">plačiaformatės spaudos skiltyje</a>.</p>
+
+<p>Norite sėkmingai išsiskirti prekybos salėje ir padidinti pardavimus? <a href=""/kontaktai/"">Susisiekite su Primum Print komanda</a> – paruošime geriausią ekspozicijos projektą ir tikslią sąmatą.</p>",,
+https://reklamai.lt/prekybiniai-stoveliai/,prekybiniai-stoveliai,"Prekybiniai stoveliai, prekių laikikliai iš kartono",Stoveliai,Prekybiniai stoveliai iš kartono | Primum Print | reklamai.lt,"Praktiški stoveliai prekybai, reklamai, meniu ir kainoms. Gaminame pagal užsakymą, pritaikome Jūsų prekės ženklui ir greitai pristatome visoje šalyje.","index, follow",page,20,,FALSE,"<p>Efektyvi prekių ekspozicija kasos zonoje ar ant prekystalio yra vienas geriausių būdų paskatinti impulsyvius pirkimus. „Primum Print“ siūlo lengvus, ekologiškus ir išskirtinai patrauklaus dizaino kartoninius stovelius bei antstalius, kurie padeda išsiskirti prekybos vietose visoje Lietuvoje.</p>
+<h3>Kodėl verta rinktis kartoninius stovelius ant prekystalio?</h3>
+<p>Kartoniniai stoveliai ir ekspozitoriai (nablatiniai stendai) yra nepakeičiama POS medžiaga, skirta smulkiems produktams, spaudai ar akcinei atributikai eksponuoti.</p>
+<ul>
+  <li><strong>Strateginė vieta:</strong> Pastatyti šalia kasos ar ant prekystalio, jie išnaudoja paskutinę pirkėjo dėmesio akimirką prieš apmokėjimą.</li>
+  <li><strong>Maksimali nauda ir lengvumas:</strong> Konstrukcijos yra lengvai transportuojamos, greitai montuojamos ir visiškai perdirbamos.</li>
+  <li><strong>Individualus pritaikymas:</strong> Gaminame tik pagal jūsų individualius išmatavimus ir poreikius – nuo nedidelių kišenėlių iki kelių pakopų lentynėlių.</li>
+</ul>
+<h3>Aukščiausia spauda ir gamybos technologijos</h3>
+<p>„Primum Print“ užtikrina, kad jūsų reklaminė žinutė atrodytų nepriekaištingai. Pasitelkdami pažangias technologijas, siūlome:</p>
+<ul>
+  <li><strong>Aukštos kokybės skaitmeninį ir UV spaudą:</strong> garantuoja ryškias spalvas, ilgaamžiškumą bei estetišką semi-matinį paviršių.</li>
+  <li><strong>Lanksčius tiražus:</strong> galimybę užsisakyti produkciją jau nuo 1 vieneto.</li>
+  <li><strong>Pilną palaikymą:</strong> nuo konstrukcijos parinkimo ir prototipo iki galutinio įgyvendinimo.</li>
+</ul>
+<h3>Populiariausi kartoninių stovelių tipai</h3>
+<p>Mūsų asortimente rasite įvairių formų sprendimus, pritaikytus specifiniams verslo poreikiams:</p>
+<ul>
+  <li><strong>Stoveliai su lentynėlėmis:</strong> idealiai tinka kosmetikai, smulkiems maisto produktams, papildams ar techninėms prekėms eksponuoti.</li>
+  <li><strong>Kišeniniai stoveliai ir stovai ulotkoms:</strong> puikiai apgalvotas sprendimas skrajutėms, katalogams, kainorastiams ar vizitinėms kortelėms.</li>
+  <li><strong>Tackiniai / kubełkiniai ekspozitoriai:</strong> patogūs biriems produktams arba prekėms pakuotėse sudėti kasos zonoje.</li>
+</ul>
+<p>Užsakytus gaminius operatyviai ir saugiai pristatome visoje Lietuvoje. Jeigu ieškote patikimo partnerio, susisiekite su „Primum Print“ komanda – mes padėsime išsiskirti iš konkurentų!</p>
+",,
+https://reklamai.lt/paletines-dekoracijos/,paletines-dekoracijos,Paletinių dekoracijų ir apjuosimų gamyba,Paletinės dekoracijos,"
 Dekoracijos ir apjuosimai paletems | Primum Print | reklamai.lt
-","Paletinių dekoracijų ir apjuosimų gamyba prekybos vietoms. Individuali spauda, tvirtas kartonas, nestandartiniai sprendimai, palankūs terminai.","index, follow",page,30,,FALSE
-https://reklamai.lt/progines-dezutes/,progines-dezutes,Proginių ir dovanų dėžučių gamyba,Proginių ir dovanų dėžučių gamyba | Primum Print | reklamai.lt,"Proginių ir dovanų dėžučių iš kartono gamyba verslui. Individualus dizainas, kokybiška spauda, gamyba nuo mažų tiražų ir tikslūs terminai.","index, follow",page,40,,FALSE
-https://reklamai.lt/dezes/,dezes,Kartono dėžių ir pakuočių gamyba,Kartono dėžių ir pakuočių gamyba | Primum Print | reklamai.lt,"Kartono dėžių ir pakuočių gamyba verslui. Tvarios medžiagos, tvirtos konstrukcijos, individualūs matmenys ir kiekiai. Visų spalvų spauda, ","index, follow",page,50,,FALSE
-,,,,,,,,,
-https://reklamai.lt/saugiam-verslui/,saugiam-verslui,Apsauginės pertvaros ir priemonės verslui,Apsauginės akrilo pertvaros | Primum Print | reklamai.lt,"Apsauginės pertvaros iš 5 mm skaidraus akrilo biurams, prekybos vietoms ir paslaugų sektoriui. Gamyba pagal užsakymą.","index, follow",page,90,,FALSE
-https://reklamai.lt/es-investicijos/,es-investicijos,ES finansuojami projektai,ES investicijos,"UAB ""Primum"" įgyvendinti Europos Sąjungos struktūrinių fondų lėšomis finansuojami projektai.","index, follow",page,90,,FALSE
-https://reklamai.lt/covid-19-produktai/,covid-19-produktai,COVID-19 projektas,ES investicijos – COVID-19,"UAB „Primum“ įgyvendintas projektas, skirtas apsauginių priemonių gamybai.","noindex, follow",page,90,,FALSE
-https://reklamai.lt/kki-produktu-kurimas/,kki-produktu-kurimas,KKI produktų kūrimas,ES investicijos – KKI,Naujų kultūros ir kūrybinių sektorių produktų kūrimas UAB „Primum“.,"noindex, follow",page,90,,FALSE
-https://reklamai.lt/e-komercijos-modelis-covid-19/,e-komercijos-modelis-covid-19,E. komercijos modelio diegimas,ES investicijos – E. komercija,E. komercijos modelio diegimas UAB „Primum“ elektroniniam užsakymų valdymui.,"noindex, follow",page,90,,FALSE
-https://reklamai.lt/eco-inovacijos-lt/,eco-inovacijos-lt,Eco-inovacijos LT,ES investicijos – Eco-inovacijos,Efektyvios ir aplinką tausojančios įrangos diegimas gamyboje.,"noindex, follow",page,90,,FALSE
-,,,,,,,,,
-https://reklamai.lt/kontaktai/,kontaktai,,Kontaktai | Primum Print | reklamai.lt | UAB Primum,"Susisiekite su Primum Print komanda. Teikiame technines konsultacijas. Peržiūrėkite mūsų adresą, telefonus, darbo laiką ir susisiekite su vadybininku.","index, follow",page,80,,FALSE
-https://reklamai.lt/apie-uab-primum/,apie-uab-primum,,Apie UAB PRIMUM | reklamai.lt,"Naudodami pažangias technologijas, profesionaliai atliekame įvairių formatų spaudos darbus. Užtikriname aukštą produktų kokybę, patrauklią kainą ir tikslų užsakymų įvykdymą laiku.","index, follow",page,81,,FALSE
-https://reklamai.lt/faq/,faq,Dažniausiai užduodami klausimai (FAQ),Dažniausiai užduodami klausimai | Primum Print | reklamai.lt,"Atsakymai į dažniausiai užduodamus klausimus apie reklamos gamybą, plačiaformatę spaudą, užsakymų pateikimą ir gamybos terminus.","noindex, follow",page,85,,TRUE
-http://spaustuve.reklamai.lt,*,Klientų sritis – Primum Print užsakymų valdymas,Klientų sritis | Primum Print | reklamai.lt,"Prisijunkite prie Primum Print klientų srities. Valdykite savo reklamos gamybos užsakymus, stebėkite eigos statusus ir peržiūrėkite dokumentaciją.","noindex, follow",page,95,,FALSE
+","Paletinių dekoracijų ir apjuosimų gamyba prekybos vietoms. Individuali spauda, tvirtas kartonas, nestandartiniai sprendimai, palankūs terminai.","index, follow",page,30,,FALSE,"<p>Efektyvus prekių pristatymas prekybos salėje ar didmeninės prekybos bazėse reikalauja sprendimų, kurie iškart patraukia pirkėjų žvilgsnius. „Primum Print“ siūlo kokybiškus paletinius apjuosimus bei dekoracijas, padedančius paversti standartines europaletes galingu rinkodaros įrankiu. Šie spaudos gaminiai užtikrina ne tik tvarkingą ekspozicijos išvaizdą, bet ir išskirtinę vietą jūsų prekės ženklui ar naujų produktų linijai pristatyti visoje Lietuvoje.</p>
+
+<h3>Kodėl verta rinktis paletinius apjuosimus?</h3>
+<p>Tinkamai suplanuota ekspozicija leidžia efektyviai išsiskirti perpildytoje parduotuvės aplinkoje ir paskatinti pirkimo sprendimus. Pagrindiniai šių reklamos priemonių privalumai:</p>
+<ul>
+  <li><strong>Maksimalus matomumas:</strong> didelis spaudos plotas leidžia kūrybiškai eksponuoti jūsų reklamines žinutes ir logotipus, užtikrinant puikų matomumą iš bet kurios pusės.</li>
+  <li><strong>Funkcionalumas ir apsauga:</strong> apjuosimai ne tik puošia aplinką, bet ir padeda stabilizuoti bei tvarkingai apjuosti ant paletės išdėstytą produkciją.</li>
+  <li><strong>Greitas montavimas:</strong> gaminiai yra patogiai paruošti transportavimui ir lengvai surenkami prekybos vietoje, taupant jūsų komandos laiką.</li>
+</ul>
+
+<h3>Populiariausi gamybos variantai ir formatai</h3>
+<p>„Primum Print“ komanda prisitaiko prie individualių jūsų rinkodaros kampanijos poreikių, siūlydama lanksčius sprendimus:</p>
+<ul>
+  <li><strong>Pilnas apjuosimas (80x120 cm):</strong> standartinis formatas, idealiai pritaikytas visam europaletės perimetrui apjuosti, sukuriant vientisą 360 laipsnių vizualinį efektą dideliuose prekybos centruose.</li>
+  <li><strong>Nestandartiniai dydžiai ir dekoracijos:</strong> individualiai pagal jūsų specifikacijas gaminami sprendimai, tinkami puspaletėms, ketvirtinėms paletėms ar unikalioms ekspozicijų salelėms.</li>
+  <li><strong>Tvarios medžiagos:</strong> gamyboje naudojamas tvirtas kartonas arba ilgaamžiai elementai, garantuojantys puikią estetiką ir atsparumą kasdieniam apkrovimui.</li>
+</ul>
+
+<h3>Pažangios technologijos ir nepriekaištinga kokybė</h3>
+<p>Siekiant, kad jūsų reklaminė komunikacija atrodytų profesionaliai, naudojame pažangius skaitmeninius ir UV spaudos metodus. Tai užtikrina sodrias spalvas, ilgaamžiškumą bei puikią grafikos raišką, kuri atitinka šiuolaikinius rinkodaros standartus.</p>
+
+<p>Jeigu ieškote patikimo partnerio savo prekybos vietų vizualiniam apipavidalinimui, susisiekite su <a href=""/spauada/"">„Primum Print“</a> komanda – mes padėsime jūsų produktams nelikti nepastebėtais!</p>",,
+https://reklamai.lt/progines-dezutes/,progines-dezutes,Proginių ir dovanų dėžučių gamyba,Proginės dėžutės,Proginių ir dovanų dėžučių gamyba | Primum Print | reklamai.lt,"Proginių ir dovanų dėžučių iš kartono gamyba verslui. Individualus dizainas, kokybiška spauda, gamyba nuo mažų tiražų ir tikslūs terminai.","index, follow",page,40,,FALSE,"<p>Kai produktas, išskirtinis gėrimas ar verslo dovanos reikalauja ypatingo dėmesio, standartinės pakuotės nebepakanka. Primum Print siūlo išskirtinius reprezentacinius sprendimus – prabangias dovanų dėžutes, pakuotes iš tvarių medžiagų bei specialiai pritaikytus dėklus, kurie paverčia bet kurį produktą įsimintinu įpakavimu ir dovana.</p>
+
+<h3>Reprezentacinės pakuotės ir dėžutės išskirtiniams gaminiams</h3>
+<p>Dovanų ar aukštos kokybės gėrimų įteikimas verslo partneriams bei artimiesiems yra tradicija, kuriai reikalinga nepriekaištinga opozicija. Mūsų gaminamos dėžutės padeda sukurti įsimintiną pirmąjį įspūdį ir sustiprinti prekės ženklo įvaizdį:</p>
+<ul>
+  <li><strong>Individualus pritaikymas ir logotipai:</strong> galimybė pasirinkti dėžutės spaudą ar lipdukus, išryškinant įmonės logotipą, asmeninę dedikaciją ar šventinius linkėjimus.</li>
+  <li><strong>Elegancija detalių visumoje:</strong> papildomi elementai, tokie kaip stilingos juostelės ar dekoratyviniai akcentai, suteikia pakuotei neprilygstamo rafinuotumo, puikiai tinkančio vestuvėms, jubiliejams ar VIP dovanoms.</li>
+  <li><strong>Standartinės ir standžios (rigid box) konstrukcijos:</strong> tvirti, aukštos kokybės kietojo kartono sprendimai, užtikrinantys prabangos pojūtį ir išskirtinę apsaugą vertingiems daiktams.</li>
+</ul>
+
+<h3>Ekologiškas pasirinkimas be kompromisų</h3>
+<p>Šiuolaikinis verslas ir sąmoningi vartotojai vertina tvarumą. Visi mūsų gaminami kartoniniai sprendimai kuriami naudojant ekologiškas, sertifikuotas ir lengvai perdirbamas medžiagas. Tai leidžia suderinti prabangią išvaizdą su atsakingu požiūriu į aplinką, leidžiant džiaugtis aukščiausia kokybe be žemės išteklių eikvojimo.</p>
+
+<p>Jei norite, kad jūsų produktai ar įmonės reprezentaciniai rinkiniai išsiskirtų rinkoje, <a href=""/kontaktai/"">susisiekite su Primum Print</a>– mes padėsime sukurti autorinius sprendimus, kurie palieka neišdildomą įspūdį.</p>",,
+https://reklamai.lt/dezes/,dezes,Kartono dėžių ir pakuočių gamyba,Dėžės ir pakuotės,Kartono dėžių ir pakuočių gamyba | Primum Print | reklamai.lt,"Kartono dėžių ir pakuočių gamyba verslui. Tvarios medžiagos, tvirtos konstrukcijos, individualūs matmenys ir kiekiai. Visų spalvų spauda, ","index, follow",page,50,,FALSE,"<p>Gofruoto kartono dėžės ir pramoninės pakuotės yra pagrindinis produktų transportavimo, sandėliavimo bei logistikos būdas versle. Primum Print parduodamos tvirtos kartoninės dėžės orientuotos į maksimalų patvarumą, apsaugą ir funkcionalumą pervežant ar sandėliuojant prekes.</p>
+
+<h3>Kodėl verta rinktis gofruoto kartono pakuotes?</h3>
+<p>Šiuolaikinėje logistikoje gofruotojo kartono medžiagos naudojamas beveik visų rūšių produktams pakuoti. Nesvarbu, ar gabenate maisto produktus, elektroniką, žaislus, drabužius, biuro reikmenis ar sunkius pramoninius gaminius, kokybiška tara užtikrina saugią kelionę nuo gamybos iki galutinio vartotojo.</p>
+<ul>
+  <li><strong>Patikima apsauga:</strong> tvirtos 3 ir 5 sluoksnių kartono struktūros efektyviai apsaugo turinį nuo smūgių, gniuždymo ir mechaninių pažeidimų transportavimo metu.</li>
+  <li><strong>Efektyvi kaštų optimizacija:</strong> tiksliai pritaikyti dydžiai leidžia taupyti vietą sandėliuose bei transporto priemonėse ir sumažinti papildomų pakavimo medžiagų ar užpildų poreikį.</li>
+  <li><strong>Standartiniai ir individualūs sprendimai:</strong> gaminame populiariausius FEFCO standarto modelius (klapines ir fasonines dėžes) bei nestandartinius variantus pagal jūsų poreikius.</li>
+</ul>
+
+<h3>Kartono dėžių gamyba ir techninės galimybės</h3>
+<p>Jeigu jūsų produkcijai reikalingi specifiniai matmenys, netradiciniai sukirpimai, specifinė kartono gramatūra ar norite ant pakuotės perkelti įmonės logotipą, Primum Print komanda padės įgyvendinti bet kokį sumanymą. Priklausomai nuo paskirties, parinksime tinkamą falių tipą, dvisluoksnę ar daugiasluoksnę tekturos struktūrą, užtikrinančią idealų tvirtumą.</p>
+
+<p>Ieškote patikimo partnerio savo verslo logistikai ir norite aptarti gamybos sąlygas bei tiražus? <a href=""/kontaktai/"">Susisiekite su mumis</a> jau šiandien – padėsime rasti optimaliausius pakavimo sprendimus!</p>",,
+,,,,,,,,,,,,,
+https://reklamai.lt/saugiam-verslui/,saugiam-verslui,Apsauginės pertvaros ir priemonės verslui,Apsauginės pertvaros,Apsauginės akrilo pertvaros | Primum Print | reklamai.lt,"Apsauginės pertvaros iš 5 mm skaidraus akrilo biurams, prekybos vietoms ir paslaugų sektoriui. Gamyba pagal užsakymą.","index, follow",page,90,,FALSE,,,
+https://reklamai.lt/es-investicijos/,es-investicijos,ES finansuojami projektai,ES investicijos,ES investicijos,UAB Primum įgyvendinti Europos Sąjungos struktūrinių fondų lėšomis finansuojami projektai.,"index, follow",page,90,,FALSE,,,
+https://reklamai.lt/covid-19-produktai/,covid-19-produktai,COVID-19 projektas,COVID-19,ES investicijos – COVID-19,"UAB Primum įgyvendintas projektas, skirtas apsauginių priemonių gamybai.","noindex, follow",page,90,,FALSE,,,
+https://reklamai.lt/kki-produktu-kurimas/,kki-produktu-kurimas,KKI produktų kūrimas,KKI,ES investicijos – KKI,Naujų kultūros ir kūrybinių sektorių produktų kūrimas UAB Primum.,"noindex, follow",page,90,,FALSE,,,
+https://reklamai.lt/e-komercijos-modelis-covid-19/,e-komercijos-modelis-covid-19,E. komercijos modelio diegimas,E. komercija,ES investicijos – E. komercija,E. komercijos modelio diegimas UAB Primum elektroniniam užsakymų valdymui.,"noindex, follow",page,90,,FALSE,,,
+https://reklamai.lt/eco-inovacijos-lt/,eco-inovacijos-lt,Eco-inovacijos LT,Eco-inovacijos,ES investicijos – Eco-inovacijos,Efektyvios ir aplinką tausojančios įrangos diegimas gamyboje.,"noindex, follow",page,90,,FALSE,,,
+,,,,,,,,,,,,,
+https://reklamai.lt/kontaktai/,kontaktai,Kontaktai ir rekvizitai,Kontaktai,Kontaktai | Primum Print | reklamai.lt | UAB Primum,"Susisiekite su Primum Print komanda. Teikiame technines konsultacijas. Peržiūrėkite mūsų adresą, telefonus, darbo laiką ir susisiekite su vadybininku.","index, follow",page,80,,FALSE,{{< contactbox >}},,
+https://reklamai.lt/apie-uab-primum/,apie-uab-primum,Apie Primum Print,Apie Primum Print,Apie UAB PRIMUM | reklamai.lt,"Naudodami pažangias technologijas, profesionaliai atliekame įvairių formatų spaudos darbus. Užtikriname aukštą produktų kokybę, patrauklią kainą ir tikslų užsakymų įvykdymą laiku.","index, follow",page,81,,FALSE,"<p>UAB „Primum“ įkurta 2011 metais. Pagrindinė įmonės veiklos sritis – profesionalios reklamos gamybos ir skaitmeninės spaudos paslaugos, orientuotos į verslo klientų poreikius.</p>
+
+<p>Naudodami pažangias technologijas, profesionaliai atliekame įvairių formatų spaudos darbus. Užtikriname aukštą produktų kokybę, patrauklią kainą ir tikslų užsakymų įvykdymą laiku.</p>
+
+<h3>Mūsų veiklos kryptys ir sprendimai verslui</h3>
+<p>Siekdami patenkinti net išrankiausius klientų lūkesčius, specializuojamės dviejose pagrindinėse srityse:</p>
+<ul>
+    <li><strong>Plačiaformatė spauda:</strong> Kuriame ir gaminame lauko bei vidaus reklamos elementus. Visą asortimentą ir technologijas galite rasti mūsų <a href=""/spauda/"">plačiaformatės spaudos kategorijoje</a>.</li>
+    <li><strong>Kartono gaminiai ir pakuotės:</strong> Tvarūs, ekologiški bei funkcionalūs sprendimai prekybai ir reprezentacijai. Daugiau informacijos pateikiama <a href=""/kartono-sprendimai-reklamai/"">kartono gaminių skyriuje</a>.</li>
+</ul>
+
+<h3>Kodėl verta rinktis mus?</h3>
+<ul>
+    <li><strong>Patirtis ir kompetencija:</strong> Nuo 2011 metų sėkmingai įgyvendiname tiek standartinius, tiek sudėtingus nestandartinius projektus.</li>
+    <li><strong>Kokybės kontrolė:</strong> Naudojame ilgaamžes, sertifikuotas medžiagas ir ekologiškus sprendimus, mažinančius poveikį aplinkai.</li>
+    <li><strong>Lankstumas:</strong> Prisitaikome prie individualių kliento techninių bei dizaino reikalavimų, užtikrindami operatyvų darbų atlikimą.</li>
+</ul>
+
+<p>Jei ieškote patikimo partnerio savo reklaminiams projektams ar norite aptarti bendradarbiavimo galimybes, <a href=""/kontaktai/"">susisiekite su mūsų komanda</a> – padėsime rasti geriausią techninį sprendimą Jūsų verslui.</p>",,
+https://reklamai.lt/faq/,faq,Dažniausiai užduodami klausimai (FAQ),FAQ,Dažniausiai užduodami klausimai | Primum Print | reklamai.lt,"Atsakymai į dažniausiai užduodamus klausimus apie reklamos gamybą, plačiaformatę spaudą, užsakymų pateikimą ir gamybos terminus.","noindex, follow",page,85,,TRUE,,,
+http://primumprint.reklamai.lt/,*,Klientų sritis – Primum Print užsakymų valdymas,Prisijungimas klientams,Klientų sritis | Primum Print | reklamai.lt,"Prisijunkite prie Primum Print klientų srities. Valdykite savo reklamos gamybos užsakymus, stebėkite eigos statusus ir peržiūrėkite dokumentaciją.","noindex, follow",page,95,,FALSE,,,
