@@ -1,6 +1,5 @@
 ---
 title: "E. komercijos modelio diegimas"
-slug: "e-komercijos-modelis-covid-19"
 menu_title: "E. komercija"
 meta_title: "ES investicijos – E. komercija"
 description: "E. komercijos modelio diegimas UAB Primum elektroniniam užsakymų valdymui."
@@ -10,7 +9,7 @@ weight: 90
 draft: false
 ---
 
-<figure class="wp-block-image"><img src="https://reklamai.lt/wp-content/uploads/2021/02/ESFIVP-I-1-1024x512.jpg" alt="Pradedamas įgyvendinti projektas „E-komercijos modelio diegimas UAB „Primum““"/></figure>
+<figure class=\"wp-block-image\"><img src=\"https://reklamai.lt/wp-content/uploads/2021/02/ESFIVP-I-1-1024x512.jpg\" alt=\"Pradedamas įgyvendinti projektas „E-komercijos modelio diegimas UAB „Primum““\"/></figure>
 
 
 
@@ -18,7 +17,7 @@ draft: false
 
 
 
-<div class="wp-block-group">
+<div class=\"wp-block-group\">
 <p>2022 m. sausio 28 d. LR ekonomikos ir inovacijų ministro įsakymu Nr. 4-160 UAB „Pimum“ projektui „E-komercijos modelio diegimas UAB „Primum““ skirtas 45 000,00 Eur finansavimas pagal priemonę „E-komercijos modelis COVID-19“.</p>
 
 

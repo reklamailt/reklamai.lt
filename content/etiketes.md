@@ -1,6 +1,5 @@
 ---
 title: "Lipdukų ir etikečių gamyba"
-slug: "etiketes"
 menu_title: "Etiketės ir lipdukai"
 meta_title: "Lipdukų ir etikečių gamyba | Primum Print | reklamai.lt"
 description: "Aukščiausios kokybės lipdukai ir etiketės. Itin stiprūs, drėgmei ir UV spinduliams atsparūs klijai, nepriekaištinga spaudos raiška bei gamyba pagal individualius poreikius."
@@ -31,6 +30,6 @@ draft: false
     <li><strong>Namai ir biuras:</strong> Dokumentų archyvavimas, asmeninių daiktų ar taros organizavimas.</li>
 </ul>
 
-<p>Kiekvienas užsakymas vertinamas individualiai – parenkamas optimalus išskirtinis formos iškirtimas po obrysą (ploterinis pjaustymas), klijų stiprumas bei apdaila. Daugiau bendrųjų spaudos galimybių galite rasti mūsų <a href="/spauda/">plačiaformatės spaudos skiltyje</a>.</p>
+<p>Kiekvienas užsakymas vertinamas individualiai – parenkamas optimalus išskirtinis formos iškirtimas po obrysą (ploterinis pjaustymas), klijų stiprumas bei apdaila. Daugiau bendrųjų spaudos galimybių galite rasti mūsų <a href=\"/spauda/\">plačiaformatės spaudos skiltyje</a>.</p>
 
-<p>Jei norite užsisakyti lipdukus ar etiketes savo verslui arba turite specifinį projektą, <a href="/kontaktai/">susisiekite su Primum Print komanda</a> – padėsime parinkti geriausias medžiagas ir paruošime tikslią gamybos sąmatą.</p>
+<p>Jei norite užsisakyti lipdukus ar etiketes savo verslui arba turite specifinį projektą, <a href=\"/kontaktai/\">susisiekite su Primum Print komanda</a> – padėsime parinkti geriausias medžiagas ir paruošime tikslią gamybos sąmatą.</p>

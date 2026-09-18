@@ -1,6 +1,5 @@
 ---
 title: "KKI produktų kūrimas"
-slug: "kki-produktu-kurimas"
 menu_title: "KKI"
 meta_title: "ES investicijos – KKI"
 description: "Naujų kultūros ir kūrybinių sektorių produktų kūrimas UAB Primum."
@@ -10,7 +9,7 @@ weight: 90
 draft: false
 ---
 
-<figure class="wp-block-image size-full"><img src="https://reklamai.lt/wp-content/uploads/2022/08/image.png" alt="UAB &quot;Primum Print&quot; pradeda projekto „Naujos paslaugos sukūrimas reklamos gamyboje“ įgyvendinimą" class="wp-image-973"/></figure>
+<figure class=\"wp-block-image size-full\"><img src=\"https://reklamai.lt/wp-content/uploads/2022/08/image.png\" alt=\"UAB &quot;Primum Print&quot; pradeda projekto „Naujos paslaugos sukūrimas reklamos gamyboje“ įgyvendinimą\" class=\"wp-image-973\"/></figure>
 
 
 

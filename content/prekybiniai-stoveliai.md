@@ -1,6 +1,5 @@
 ---
 title: "Prekybiniai stoveliai, prekių laikikliai iš kartono"
-slug: "prekybiniai-stoveliai"
 menu_title: "Stoveliai"
 meta_title: "Prekybiniai stoveliai iš kartono | Primum Print | reklamai.lt"
 description: "Praktiški stoveliai prekybai, reklamai, meniu ir kainoms. Gaminame pagal užsakymą, pritaikome Jūsų prekės ženklui ir greitai pristatome visoje šalyje."
@@ -33,4 +32,3 @@ draft: false
   <li><strong>Tackiniai / kubełkiniai ekspozitoriai:</strong> patogūs biriems produktams arba prekėms pakuotėse sudėti kasos zonoje.</li>
 </ul>
 <p>Užsakytus gaminius operatyviai ir saugiai pristatome visoje Lietuvoje. Jeigu ieškote patikimo partnerio, susisiekite su „Primum Print“ komanda – mes padėsime išsiskirti iš konkurentų!</p>
-

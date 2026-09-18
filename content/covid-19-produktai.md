@@ -1,6 +1,5 @@
 ---
 title: "COVID-19 projektas"
-slug: "covid-19-produktai"
 menu_title: "COVID-19"
 meta_title: "ES investicijos – COVID-19"
 description: "UAB Primum įgyvendintas projektas, skirtas apsauginių priemonių gamybai."
@@ -10,7 +9,7 @@ weight: 90
 draft: false
 ---
 
-<figure class="wp-block-image"><img src="https://reklamai.lt/wp-content/uploads/2021/02/ESFIVP-I-1-1024x512.jpg" alt="This image has an empty alt attribute; its file name is ESFIVP-I-1-1024x512.jpg"/></figure>
+<figure class=\"wp-block-image\"><img src=\"https://reklamai.lt/wp-content/uploads/2021/02/ESFIVP-I-1-1024x512.jpg\" alt=\"This image has an empty alt attribute; its file name is ESFIVP-I-1-1024x512.jpg\"/></figure>
 
 
 
@@ -18,12 +17,12 @@ draft: false
 
 
 
-<div class="wp-block-group">
-<p><strong><a href="https://reklamai.lt/">UAB „Primum“</a></strong>&nbsp;įkurta 2011 m. Įmonės vykdoma veikla – reklamos gaminių spaudos paslaugos. Įmonės tikslas – kiekvienam klientui pateikti jo individualius poreikius atitinkančius gaminius, užtikrinti aukštą gaminamos produkcijos kokybę už konkurencingą kainą. Gaminami produktai atitinka aukštus kokybės reikalavimus, taip pat klientų keliamus techninius, dizaino reikalavimus. Reklamos gaminių gamybinėje linijoje atliekami spaudos darbai naudojant skaitmeninės spaudos technologiją</p>
+<div class=\"wp-block-group\">
+<p><strong><a href=\"https://reklamai.lt/\">UAB „Primum“</a></strong>&nbsp;įkurta 2011 m. Įmonės vykdoma veikla – reklamos gaminių spaudos paslaugos. Įmonės tikslas – kiekvienam klientui pateikti jo individualius poreikius atitinkančius gaminius, užtikrinti aukštą gaminamos produkcijos kokybę už konkurencingą kainą. Gaminami produktai atitinka aukštus kokybės reikalavimus, taip pat klientų keliamus techninius, dizaino reikalavimus. Reklamos gaminių gamybinėje linijoje atliekami spaudos darbai naudojant skaitmeninės spaudos technologiją</p>
 
 
 
-<p>Vykdant projektą įmonė įsigys įrenginį, kurio pagalba įmonė gamins produktus, skirtus kovai su COVID-19 – apsaugines skaidrias veido kaukes ir pertvaras. Tikslinės grupės ir jų poreikiai – tiek fiziniai, tiek juridiniai asmenys, norintys apsisaugoti nuo COVID-19. Įmonėje iki šiol prekės, skirtos kovai su COVID19 nebuvo gamintos, nes&nbsp;<a href="https://reklamai.lt/">UAB Primum</a>&nbsp;neturėjo tam skirtos gamybinės įrangos. Įsigijus naują įrenginį pagerės ne tik įmonės produktyvumas ir konkurencingumas, tačiau prisidedama ir prie bendro visuomeninio tikslo – gaminami produktai padės kovoti su viruso plitimu.</p>
+<p>Vykdant projektą įmonė įsigys įrenginį, kurio pagalba įmonė gamins produktus, skirtus kovai su COVID-19 – apsaugines skaidrias veido kaukes ir pertvaras. Tikslinės grupės ir jų poreikiai – tiek fiziniai, tiek juridiniai asmenys, norintys apsisaugoti nuo COVID-19. Įmonėje iki šiol prekės, skirtos kovai su COVID19 nebuvo gamintos, nes&nbsp;<a href=\"https://reklamai.lt/\">UAB Primum</a>&nbsp;neturėjo tam skirtos gamybinės įrangos. Įsigijus naują įrenginį pagerės ne tik įmonės produktyvumas ir konkurencingumas, tačiau prisidedama ir prie bendro visuomeninio tikslo – gaminami produktai padės kovoti su viruso plitimu.</p>
 
 
 
@@ -43,5 +42,5 @@ draft: false
 
 
 
-<p>Daugiau informacijos apie įmonę pateikiama internete&nbsp;<a href="https://reklamai.lt/">https://reklamai.lt/</a></p>
+<p>Daugiau informacijos apie įmonę pateikiama internete&nbsp;<a href=\"https://reklamai.lt/\">https://reklamai.lt/</a></p>
 </div>

@@ -1,10 +1,7 @@
 ---
 title: "Paletinių dekoracijų ir apjuosimų gamyba"
-slug: "paletines-dekoracijos"
 menu_title: "Paletinės dekoracijos"
-meta_title: "
-Dekoracijos ir apjuosimai paletems | Primum Print | reklamai.lt
-"
+meta_title: "Dekoracijos ir apjuosimai paletems | Primum Print | reklamai.lt"
 description: "Paletinių dekoracijų ir apjuosimų gamyba prekybos vietoms. Individuali spauda, tvirtas kartonas, nestandartiniai sprendimai, palankūs terminai."
 robots: "index, follow"
 layout: "page"
@@ -33,4 +30,4 @@ draft: false
 <h3>Pažangios technologijos ir nepriekaištinga kokybė</h3>
 <p>Siekiant, kad jūsų reklaminė komunikacija atrodytų profesionaliai, naudojame pažangius skaitmeninius ir UV spaudos metodus. Tai užtikrina sodrias spalvas, ilgaamžiškumą bei puikią grafikos raišką, kuri atitinka šiuolaikinius rinkodaros standartus.</p>
 
-<p>Jeigu ieškote patikimo partnerio savo prekybos vietų vizualiniam apipavidalinimui, susisiekite su <a href="/spauada/">„Primum Print“</a> komanda – mes padėsime jūsų produktams nelikti nepastebėtais!</p>
+<p>Jeigu ieškote patikimo partnerio savo prekybos vietų vizualiniam apipavidalinimui, susisiekite su <a href=\"/spauada/\">„Primum Print“</a> komanda – mes padėsime jūsų produktams nelikti nepastebėtais!</p>

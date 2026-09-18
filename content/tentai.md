@@ -1,6 +1,5 @@
 ---
 title: "Reklaminių tentų gamyba"
-slug: "tentai"
 menu_title: "Tentai"
 meta_title: "Reklaminių tentų gamyba | Primum Print | reklamai.lt"
 description: "Reklaminių tentų gamyba lauko reklamai. Visiems oro sąlygoms atsparios medžiagos, sutvirtinti kraštai, metalinės kilpos (liuvesiai), ilgaamžė spauda."
@@ -31,6 +30,6 @@ draft: false
     <li><strong>Paprasta priežiūra:</strong> Paviršiu pakanka nuplauti vandeniu, nenaudojant agresyvių cheminių valiklių.</li>
 </ul>
 
-<p>Plačiaformatė spauda leidžia pasiekti ryškias, sodrias spalvas ir puikų detalių atkūrimą. Daugiau informacijos apie taikomas technologijas rasite mūsų <a href="/spauda/">plačiaformatės spaudos skyriuje</a>.</p>
+<p>Plačiaformatė spauda leidžia pasiekti ryškias, sodrias spalvas ir puikų detalių atkūrimą. Daugiau informacijos apie taikomas technologijas rasite mūsų <a href=\"/spauda/\">plačiaformatės spaudos skyriuje</a>.</p>
 
-<p>Priimame užsakymus tiek vienetiniams projektams, tiek dideliems tiražams. Jei norite užsisakyti reklaminius tentus ar pasitarti dėl tinkamiausios medžiagos pasirinkimo, <a href="/kontaktai/">susisiekite su Primum Print komanda</a> – padėsime rasti geriausią sprendimą Jūsų verslui.</p>
+<p>Priimame užsakymus tiek vienetiniams projektams, tiek dideliems tiražams. Jei norite užsisakyti reklaminius tentus ar pasitarti dėl tinkamiausios medžiagos pasirinkimo, <a href=\"/kontaktai/\">susisiekite su Primum Print komanda</a> – padėsime rasti geriausią sprendimą Jūsų verslui.</p>

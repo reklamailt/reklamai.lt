@@ -1,6 +1,5 @@
 ---
 title: "Backlit plakatai šviesdėžėms"
-slug: "backlit"
 menu_title: "Backlit plakatai"
 meta_title: "Backlit plakatai šviesdėžėms | Primum Print | reklamai.lt"
 description: "Specialūs backlit plakatai šviesdėžėms ir reklaminiams kasetonams. Tolygus šviesos pralaidumas, sodrios spalvos ir ilgaamžės medžiagos įvairiems formatams."
@@ -25,4 +24,4 @@ draft: false
 <h3>Lankstus užsakymų vykdymas ir pristatymas</h3>
 <p>Priimame užsakymus spaustuvėje tiek dideliais tiražais, pasiūlydami patrauklias nuolaidas, tiek gaminame vienetinius projektus – <strong>nuo 1 egzemplioriaus</strong>. Gamyba atliekama pateikus techniškai tvarkingą maketą.</p>
 
-<p>Užsakymus galite atsiimti mūsų gamyboje Kaune arba pasirinkti patogų pristatymą kurjeriu visoje Lietuvoje. Jei ieškote patikimo partnerio savo šviečiančios reklamos projektams, <a href="/kontaktai/">susisiekite su Primum Print</a> – aptarsime Jūsų užsakymo detales.</p>
+<p>Užsakymus galite atsiimti mūsų gamyboje Kaune arba pasirinkti patogų pristatymą kurjeriu visoje Lietuvoje. Jei ieškote patikimo partnerio savo šviečiančios reklamos projektams, <a href=\"/kontaktai/\">susisiekite su Primum Print</a> – aptarsime Jūsų užsakymo detales.</p>

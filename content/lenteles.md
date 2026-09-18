@@ -1,6 +1,5 @@
 ---
 title: "Informacinių lentelių ir ženklų gamyba"
-slug: "lenteles"
 menu_title: "Lentelės ir ženklai"
 meta_title: "Informacinių lentelių gamyba | Primum Print | reklamai.lt"
 description: "Gamybinių lentelių, informacinių ženklų ir nuorodų gamyba. Mechaninis atsparumas, aiškus matomumas, ilgaamžės plastiko bei metalo medžiagos ir individualūs sprendimai."
@@ -33,6 +32,6 @@ draft: false
     <li><strong>Pilna personalizacija:</strong> Galimybė gaminti pagal individualų užsakymą, pritaikant norimą grafiką, dydį, formą bei montavimo komplektaciją.</li>
 </ul>
 
-<p>Plačesnį spaudos technologijų spektrą rasite apsilankę mūsų <a href="/spauda/">plačiaformatės spaudos skiltyje</a>.</p>
+<p>Plačesnį spaudos technologijų spektrą rasite apsilankę mūsų <a href=\"/spauda/\">plačiaformatės spaudos skiltyje</a>.</p>
 
-<p>Jeigu turite paruoštą maketą arba norite pasikonsultuoti dėl geriausio techninio sprendimo Jūsų įstaigai ar verslui, <a href="/kontaktai/">susisiekite su Primum Print komanda</a> – paruošime individualų pasiūlymą.</p>
+<p>Jeigu turite paruoštą maketą arba norite pasikonsultuoti dėl geriausio techninio sprendimo Jūsų įstaigai ar verslui, <a href=\"/kontaktai/\">susisiekite su Primum Print komanda</a> – paruošime individualų pasiūlymą.</p>

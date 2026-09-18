@@ -1,6 +1,5 @@
 ---
 title: "Tiesioginė UV spauda"
-slug: "uv-spauda"
 menu_title: "UV spauda"
 meta_title: "Tiesioginė UV spauda | Primum Print | reklamai.lt"
 description: "Tiesioginė plokščiaatspaudė (flatbed) UV spauda ant medžio, stiklo, plastiko ir metalo. Nepriekaištinga raiška ir atsparumas įbrėžimams."
@@ -30,6 +29,6 @@ draft: false
     <li><strong>Tekstilė ir ruloniniai gaminiai:</strong> Drobė (canvas), skajus, natūralios bei sintetinės medžiagos iš rulono.</li>
 </ul>
 
-<p>UV spauda plačiai naudojama reklaminėms iškaboms, stendams, reprezentacinėms plokštėms, interjero dekoravimui bei originaliems nestandartiniams gaminiams kurti. Platesnį spaudos paslaugų spektrą galite apžvelgti bendroje <a href="/spauda/">plačiaformatės spaudos apžvalgoje</a>.</p>
+<p>UV spauda plačiai naudojama reklaminėms iškaboms, stendams, reprezentacinėms plokštėms, interjero dekoravimui bei originaliems nestandartiniams gaminiams kurti. Platesnį spaudos paslaugų spektrą galite apžvelgti bendroje <a href=\"/spauda/\">plačiaformatės spaudos apžvalgoje</a>.</p>
 
-<p>Jeigu turite specifinį projektą ar norite sužinoti geriausią gamybos būdą savo idėjai, <a href="/kontaktai/">susisiekite su Primum Print komanda</a> – padėsime įgyvendinti net pačius originaliausius sumanymus.</p>
+<p>Jeigu turite specifinį projektą ar norite sužinoti geriausią gamybos būdą savo idėjai, <a href=\"/kontaktai/\">susisiekite su Primum Print komanda</a> – padėsime įgyvendinti net pačius originaliausius sumanymus.</p>

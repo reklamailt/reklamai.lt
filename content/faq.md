@@ -1,6 +1,5 @@
 ---
 title: "Dažniausiai užduodami klausimai (FAQ)"
-slug: "faq"
 menu_title: "FAQ"
 meta_title: "Dažniausiai užduodami klausimai | Primum Print | reklamai.lt"
 description: "Atsakymai į dažniausiai užduodamus klausimus apie reklamos gamybą, plačiaformatę spaudą, užsakymų pateikimą ir gamybos terminus."

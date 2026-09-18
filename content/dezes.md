@@ -1,9 +1,8 @@
 ---
 title: "Kartono dėžių ir pakuočių gamyba"
-slug: "dezes"
 menu_title: "Dėžės ir pakuotės"
 meta_title: "Kartono dėžių ir pakuočių gamyba | Primum Print | reklamai.lt"
-description: "Kartono dėžių ir pakuočių gamyba verslui. Tvarios medžiagos, tvirtos konstrukcijos, individualūs matmenys ir kiekiai. Visų spalvų spauda, "
+description: "Kartono dėžių ir pakuočių gamyba verslui. Tvarios medžiagos, tvirtos konstrukcijos, individualūs matmenys ir kiekiai. Visų spalvų spauda,"
 robots: "index, follow"
 layout: "page"
 weight: 50
@@ -23,4 +22,4 @@ draft: false
 <h3>Kartono dėžių gamyba ir techninės galimybės</h3>
 <p>Jeigu jūsų produkcijai reikalingi specifiniai matmenys, netradiciniai sukirpimai, specifinė kartono gramatūra ar norite ant pakuotės perkelti įmonės logotipą, Primum Print komanda padės įgyvendinti bet kokį sumanymą. Priklausomai nuo paskirties, parinksime tinkamą falių tipą, dvisluoksnę ar daugiasluoksnę tekturos struktūrą, užtikrinančią idealų tvirtumą.</p>
 
-<p>Ieškote patikimo partnerio savo verslo logistikai ir norite aptarti gamybos sąlygas bei tiražus? <a href="/kontaktai/">Susisiekite su mumis</a> jau šiandien – padėsime rasti optimaliausius pakavimo sprendimus!</p>
+<p>Ieškote patikimo partnerio savo verslo logistikai ir norite aptarti gamybos sąlygas bei tiražus? <a href=\"/kontaktai/\">Susisiekite su mumis</a> jau šiandien – padėsime rasti optimaliausius pakavimo sprendimus!</p>

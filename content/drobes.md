@@ -1,6 +1,5 @@
 ---
 title: "Fotodrobių spausdinimas"
-slug: "drobes"
 menu_title: "Fotodrobės"
 meta_title: "Fotodrobių spausdinimas | Primum Print | reklamai.lt"
 description: "Fotodrobių gamyba verslui ir interjerui. Aukščiausia spaudos raiška, natūralios tekstūros, sodrios spalvos ir individualūs matmenys."
@@ -35,4 +34,4 @@ draft: false
     <li><strong>Lankstumas:</strong> Gaminame pagal individualius matmenis ir poreikius – nuo nedidelių plotų iki didelės apimties sienų dekoravimo projektų.</li>
 </ul>
 
-<p>Jei norite atnaujinti interjerą ar ieškote nestandartinio sprendimo savo verslo erdvei, <a href="/kontaktai/">susisiekite su Primum Print biuru</a> – padėsime pasirinkti tinkamiausią medžiagą ir įgyvendinti sumanymą.</p>
+<p>Jei norite atnaujinti interjerą ar ieškote nestandartinio sprendimo savo verslo erdvei, <a href=\"/kontaktai/\">susisiekite su Primum Print biuru</a> – padėsime pasirinkti tinkamiausią medžiagą ir įgyvendinti sumanymą.</p>

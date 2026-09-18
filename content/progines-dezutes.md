@@ -1,6 +1,5 @@
 ---
 title: "Proginių ir dovanų dėžučių gamyba"
-slug: "progines-dezutes"
 menu_title: "Proginės dėžutės"
 meta_title: "Proginių ir dovanų dėžučių gamyba | Primum Print | reklamai.lt"
 description: "Proginių ir dovanų dėžučių iš kartono gamyba verslui. Individualus dizainas, kokybiška spauda, gamyba nuo mažų tiražų ir tikslūs terminai."
@@ -23,4 +22,4 @@ draft: false
 <h3>Ekologiškas pasirinkimas be kompromisų</h3>
 <p>Šiuolaikinis verslas ir sąmoningi vartotojai vertina tvarumą. Visi mūsų gaminami kartoniniai sprendimai kuriami naudojant ekologiškas, sertifikuotas ir lengvai perdirbamas medžiagas. Tai leidžia suderinti prabangią išvaizdą su atsakingu požiūriu į aplinką, leidžiant džiaugtis aukščiausia kokybe be žemės išteklių eikvojimo.</p>
 
-<p>Jei norite, kad jūsų produktai ar įmonės reprezentaciniai rinkiniai išsiskirtų rinkoje, <a href="/kontaktai/">susisiekite su Primum Print</a>– mes padėsime sukurti autorinius sprendimus, kurie palieka neišdildomą įspūdį.</p>
+<p>Jei norite, kad jūsų produktai ar įmonės reprezentaciniai rinkiniai išsiskirtų rinkoje, <a href=\"/kontaktai/\">susisiekite su Primum Print</a>– mes padėsime sukurti autorinius sprendimus, kurie palieka neišdildomą įspūdį.</p>
