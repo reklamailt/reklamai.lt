@@ -10,8 +10,6 @@ weight: 90
 draft: false
 ---
 
-<figure class="wp-block-image"><img src="https://reklamai.lt/wp-content/uploads/2021/02/ESFIVP-I-1-1024x512.jpg" alt=""/></figure>
-
 
 
 <h4><strong>UAB „Primum“</strong>&nbsp;įgyvendina Europos regioninės plėtros fondo lėšomis dalinai finansuojamą projektą „EFEKTYVIOS IR APLINKĄ TAUSOJANČIOS ĮRANGOS DIEGIMAS”</h4>
