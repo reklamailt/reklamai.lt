@@ -1,14 +1,14 @@
 {{ define "main" }}
-<div class="max-w-prose mx-auto px-6" style="padding-top: 2rem !important; margin-bottom: 2rem !important;">
+<div class="max-w-prose px-6" style="margin-left: 0 !important; margin-right: auto !important; padding-top: 2rem !important; margin-bottom: 2rem !important;">
   <main>
     <article class="flex flex-col text-left" style="align-items: flex-start !important;">
       <header class="w-full" style="margin-bottom: 2rem !important;">
-        <h1 class="text-4xl font-extrabold text-neutral-900 dark:text-neutral text-left" style="margin-top: 0 !important; margin-bottom: 0 !important;">
+        <h1 class="text-4xl font-extrabold text-neutral-900 dark:text-neutral text-left" style="margin-top: 0 !important; margin-bottom: 0 !important; margin-left: 0 !important;">
           {{ .Title }}
         </h1>
       </header>
       
-      <section class="prose dark:prose-invert max-w-none text-left w-full" style="text-align: left !important;">
+      <section class="prose dark:prose-invert max-w-none text-left w-full" style="text-align: left !important; margin-left: 0 !important;">
         {{ .Content }}
       </section>
     </article>
