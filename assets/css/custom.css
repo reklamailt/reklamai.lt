@@ -1,11 +1,13 @@
 /* ==========================================
-   1. Wyrównanie treści i nagłówków do lewej (wszystkie strony)
+   1. Wyrównanie treści i nagłówków do lewej
    ========================================== */
 .prose,
 .prose h1, .prose h2, .prose h3, .prose p, .prose ul,
 main h1, 
 article header h1,
-.content h1 {
+.content h1,
+body.list main h1,
+body.taxonomies main h1 {
   text-align: left !important;
   margin-left: 0 !important;
   margin-right: auto !important;
@@ -13,7 +15,9 @@ article header h1,
 
 main .flex.flex-col.items-center,
 article header,
-.flex.flex-col.items-center {
+.flex.flex-col.items-center,
+body.list main .flex,
+body.taxonomies main .flex {
   align-items: flex-start !important;
   text-align: left !important;
 }
@@ -69,32 +73,33 @@ article footer,
 /* ==========================================
    5. Jednolite odstępy A = B = C (Dla stron, podstron i kategorii)
    ========================================== */
-/* Zerujemy natywne marginesy kontenerów */
+/* Zerujemy natywne marginesy kontenerów głównych */
 main {
   padding-top: 0 !important;
   margin-top: 0 !important;
   padding-bottom: 0 !important;
+  margin-bottom: 2rem !important; /* Odstęp C na dole */
 }
 
-/* Uniformizujemy odstęp górny (B) dla artykułów, sekcji list i kategorii w Blowfish */
+/* Górny odstęp (B) dla zwykłych artykułów i stron kategorii */
 article, 
 main > div.flex.flex-col.max-w-prose, 
 section.max-w-prose,
-.main-inner {
-  padding-top: 2rem !important;
+.main-inner,
+body.list main > div,
+body.taxonomies main > div {
+  padding-top: 2rem !important; /* Górny odstęp B */
   margin-top: 0 !important;
 }
 
-/* Odstęp pod nagłówkiem H1 (A) oraz jednolity dół strony (C) */
+/* Odstęp pod nagłówkiem H1 (A) wszędzie, w tym na kategoriach */
 main h1, 
 article header h1,
-.content h1 {
+.content h1,
+body.list main h1,
+body.taxonomies main h1 {
   margin-top: 0 !important;
   margin-bottom: 2rem !important; /* Odstęp A */
-}
-
-main {
-  margin-bottom: 2rem !important;  /* Odstęp C */
 }
 
 footer {
