@@ -3,13 +3,13 @@
   <main>
     <article class="flex flex-col text-left" style="align-items: flex-start !important;">
       
-      <!-- Okruszki dla podkategorii z pełną ścieżką -->
+      <!-- Pełna ścieżka breadcrumbs dla podkategorii -->
       <div style="font-size: 0.875rem; margin-bottom: 1rem !important; text-align: left !important; width: 100%;">
         <a href="{{ "" | relURL }}" style="text-decoration: underline;" class="text-neutral-700 dark:text-neutral-300 font-medium">Primum Print</a> 
         
-        {{ with .Section }}
+        {{ with .Parent }}
           <span style="margin: 0 0.5rem;" class="text-neutral-400">/</span>
-          <a href="{{ (printf "/%s/" .) | relURL }}" style="text-decoration: underline;" class="text-neutral-700 dark:text-neutral-300 font-medium capitalize">{{ . | humanize }}</a>
+          <a href="{{ .RelPermalink }}" style="text-decoration: underline;" class="text-neutral-700 dark:text-neutral-300 font-medium">{{ .Title }}</a>
         {{ end }}
 
         <span style="margin: 0 0.5rem;" class="text-neutral-400">/</span>
