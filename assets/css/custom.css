@@ -39,7 +39,7 @@ body.index .article-pagination,
 }
 
 /* ==========================================
-   3. Skuteczne i ostateczne usunięcie kropek pod H1
+   3. Usunięcie kropek i metadanych pod H1
    ========================================== */
 article header .flex.items-center,
 .article-meta,
@@ -67,13 +67,18 @@ article footer,
 /* ==========================================
    5. Proporcjonalne odstępy: B = 2*A oraz C = 2*A
    ========================================== */
-/* Bazowy odstęp pod nagłówkiem (A) oraz górny margines (B = 2*A) */
+/* Górny margines całego nagłówka (B = 2*A, gdzie A = 1.5rem, więc B = 3rem) */
+article header {
+  margin-top: 3rem !important;
+}
+
+/* Bazowy odstęp pod nagłówkiem (A) */
 main h1, article header h1 {
-  margin-top: 3rem !important;    /* B (2x A) */
+  margin-top: 0 !important;
   margin-bottom: 1.5rem !important; /* A */
 }
 
-/* Odstęp na dole strony przed stopką (C = 2*A) */
+/* Odstęp na dole strony przed stopką (C = 2*A -> 3rem) */
 main {
   margin-bottom: 3rem !important;  /* C (2x A) */
   padding-bottom: 0 !important;
