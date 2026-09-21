@@ -1,1 +1,41 @@
+{{ define "main" }}
+<div class="max-w-prose px-6" style="margin-left: 0 !important; margin-right: auto !important; padding-top: 2rem !important; margin-bottom: 2rem !important;">
+  <main>
+    <article class="flex flex-col text-left" style="align-items: flex-start !important;">
+      
+      <!-- Okruszki dla podkategorii z dynamiczną ścieżką -->
+      <nav class="flex text-sm text-neutral-500 dark:text-neutral-400" aria-label="Breadcrumb" style="margin-bottom: 1rem !important; margin-left: 0 !important;">
+        <ol class="inline-flex items-center space-x-2">
+          <li class="inline-flex items-center">
+            <a href="{{ "" | relURL }}" class="hover:underline text-neutral-700 dark:text-neutral-300 font-medium">Primum Print</a>
+          </li>
+          {{ with .Section }}
+            <li>
+              <div class="flex items-center">
+                <span class="mx-2 text-neutral-400">/</span>
+                <a href="{{ (printf "/%s/" .) | relURL }}" class="hover:underline text-neutral-700 dark:text-neutral-300 font-medium capitalize">{{ . | humanize }}</a>
+              </div>
+            </li>
+          {{ end }}
+          <li>
+            <div class="flex items-center">
+              <span class="mx-2 text-neutral-400">/</span>
+              <span class="text-neutral-500 dark:text-neutral-400" aria-current="page">{{ .Title }}</span>
+            </div>
+          </li>
+        </ol>
+      </nav>
 
+      <header class="w-full" style="margin-bottom: 2rem !important;">
+        <h1 class="text-4xl font-extrabold text-neutral-900 dark:text-neutral text-left" style="margin-top: 0 !important; margin-bottom: 0 !important; margin-left: 0 !important;">
+          {{ .Title }}
+        </h1>
+      </header>
+      
+      <section class="prose dark:prose-invert max-w-none text-left w-full" style="text-align: left !important; margin-left: 0 !important;">
+        {{ .Content }}
+      </section>
+    </article>
+  </main>
+</div>
+{{ end }}
