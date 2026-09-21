@@ -85,6 +85,7 @@ menus:
 params:
   enableLanguageSwitcher: false
   search: true
+  breadcrumbs: true
   footerLinks:
     - name: "Plačiaformatė spauda"
       url: "/spauda/"
