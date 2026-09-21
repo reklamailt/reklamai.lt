@@ -10,8 +10,6 @@ weight: 90
 draft: false
 ---
 
-<figure class="wp-block-image"><img src="https://reklamai.lt/wp-content/uploads/2021/02/ESFIVP-I-1-1024x512.jpg" alt="This image has an empty alt attribute; its file name is ESFIVP-I-1-1024x512.jpg"/></figure>
-
 
 
 <h4>UAB „Primum“&nbsp;įgyvendina Europos regioninės plėtros fondo lėšomis dalinai finansuojamą projektą „Skaidrių apsauginių veido skydelių ir pertvarų, skirtų kovoti su COVID-19, gamyba“</h4>
