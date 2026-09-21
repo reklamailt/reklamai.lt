@@ -1,5 +1,5 @@
 baseURL: "https://reklamai.lt/"
-languageCode: "lt-LT"
+locale: "lt-LT"
 defaultContentLanguage: "lt"
 title: "Primum Print"
 theme: "blowfish"
@@ -8,7 +8,7 @@ canonifyURLs: true
 
 languages:
   lt:
-    languageName: "Lietuvių"
+    label: "Lietuvių"
     weight: 1
 
 outputs:
@@ -96,4 +96,3 @@ params:
       url: "/kontaktai/"
     - name: "Apsauginės pertvaros"
       url: "/saugiam-verslui/"
-      
