@@ -6,6 +6,7 @@ meta_title: "Backlit plakatai šviesdėžėms | Primum Print | reklamai.lt"
 description: "Specialūs backlit plakatai šviesdėžėms ir reklaminiams kasetonams. Tolygus šviesos pralaidumas, sodrios spalvos ir ilgaamžės medžiagos įvairiems formatams."
 robots: "index, follow"
 layout: "page"
+breadcrumbs: true
 weight: 10
 draft: false
 ---
