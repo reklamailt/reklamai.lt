@@ -17,10 +17,8 @@ draft: false
   <li><strong>Prekybinė įranga ir <a href="/stovai/">reklaminiai stovai</a>:</strong> stabilios, individualios konstrukcijos Jūsų produkcijai išskirti. Siūlome įvairių tipų ekspozicijas FMCG, maisto, gėrimų, kosmetikos, prekių gyvūnams bei DIY sektoriams – nuo didelių grindų stovų prekės ženklo komunikacijai ir stabilių stovų didesniems svoriams iki kompaktiškų stovų, birios taros krepšių bei patogių konstrukcijų su kabliais prekių eksponavimui.</li>
   <li><strong>Mažosios formos:</strong> <a href="/prekybiniai-stoveliai/">Prekybiniai stoveliai</a> ir prekių laikikliai – praktiški sprendimai meniu, kainoms ir smulkioms prekėms.</li>
   <li><strong>Prekybos vietų apipavidalinimas:</strong> <a href="/paletines-dekoracijos/">Paletinės dekoracijos ir apjuosimai</a> – efektyvi ekspozicija ant palečių dideliuose prekybos centruose.</li>
-  <li><strong>Pakuotės ir dovanos:</strong> <a href="/progines-ir-vardines-dezutes/">Proginės bei dovanų dėžutės</a> – išskirtinis dizainas, vardinė spauda ir kokybiški sprendimai nedideliems tiražams ar išskirtinėms progoms.</li>
+  <li><strong>Pakuotės ir dovanos:</strong> <a href="/progines-dezutes/">Proginės ir dovanų dėžutės</a> – išskirtinis dizainas, vardinė spauda ir kokybiški sprendimai nedideliems tiražams ar išskirtinėms progoms.</li>
   <li><strong>Pramoninė tara:</strong> <a href="/dezes/">Kartono dėžės ir pakuotės</a> – tvirtos, tvarios konstrukcijos pagal individualius matmenis ir kiekius kasdienei logistikai.</li>
 </ul>
 
 <p>Visi gaminiai gaminami pasitelkiant aukštos kokybės skaitmeninę spaudas, užtikrinančią ryškias spalvas, ilgaamžiškumą ir nepriekaištingą estetiką. Jei turite specifinį užsakymą, ieškote tinkamiausio konstrukcinio sprendimo ar norite suderinti visą kampanijos įgyvendinimą, <a href="/kontaktai/">susisiekite su mumis</a> – aptarsime projekto detales.</p>
-
-
