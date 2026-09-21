@@ -63,20 +63,21 @@ article footer,
 }
 
 /* ==========================================
-   5. Prawidłowe odstępy: H1 od tekstu i dół przed stopką
+   5. Proporcjonalne odstępy: B = 2*A oraz C = 2*A
    ========================================== */
-/* Odstęp między głównym nagłówkiem H1 a pierwszą linijką tekstu */
+/* Bazowy odstęp pod nagłówkiem (A) oraz górny margines (B = 2*A) */
 main h1, article header h1 {
-  margin-bottom: 1.5rem !important;
+  margin-top: 3rem !important;    /* B (2x A) */
+  margin-bottom: 1.5rem !important; /* A */
 }
 
-/* Redukcja wielkiej przestrzeni przed stopką */
+/* Odstęp na dole strony przed stopką (C = 2*A) */
 main {
-  margin-bottom: 1rem !important;
+  margin-bottom: 3rem !important;  /* C (2x A) */
   padding-bottom: 0 !important;
 }
 
 footer {
-  margin-top: 1rem !important;
-  padding-top: 0.5rem !important;
+  margin-top: 0 !important;
+  padding-top: 1rem !important;
 }
