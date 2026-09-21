@@ -8,10 +8,11 @@ theme = 'blowfish'
   languageName = "Lietuvių"
   weight = 1
 
-# Wymagane formaty wyjściowe dla strony głównej i sekcji
+# Wymagane formaty wyjściowe do zbudowania bazy wyszukiwania JSON w Blowfish
 [outputs]
   home = ["HTML", "JSON"]
   section = ["HTML", "JSON"]
+  page = ["HTML", "JSON"]
 
 [markup]
   [markup.goldmark]
@@ -88,10 +89,10 @@ theme = 'blowfish'
     url = "/kontaktai/"
     weight = 80
 
-# Parametry motywu Blowfish
+# Parametry motywu z włączoną wyszukiwarką
 [params]
   enableLanguageSwitcher = false
-  search = true # Aktywacja wbudowanego mechanizmu wyszukiwania
+  search = true # Włącza funkcjonalność wyszukiwania w Blowfish
   
   [[params.footerLinks]]
     name = "Plačiaformatė spauda"
@@ -111,4 +112,3 @@ theme = 'blowfish'
   [[params.footerLinks]]
     name = "Apsauginės pertvaros"
     url = "/saugiam-verslui/"
-    
