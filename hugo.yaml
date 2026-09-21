@@ -86,6 +86,11 @@ params:
   enableLanguageSwitcher: false
   search: true
   breadcrumbs: true
+  
+  # Własny styl CSS usuwający kropki i zmniejszający odstęp przed stopką
+  customCSS:
+    - "css/custom.css"
+
   footerLinks:
     - name: "Plačiaformatė spauda"
       url: "/spauda/"
