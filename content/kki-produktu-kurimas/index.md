@@ -10,8 +10,6 @@ weight: 90
 draft: false
 ---
 
-<figure class="wp-block-image size-full"><img src="https://reklamai.lt/wp-content/uploads/2022/08/image.png" alt="UAB &quot;Primum Print&quot; pradeda projekto „Naujos paslaugos sukūrimas reklamos gamyboje“ įgyvendinimą" class="wp-image-973"/></figure>
-
 
 
 <h4><strong>Pradedamas įgyvendinti projektas „Naujos paslaugos sukūrimas reklamos gamyboje“</strong></h4>
