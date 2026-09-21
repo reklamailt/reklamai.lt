@@ -65,40 +65,31 @@ article footer,
 }
 
 /* ==========================================
-   5. Precyzyjne proporcje B = 2*A oraz C = 2*A (Kategorie i Podstrony)
+   5. Jednolite odstępy A = B = C
    ========================================== */
-/* Globalny dół sekcji głównej (C = 3rem -> 2 x A) */
+/* Zerujemy natywne marginesy kontenerów */
 main {
-  margin-bottom: 3rem !important;
-  padding-bottom: 0 !important;
   padding-top: 0 !important;
-}
-
-/* Górny odstęp (B = 3rem) dla zwykłych artykułów / podstron */
-article {
-  padding-top: 3rem !important;
-}
-
-article header {
   margin-top: 0 !important;
-  margin-bottom: 1.5rem !important; /* A = 1.5rem */
+  padding-bottom: 0 !important;
 }
 
-/* Górny odstęp (B = 3rem) dedykowany specjalnie dla stron kategorii / list */
-main > div.flex.flex-col.max-w-prose,
-main .main-inner,
-section.max-w-prose {
-  margin-top: 3rem !important;
+article, main > div.flex.flex-col.max-w-prose, section.max-w-prose {
+  padding-top: 2rem !important; /* Górny odstęp B */
+  margin-top: 0 !important;
 }
 
-/* Bazowy odstęp pod nagłówkiem H1 (A = 1.5rem) */
+/* Odstęp pod nagłówkiem H1 (A) oraz jednolity dół strony (C) */
 main h1, 
 article header h1 {
   margin-top: 0 !important;
-  margin-bottom: 1.5rem !important; /* A = 1.5rem */
+  margin-bottom: 2rem !important; /* Odstęp A */
 }
 
-/* Odstęp stopki */
+main {
+  margin-bottom: 2rem !important;  /* Odstęp C */
+}
+
 footer {
   margin-top: 0 !important;
   padding-top: 1rem !important;
