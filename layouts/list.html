@@ -3,12 +3,20 @@
   <main>
     <article class="flex flex-col text-left" style="align-items: flex-start !important;">
       
-      <!-- Twardo wymuszone breadcrumbs -->
-      <div style="font-size: 0.875rem; color: #a3a3a3; margin-bottom: 1rem !important; text-align: left !important; width: 100%;">
-        <a href="{{ "" | relURL }}" style="color: #a3a3a3; text-decoration: underline;">Primum Print</a> 
-        <span style="margin: 0 0.5rem; color: #737373;">/</span> 
-        <span style="color: #e5e5e5;">{{ .Title }}</span>
-      </div>
+      <!-- Okruszki z obsługą trybu jasnego i ciemnego -->
+      <nav class="flex text-sm text-neutral-500 dark:text-neutral-400" aria-label="Breadcrumb" style="margin-bottom: 1rem !important; margin-left: 0 !important;">
+        <ol class="inline-flex items-center space-x-2">
+          <li class="inline-flex items-center">
+            <a href="{{ "" | relURL }}" class="hover:underline text-neutral-700 dark:text-neutral-300 font-medium">Primum Print</a>
+          </li>
+          <li>
+            <div class="flex items-center">
+              <span class="mx-2 text-neutral-400">/</span>
+              <span class="text-neutral-500 dark:text-neutral-400" aria-current="page">{{ .Title }}</span>
+            </div>
+          </li>
+        </ol>
+      </nav>
 
       <header class="w-full" style="margin-bottom: 2rem !important;">
         <h1 class="text-4xl font-extrabold text-neutral-900 dark:text-neutral text-left" style="margin-top: 0 !important; margin-bottom: 0 !important; margin-left: 0 !important;">
