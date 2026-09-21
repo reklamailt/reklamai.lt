@@ -1,114 +1,96 @@
-baseURL = 'https://reklamai.lt/'
-locale = 'lt-LT'
-defaultContentLanguage = 'lt'
-title = 'Primum Print'
-theme = 'blowfish'
+baseURL: "https://reklamai.lt/"
+locale: "lt-LT"
+defaultContentLanguage: "lt"
+title: "Primum Print"
+theme: "blowfish"
 
-[languages.lt]
-  languageName = "Lietuvių"
-  weight = 1
+languages:
+  lt:
+    languageName: "Lietuvių"
+    weight: 1
 
-# Wymagane formaty wyjściowe do zbudowania bazy wyszukiwania JSON w Blowfish
-[outputs]
-  home = ["HTML", "JSON"]
-  section = ["HTML", "JSON"]
-  page = ["HTML", "JSON"]
+outputs:
+  home:
+    - HTML
+    - JSON
+  section:
+    - HTML
+    - JSON
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 
-# Menu główne
-[menus]
-  [[menus.main]]
-    name = "Plačiaformatė spauda"
-    url = "/spauda/"
-    weight = 10
-  [[menus.main]]
-    name = "Backlit plakatai"
-    url = "/backlit/"
-    parent = "Plačiaformatė spauda"
-    weight = 10
-  [[menus.main]]
-    name = "UV spauda"
-    url = "/uv-spauda/"
-    parent = "Plačiaformatė spauda"
-    weight = 20
-  [[menus.main]]
-    name = "Kartono gaminiai"
-    url = "/kartono-sprendimai-reklamai/"
-    weight = 20
-  [[menus.main]]
-    name = "Stovai"
-    url = "/stovai/"
-    parent = "Kartono gaminiai"
-    weight = 10
-  [[menus.main]]
-    name = "Stoveliai"
-    url = "/prekybiniai-stoveliai/"
-    parent = "Kartono gaminiai"
-    weight = 20
-  [[menus.main]]
-    name = "Fotodrobės"
-    url = "/drobes/"
-    parent = "Plačiaformatė spauda"
-    weight = 30
-  [[menus.main]]
-    name = "Paletinės dekoracijos"
-    url = "/paletines-dekoracijos/"
-    parent = "Kartono gaminiai"
-    weight = 30
-  [[menus.main]]
-    name = "Tentai"
-    url = "/tentai/"
-    parent = "Plačiaformatė spauda"
-    weight = 40
-  [[menus.main]]
-    name = "Proginės dėžutės"
-    url = "/progines-dezutes/"
-    parent = "Kartono gaminiai"
-    weight = 40
-  [[menus.main]]
-    name = "Etiketės ir lipdukai"
-    url = "/etiketes/"
-    parent = "Plačiaformatė spauda"
-    weight = 50
-  [[menus.main]]
-    name = "Dėžės ir pakuotės"
-    url = "/dezes/"
-    parent = "Kartono gaminiai"
-    weight = 50
-  [[menus.main]]
-    name = "Lentelės ir ženklai"
-    url = "/lenteles/"
-    parent = "Plačiaformatė spauda"
-    weight = 60
-  [[menus.main]]
-    name = "Kontaktai"
-    url = "/kontaktai/"
-    weight = 80
+menus:
+  main:
+    - name: "Plačiaformatė spauda"
+      url: "/spauda/"
+      weight: 10
+    - name: "Backlit plakatai"
+      url: "/backlit/"
+      parent: "Plačiaformatė spauda"
+      weight: 10
+    - name: "UV spauda"
+      url: "/uv-spauda/"
+      parent: "Plačiaformatė spauda"
+      weight: 20
+    - name: "Kartono gaminiai"
+      url: "/kartono-sprendimai-reklamai/"
+      weight: 20
+    - name: "Stovai"
+      url: "/stovai/"
+      parent: "Kartono gaminiai"
+      weight: 10
+    - name: "Stoveliai"
+      url: "/prekybiniai-stoveliai/"
+      parent: "Kartono gaminiai"
+      weight: 20
+    - name: "Fotodrobės"
+      url: "/drobes/"
+      parent: "Plačiaformatė spauda"
+      weight: 30
+    - name: "Paletinės dekoracijos"
+      url: "/paletines-dekoracijos/"
+      parent: "Kartono gaminiai"
+      weight: 30
+    - name: "Tentai"
+      url: "/tentai/"
+      parent: "Plačiaformatė spauda"
+      weight: 40
+    - name: "Proginės dėžutės"
+      url: "/progines-dezutes/"
+      parent: "Kartono gaminiai"
+      weight: 40
+    - name: "Etiketės ir lipdukai"
+      url: "/etiketes/"
+      parent: "Plačiaformatė spauda"
+      weight: 50
+    - name: "Dėžės ir pakuotės"
+      url: "/dezes/"
+      parent: "Kartono gaminiai"
+      weight: 50
+    - name: "Lentelės ir ženklai"
+      url: "/lenteles/"
+      parent: "Plačiaformatė spauda"
+      weight: 60
+    - name: "Kontaktai"
+      url: "/kontaktai/"
+      weight: 80
 
-# Parametry motywu z włączoną wyszukiwarką
-[params]
-  enableLanguageSwitcher = false
-  search = true # Włącza funkcjonalność wyszukiwania w Blowfish
-  
-  [[params.footerLinks]]
-    name = "Plačiaformatė spauda"
-    url = "/spauda/"
-  [[params.footerLinks]]
-    name = "Kliento sritis"
-    url = "http://primumprint.reklamai.lt"
-  [[params.footerLinks]]
-    name = "ES finansuojami projektai"
-    url = "https://reklamai.lt/es-investicijos/"
-  [[params.footerLinks]]
-    name = "Apie Primum Print"
-    url = "/apie-uab-primum/"
-  [[params.footerLinks]]
-    name = "Kontaktai"
-    url = "/kontaktai/"
-  [[params.footerLinks]]
-    name = "Apsauginės pertvaros"
-    url = "/saugiam-verslui/"
+params:
+  enableLanguageSwitcher: false
+  search: true
+  footerLinks:
+    - name: "Plačiaformatė spauda"
+      url: "/spauda/"
+    - name: "Kliento sritis"
+      url: "http://primumprint.reklamai.lt"
+    - name: "ES finansuojami projektai"
+      url: "https://reklamai.lt/es-investicijos/"
+    - name: "Apie Primum Print"
+      url: "/apie-uab-primum/"
+    - name: "Kontaktai"
+      url: "/kontaktai/"
+    - name: "Apsauginės pertvaros"
+      url: "/saugiam-verslui/"
