@@ -28,53 +28,55 @@ menus:
   main:
     - name: "Plačiaformatė spauda"
       url: "/spauda/"
+      identifier: "spauda"
       weight: 10
     - name: "Backlit plakatai"
       url: "/backlit/"
-      parent: "Plačiaformatė spauda"
+      parent: "spauda"
       weight: 10
     - name: "UV spauda"
       url: "/uv-spauda/"
-      parent: "Plačiaformatė spauda"
+      parent: "spauda"
       weight: 20
     - name: "Kartono gaminiai"
       url: "/kartono-sprendimai-reklamai/"
+      identifier: "kartonas"
       weight: 20
     - name: "Stovai"
       url: "/stovai/"
-      parent: "Kartono gaminiai"
+      parent: "kartonas"
       weight: 10
     - name: "Stoveliai"
       url: "/prekybiniai-stoveliai/"
-      parent: "Kartono gaminiai"
+      parent: "kartonas"
       weight: 20
     - name: "Fotodrobės"
       url: "/drobes/"
-      parent: "Plačiaformatė spauda"
+      parent: "spauda"
       weight: 30
     - name: "Paletinės dekoracijos"
       url: "/paletines-dekoracijos/"
-      parent: "Kartono gaminiai"
+      parent: "kartonas"
       weight: 30
     - name: "Tentai"
       url: "/tentai/"
-      parent: "Plačiaformatė spauda"
+      parent: "spauda"
       weight: 40
     - name: "Proginės dėžutės"
       url: "/progines-dezutes/"
-      parent: "Kartono gaminiai"
+      parent: "kartonas"
       weight: 40
     - name: "Etiketės ir lipdukai"
       url: "/etiketes/"
-      parent: "Plačiaformatė spauda"
+      parent: "spauda"
       weight: 50
     - name: "Dėžės ir pakuotės"
       url: "/dezes/"
-      parent: "Kartono gaminiai"
+      parent: "kartonas"
       weight: 50
     - name: "Lentelės ir ženklai"
       url: "/lenteles/"
-      parent: "Plačiaformatė spauda"
+      parent: "spauda"
       weight: 60
     - name: "Kontaktai"
       url: "/kontaktai/"
@@ -96,4 +98,3 @@ params:
       url: "/kontaktai/"
     - name: "Apsauginės pertvaros"
       url: "/saugiam-verslui/"
-      
