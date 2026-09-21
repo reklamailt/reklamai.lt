@@ -65,22 +65,31 @@ article footer,
 }
 
 /* ==========================================
-   5. Proporcjonalne odstępy: B = 2*A oraz C = 2*A
+   5. Ścisła kontrola proporcji odstępów (B = 2*A oraz C = 2*A)
    ========================================== */
-/* Górny margines całego nagłówka (B = 2*A, gdzie A = 1.5rem, więc B = 3rem) */
-article header {
-  margin-top: 3rem !important;
-}
-
-/* Bazowy odstęp pod nagłówkiem (A) */
-main h1, article header h1 {
-  margin-top: 0 !important;
-  margin-bottom: 1.5rem !important; /* A */
-}
-
-/* Odstęp na dole strony przed stopką (C = 2*A -> 3rem) */
+/* Usunięcie automatycznych paddingów/marginsów nakładanych przez motyw na sekcję główną */
 main {
-  margin-bottom: 3rem !important;  /* C (2x A) */
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
+
+/* Nadpisujemy główne kontenery nagłówków wszędzie (zarówno strony, jak i listy podkategorii) */
+article header, 
+main > div.flex.flex-col {
+  margin-top: 3rem !important;    /* B = 3rem (2 x A) */
+  padding-top: 0 !important;
+}
+
+/* Bazowy odstęp pod nagłówkiem H1 (A = 1.5rem) */
+main h1, 
+article header h1 {
+  margin-top: 0 !important;
+  margin-bottom: 1.5rem !important; /* A = 1.5rem */
+}
+
+/* Odstęp na dole strony przed stopką (C = 3rem -> 2 x A) */
+main {
+  margin-bottom: 3rem !important;  /* C = 3rem (2 x A) */
   padding-bottom: 0 !important;
 }
 
