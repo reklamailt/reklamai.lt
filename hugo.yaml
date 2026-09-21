@@ -3,8 +3,6 @@ locale: "lt-LT"
 defaultContentLanguage: "lt"
 title: "Primum Print"
 theme: "blowfish"
-relativeURLs: false
-canonifyURLs: true
 
 languages:
   lt:
@@ -13,9 +11,6 @@ languages:
 
 outputs:
   home:
-    - HTML
-    - JSON
-  section:
     - HTML
     - JSON
 
@@ -85,9 +80,7 @@ menus:
 params:
   enableLanguageSwitcher: false
   search: true
-  breadcrumbs: true
   
-  # Własny styl CSS usuwający kropki i zmniejszający odstęp przed stopką
   customCSS:
     - "css/custom.css"
 
