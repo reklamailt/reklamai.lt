@@ -1,5 +1,5 @@
 /* ==========================================
-   1. Wyrównanie treści, nagłówków i kontenerów do lewej
+   1. Wyrównanie treści i nagłówków do lewej
    ========================================== */
 .prose,
 .prose h1, .prose h2, .prose h3, .prose p, .prose ul,
@@ -17,7 +17,7 @@ article header {
 }
 
 /* ==========================================
-   2. Pełne wyrównanie strony głównej (homepage)
+   2. Pełne wyrównanie strony głównej
    ========================================== */
 body.index main,
 .home main,
@@ -27,7 +27,7 @@ main .flex.flex-col.items-center {
 }
 
 body.index h1, body.index h2, body.index p, body.index ul,
-.home h1, .home h2, .home h, .home p, .home ul {
+.home h1, .home h2, .home p, .home ul {
   text-align: left !important;
   margin-left: 0 !important;
   margin-right: auto !important;
@@ -39,19 +39,13 @@ body.index .article-pagination,
 }
 
 /* ==========================================
-   3. Usunięcie zbędnych kropek i separatorów pod nagłówkiem
+   3. Całkowite usunięcie kropek i metadanych pod H1
    ========================================== */
-article header .flex.items-center span:empty,
-article header .flex.items-center .opacity-50,
-article header .flex.items-center > span:not(:last-child):after,
-.relative header span.text-neutral-400 {
-  display: none !important;
-}
-
-.flex.flex-row.flex-wrap.items-center span:nth-child(2):empty {
-  display: none !important;
-}
-.article-meta span + span:empty {
+article header .flex.items-center,
+.article-meta,
+.flex.flex-row.flex-wrap.items-center,
+article header span.text-neutral-400,
+article header .opacity-50 {
   display: none !important;
 }
 
@@ -69,8 +63,14 @@ article footer,
 }
 
 /* ==========================================
-   5. Odstępy: poprawny pod H1, zmniejszony przed stopką
+   5. Prawidłowe odstępy: H1 od tekstu i dół przed stopką
    ========================================== */
+/* Odstęp między głównym nagłówkiem H1 a pierwszą linijką tekstu */
+main h1, article header h1 {
+  margin-bottom: 1.5rem !important;
+}
+
+/* Redukcja wielkiej przestrzeni przed stopką */
 main {
   margin-bottom: 1rem !important;
   padding-bottom: 0 !important;
@@ -78,5 +78,5 @@ main {
 
 footer {
   margin-top: 1rem !important;
-  padding-top: 1rem !important;
+  padding-top: 0.5rem !important;
 }
