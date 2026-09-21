@@ -39,13 +39,19 @@ body.index .article-pagination,
 }
 
 /* ==========================================
-   3. Całkowite usunięcie kropek i metadanych pod H1
+   3. Czyszczenie kropek z zachowaniem breadcrumbs
    ========================================== */
-article header .flex.items-center,
-.article-meta,
-.flex.flex-row.flex-wrap.items-center,
-article header span.text-neutral-400,
-article header .opacity-50 {
+/* Ukrywamy tylko puste separatory i niepotrzebne kropki metadanych, zostawiając breadcrumbs */
+article header .flex.items-center > span:not(:last-child):after,
+.relative header span.text-neutral-400 {
+  display: none !important;
+}
+
+.flex.flex-row.flex-wrap.items-center span:nth-child(2):empty {
+  display: none !important;
+}
+
+.article-meta span + span:empty {
   display: none !important;
 }
 
