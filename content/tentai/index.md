@@ -1,6 +1,5 @@
 ---
 title: "Reklaminių tentų gamyba"
-slug: "tentai"
 menu_title: "Tentai"
 meta_title: "Reklaminių tentų gamyba | Primum Print | reklamai.lt"
 description: "Reklaminių tentų gamyba lauko reklamai. Visiems oro sąlygoms atsparios medžiagos, sutvirtinti kraštai, metalinės kilpos (liuvesiai), ilgaamžė spauda."
