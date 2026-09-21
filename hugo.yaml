@@ -8,12 +8,16 @@ theme = 'blowfish'
   languageName = "Lietuvių"
   weight = 1
 
+# Włączenie indeksu JSON wymaganego przez wyszukiwanie w Blowfish
+[outputs]
+  home = ["HTML", "JSON"]
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
 
-# Pozostawiamy menu główne bez zmian
+# Menu główne
 [menus]
   [[menus.main]]
     name = "Plačiaformatė spauda"
@@ -83,7 +87,7 @@ theme = 'blowfish'
     url = "/kontaktai/"
     weight = 80
 
-# W ten sposób motyw Blowfish wczytuje stopkę natywnie
+# Parametry motywu (stopka i wyłączenie przełącznika języków)
 [params]
   enableLanguageSwitcher = false
   [[params.footerLinks]]
