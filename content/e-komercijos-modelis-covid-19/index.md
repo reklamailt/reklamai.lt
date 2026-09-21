@@ -10,8 +10,6 @@ weight: 90
 draft: false
 ---
 
-<figure class="wp-block-image"><img src="https://reklamai.lt/wp-content/uploads/2021/02/ESFIVP-I-1-1024x512.jpg" alt="Pradedamas įgyvendinti projektas „E-komercijos modelio diegimas UAB „Primum““"/></figure>
-
 
 
 <h4>Pradedamas įgyvendinti projektas „E-komercijos modelio diegimas UAB „Primum““</h4>
