@@ -1,17 +1,19 @@
 /* ==========================================
-   1. Wyrównanie treści i nagłówków do lewej
+   1. Wyrównanie treści i nagłówków do lewej (wszystkie strony)
    ========================================== */
 .prose,
 .prose h1, .prose h2, .prose h3, .prose p, .prose ul,
 main h1, 
-article header h1 {
+article header h1,
+.content h1 {
   text-align: left !important;
   margin-left: 0 !important;
   margin-right: auto !important;
 }
 
 main .flex.flex-col.items-center,
-article header {
+article header,
+.flex.flex-col.items-center {
   align-items: flex-start !important;
   text-align: left !important;
 }
@@ -65,7 +67,7 @@ article footer,
 }
 
 /* ==========================================
-   5. Jednolite odstępy A = B = C
+   5. Jednolite odstępy A = B = C (Dla stron, podstron i kategorii)
    ========================================== */
 /* Zerujemy natywne marginesy kontenerów */
 main {
@@ -74,14 +76,19 @@ main {
   padding-bottom: 0 !important;
 }
 
-article, main > div.flex.flex-col.max-w-prose, section.max-w-prose {
-  padding-top: 2rem !important; /* Górny odstęp B */
+/* Uniformizujemy odstęp górny (B) dla artykułów, sekcji list i kategorii w Blowfish */
+article, 
+main > div.flex.flex-col.max-w-prose, 
+section.max-w-prose,
+.main-inner {
+  padding-top: 2rem !important;
   margin-top: 0 !important;
 }
 
 /* Odstęp pod nagłówkiem H1 (A) oraz jednolity dół strony (C) */
 main h1, 
-article header h1 {
+article header h1,
+.content h1 {
   margin-top: 0 !important;
   margin-bottom: 2rem !important; /* Odstęp A */
 }
