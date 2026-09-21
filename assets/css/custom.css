@@ -76,7 +76,7 @@ article footer,
 }
 
 /* ==========================================
-   5. Jednolite odstępy A = B = C dla wszystkich stron
+   5. Jednolite odstępy A = B = C dla wszystkich stron i kategorii
    ========================================== */
 main {
   padding-top: 0 !important;
@@ -88,14 +88,18 @@ main {
 article, 
 main > div.flex.flex-col.max-w-prose, 
 section.max-w-prose,
-.main-inner {
+.main-inner,
+body.list main > div,
+body.taxonomies main > div {
   padding-top: 2rem !important; /* Górny odstęp B */
   margin-top: 0 !important;
 }
 
 main h1, 
 article header h1,
-.content h1 {
+.content h1,
+body.list main h1,
+body.taxonomies main h1 {
   margin-top: 0 !important;
   margin-bottom: 2rem !important; /* Odstęp A */
 }
