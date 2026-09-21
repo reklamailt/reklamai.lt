@@ -1,4 +1,6 @@
-/* 1. Wyrównanie treści i nagłówków do lewej */
+/* ==========================================
+   1. Wyrównanie treści, nagłówków i kontenerów do lewej
+   ========================================== */
 .prose,
 .prose h1, .prose h2, .prose h3, .prose p, .prose ul,
 main h1, 
@@ -8,14 +10,37 @@ article header h1 {
   margin-right: auto !important;
 }
 
-/* 2. Wyrównanie kontenerów głównych do lewej */
 main .flex.flex-col.items-center,
 article header {
   align-items: flex-start !important;
   text-align: left !important;
 }
 
-/* 3. Usunięcie zbędnych kropek pod nagłówkiem */
+/* ==========================================
+   2. Pełne wyrównanie strony głównej (homepage)
+   ========================================== */
+body.index main,
+.home main,
+main .flex.flex-col.items-center {
+  text-align: left !important;
+  align-items: flex-start !important;
+}
+
+body.index h1, body.index h2, body.index p, body.index ul,
+.home h1, .home h2, .home h, .home p, .home ul {
+  text-align: left !important;
+  margin-left: 0 !important;
+  margin-right: auto !important;
+}
+
+body.index .article-pagination,
+.home nav.flex {
+  display: none !important;
+}
+
+/* ==========================================
+   3. Usunięcie zbędnych kropek i separatorów pod nagłówkiem
+   ========================================== */
 article header .flex.items-center span:empty,
 article header .flex.items-center .opacity-50,
 article header .flex.items-center > span:not(:last-child):after,
@@ -23,7 +48,16 @@ article header .flex.items-center > span:not(:last-child):after,
   display: none !important;
 }
 
-/* 4. Usunięcie dolnej nawigacji i odnośników tekstowych */
+.flex.flex-row.flex-wrap.items-center span:nth-child(2):empty {
+  display: none !important;
+}
+.article-meta span + span:empty {
+  display: none !important;
+}
+
+/* ==========================================
+   4. Ukrycie zbędnej dolnej nawigacji
+   ========================================== */
 article nav,
 .article-pagination,
 nav.flex.flex-row.justify-between,
@@ -33,43 +67,16 @@ article footer,
 .flex.justify-between.text-neutral-500 {
   display: none !important;
 }
-/* Pełne wyrównanie i oczyszczenie strony głównej (homepage) */
-body.index main,
-.home main,
-main .flex.flex-col.items-center {
-  text-align: left !important;
-  align-items: flex-start !important;
-}
 
-/* Wyrównanie nagłówków i paragrafów na stronie głównej */
-body.index h1, body.index h2, body.index p, body.index ul,
-.home h1, .home h2, .home h, .home p, .home ul {
-  text-align: left !important;
-  margin-left: 0 !important;
-  margin-right: auto !important;
-}
-
-/* Usunięcie ewentualnych śmieci, kropek lub starych elementów na home */
-body.index .article-pagination,
-.home nav.flex {
-  display: none !important;
-}
-
-
-
-/* Ukrycie wadliwego separatora/kropek w metadanych nagłówka */
-.flex.flex-row.flex-wrap.items-center span:nth-child(2):empty {
-  display: none !important;
-}
-.article-meta span + span:empty {
-  display: none !important;
-}
-
-/* Zmniejszenie przestrzeni na dole strony przed stopką */
+/* ==========================================
+   5. Odstępy: poprawny pod H1, zmniejszony przed stopką
+   ========================================== */
 main {
-  margin-bottom: 2rem !important;
-  padding-bottom: 1rem !important;
+  margin-bottom: 1rem !important;
+  padding-bottom: 0 !important;
 }
+
 footer {
   margin-top: 1rem !important;
+  padding-top: 1rem !important;
 }
