@@ -3,30 +3,10 @@
   <main>
     <article class="flex flex-col text-left" style="align-items: flex-start !important;">
       
-      <!-- Okruszki (Breadcrumbs) dla SEO -->
-      {{ if .Params.showBreadcrumbs | default (.Site.Params.article.showBreadcrumbs | default true) }}
-        <nav class="flex text-sm text-neutral-500 dark:text-neutral-400 mb-4" aria-label="Breadcrumb">
-          <ol class="inline-flex items-center space-x-1 md:space-x-3">
-            <li class="inline-flex items-center">
-              <a href="{{ "" | relURL }}" class="hover:underline">Home</a>
-            </li>
-            {{ with .Parent }}
-              <li>
-                <div class="flex items-center">
-                  <span class="mx-2">/</span>
-                  <a href="{{ .RelPermalink }}" class="hover:underline">{{ .Title }}</a>
-                </div>
-              </li>
-            {{ end }}
-            <li>
-              <div class="flex items-center">
-                <span class="mx-2">/</span>
-                <span class="text-neutral-400" aria-current="page">{{ .Title }}</span>
-              </div>
-            </li>
-          </ol>
-        </nav>
-      {{ end }}
+      <!-- Oficjalne breadcrumbs z motywu Blowfish -->
+      <div class="w-full text-left" style="margin-bottom: 1rem !important; margin-left: 0 !important;">
+        {{ partial "breadcrumbs.html" . }}
+      </div>
 
       <header class="w-full" style="margin-bottom: 2rem !important;">
         <h1 class="text-4xl font-extrabold text-neutral-900 dark:text-neutral text-left" style="margin-top: 0 !important; margin-bottom: 0 !important; margin-left: 0 !important;">
