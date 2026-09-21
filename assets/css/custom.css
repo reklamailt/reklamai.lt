@@ -27,7 +27,7 @@ main .flex.flex-col.items-center {
 }
 
 body.index h1, body.index h2, body.index p, body.index ul,
-.home h1, .home h2, .home p, .home ul {
+.home h1, .home h2, .home h, .home p, .home ul {
   text-align: left !important;
   margin-left: 0 !important;
   margin-right: auto !important;
@@ -39,7 +39,7 @@ body.index .article-pagination,
 }
 
 /* ==========================================
-   3. Całkowite usunięcie kropek i metadanych pod H1
+   3. Usunięcie kropek i metadanych pod H1
    ========================================== */
 article header .flex.items-center,
 .article-meta,
@@ -65,34 +65,40 @@ article footer,
 }
 
 /* ==========================================
-   5. Wymuszenie proporcji B = 2*A oraz C = 2*A na każdej podstronie
+   5. Precyzyjne proporcje B = 2*A oraz C = 2*A (Kategorie i Podstrony)
    ========================================== */
-/* Zerujemy wbudowane marginesy kontenerów głównych motywu */
+/* Globalny dół sekcji głównej (C = 3rem -> 2 x A) */
 main {
-  padding-top: 0 !important;
-  margin-top: 0 !important;
-  margin-bottom: 3rem !important; /* C = 3rem (2 x A) */
+  margin-bottom: 3rem !important;
   padding-bottom: 0 !important;
+  padding-top: 0 !important;
 }
 
-/* Przejmują kontrolę nad nagłówkiem artykułów i list */
-article, main > div {
-  padding-top: 3rem !important;   /* B = 3rem (2 x A) */
+/* Górny odstęp (B = 3rem) dla zwykłych artykułów / podstron */
+article {
+  padding-top: 3rem !important;
 }
 
 article header {
   margin-top: 0 !important;
-  padding-top: 0 !important;
   margin-bottom: 1.5rem !important; /* A = 1.5rem */
 }
 
+/* Górny odstęp (B = 3rem) dedykowany specjalnie dla stron kategorii / list */
+main > div.flex.flex-col.max-w-prose,
+main .main-inner,
+section.max-w-prose {
+  margin-top: 3rem !important;
+}
+
+/* Bazowy odstęp pod nagłówkiem H1 (A = 1.5rem) */
 main h1, 
 article header h1 {
   margin-top: 0 !important;
-  margin-bottom: 0 !important;
+  margin-bottom: 1.5rem !important; /* A = 1.5rem */
 }
 
-/* Ustawienie odstępu stopki */
+/* Odstęp stopki */
 footer {
   margin-top: 0 !important;
   padding-top: 1rem !important;
