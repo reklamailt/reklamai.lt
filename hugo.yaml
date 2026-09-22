@@ -81,8 +81,9 @@ params:
   enableLanguageSwitcher: false
   search: true
   
-  # Konfiguracja logo w nagłówku (plik umieść w folderze assets/)
-  logo: "logo.svg"
+  # Konfiguracja logo dla motywu Blowfish (pliki muszą być w folderze assets/)
+  logoLight: "logo.svg"
+  logoDark: "logo.svg"
   
   customCSS:
     - "css/custom.css"
