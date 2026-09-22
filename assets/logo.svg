@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="370.651"
+   height="252.662"
+   viewBox="0 0 98.068064 66.850146"
+   version="1.1"
+   id="svg1489"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="pilkas logo.svg"
+   inkscape:export-filename="/home/koxanie/Desktop/Primum Print/Primum Print golden1 .svg.png"
+   inkscape:export-xdpi="270"
+   inkscape:export-ydpi="270"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1186">Primum Print reklamai.lt UAB Primum</title>
+  <defs
+     id="defs1483">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Colorize"
+       id="filter525"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feComposite
+         in2="SourceGraphic"
+         operator="arithmetic"
+         k1="0"
+         k2="1"
+         result="composite1"
+         id="feComposite511"
+         k3="0"
+         k4="0" />
+      <feColorMatrix
+         in="composite1"
+         values="1"
+         type="saturate"
+         result="colormatrix1"
+         id="feColorMatrix513" />
+      <feFlood
+         flood-opacity="0.996078"
+         flood-color="rgb(128,128,128)"
+         result="flood1"
+         id="feFlood515" />
+      <feBlend
+         in="flood1"
+         in2="colormatrix1"
+         mode="multiply"
+         result="blend1"
+         id="feBlend517" />
+      <feBlend
+         in2="blend1"
+         mode="screen"
+         result="blend2"
+         id="feBlend519" />
+      <feColorMatrix
+         in="blend2"
+         values="1"
+         type="saturate"
+         result="colormatrix2"
+         id="feColorMatrix521" />
+      <feComposite
+         in="colormatrix2"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite2"
+         id="feComposite523" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.235"
+     inkscape:cx="137.65182"
+     inkscape:cy="164.37247"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1" />
+  <metadata
+     id="metadata1486">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Primum Print reklamai.lt UAB Primum</dc:title>
+        <dc:description>Profesionali reklama ir skaitmeninė spauda
+Realizuojame užsakymus nuo vieno egzemplioriaus iki didelių tiražų. Užtikriname nuosavą gamybos bazę, modernų parką bei operatyvų vykdymą visoje Lietuvoje.
+
+Plačiaformatė spauda Lauko ir vidaus reklamos sprendimai: reklaminiai tentai, tiesioginė UV spauda ant plokščių medžiagų, backlit plakatai šviesdėžėms, lipdukai bei informacinės lentelės.
+Kartono gaminiai ir pakuotės Tvarūs sprendimai prekybos vietoms ir logistikai: prekybiniai stovai (FSDU), stoveliai ant prekystalio, paletinės dekoracijos, dėžės bei proginės pakuotės.
+</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(27.797345,-223.26891)"
+     style="display:inline">
+    <g
+       id="g1153"
+       transform="matrix(1.7605966,0,0,1.7605966,-50.980654,-218.39778)">
+      <g
+         id="g2211"
+         transform="translate(10.235723,17.579241)">
+        <path
+           id="rect10893-79-5-3-7-0-91-9-9"
+           d="m 66.628906,61.550781 v 20 19.999999 20 20 20 h 20 v -20 -20 h 20.000004 v 20 20 h 20 v -20 -20 h 20 20 v -20 -19.999999 -20 h -20 -20 -20 -20.000004 z m 20,20 H 106.62891 V 101.55078 H 86.628906 Z m 40.000004,0 h 20 v 19.999999 h -20 z"
+           style="opacity:1;fill:#808080;fill-opacity:0.996016;fill-rule:nonzero;stroke:#8a0303;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+           inkscape:connector-curvature="0"
+           transform="matrix(0.26458333,0,0,0.26458333,0,217.62498)" />
+        <path
+           style="opacity:1;fill:#ff6600;fill-opacity:0.996016;fill-rule:nonzero;stroke:#8a0303;stroke-width:0.0529167;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+           d="m 38.79562,255.07708 h 5.29167 v 5.29166 h -5.29167 z"
+           id="rect10893-61-2-3-5"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         aria-label="PRIMUM PRINT"
+         transform="matrix(0.87846633,0,0,0.88188952,-133.17127,55.008323)"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.67876px;line-height:1.25;font-family:Oxanium;-inkscape-font-specification:'Oxanium, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#808080;fill-opacity:0.996078;stroke:none;stroke-width:0.524932;filter:url(#filter525)"
+         id="text942-7-7-0-7">
+        <path
+           d="m 167.26909,264.79871 v -5.98835 h 2.91607 q 1.45803,0 1.45803,1.45803 v 1.16296 q 0,1.45803 -1.45803,1.45803 h -1.66633 v 1.90933 z m 1.24974,-3.03757 h 1.61425 q 0.26037,0 0.26037,-0.26036 v -1.30182 q 0,-0.26036 -0.26037,-0.26036 h -1.61425 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.67876px;font-family:Oxanium;-inkscape-font-specification:'Oxanium, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#808080;fill-opacity:0.996078;stroke-width:0.524932"
+           id="path1386"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 172.81197,264.79871 v -5.98835 h 2.91606 q 1.45804,0 1.45804,1.45803 v 0.98938 q 0,1.08485 -0.80713,1.36257 l 0.9807,1.918 -0.14754,0.26037 h -1.07616 l -1.05881,-2.08291 h -1.01542 v 2.08291 z m 1.24974,-3.21114 h 1.61425 q 0.26036,0 0.26036,-0.26037 v -1.12824 q 0,-0.26036 -0.26036,-0.26036 h -1.61425 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.67876px;font-family:Oxanium;-inkscape-font-specification:'Oxanium, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#808080;fill-opacity:0.996078;stroke-width:0.524932"
+           id="path1388"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 178.4396,264.79871 v -5.98835 h 1.24974 v 5.98835 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.67876px;font-family:Oxanium;-inkscape-font-specification:'Oxanium, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#808080;fill-opacity:0.996078;stroke-width:0.524932"
+           id="path1390"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 181.11781,264.79871 v -5.98835 h 1.49275 l 1.69236,3.61904 1.69236,-3.61904 h 1.49274 v 5.98835 h -1.24974 v -3.78394 l -1.40596,3.00285 h -1.05881 l -1.40595,-3.00285 v 3.78394 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.67876px;font-family:Oxanium;-inkscape-font-specification:'Oxanium, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#808080;fill-opacity:0.996078;stroke-width:0.524932"
+           id="path1392"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 188.86307,263.34067 v -4.53031 h 1.24974 v 4.59974 q 0,0.26037 0.26036,0.26037 h 1.70104 q 0.26036,0 0.26036,-0.26037 v -4.59974 h 1.24974 v 4.53031 q 0,1.45804 -1.45803,1.45804 h -1.80518 q -1.45803,0 -1.45803,-1.45804 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.67876px;font-family:Oxanium;-inkscape-font-specification:'Oxanium, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#808080;fill-opacity:0.996078;stroke-width:0.524932"
+           id="path1394"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 194.94959,264.79871 v -5.98835 h 1.49274 l 1.69236,3.61904 1.69236,-3.61904 h 1.49275 v 5.98835 h -1.24975 v -3.78394 l -1.40595,3.00285 h -1.05881 l -1.40596,-3.00285 v 3.78394 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.67876px;font-family:Oxanium;-inkscape-font-specification:'Oxanium, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#808080;fill-opacity:0.996078;stroke-width:0.524932"
+           id="path1396"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 204.83184,264.79871 v -5.98835 h 2.91607 q 1.45803,0 1.45803,1.45803 v 1.16296 q 0,1.45803 -1.45803,1.45803 h -1.66632 v 1.90933 z m 1.24975,-3.03757 h 1.61424 q 0.26037,0 0.26037,-0.26036 v -1.30182 q 0,-0.26036 -0.26037,-0.26036 h -1.61424 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.67876px;font-family:Oxanium;-inkscape-font-specification:'Oxanium, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#808080;fill-opacity:0.996078;stroke-width:0.524932"
+           id="path1398"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 210.37473,264.79871 v -5.98835 h 2.91606 q 1.45803,0 1.45803,1.45803 v 0.98938 q 0,1.08485 -0.80713,1.36257 l 0.9807,1.918 -0.14753,0.26037 h -1.07617 l -1.05881,-2.08291 h -1.01541 v 2.08291 z m 1.24974,-3.21114 h 1.61425 q 0.26036,0 0.26036,-0.26037 v -1.12824 q 0,-0.26036 -0.26036,-0.26036 h -1.61425 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.67876px;font-family:Oxanium;-inkscape-font-specification:'Oxanium, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#808080;fill-opacity:0.996078;stroke-width:0.524932"
+           id="path1400"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 216.00236,264.79871 v -5.98835 h 1.24974 v 5.98835 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.67876px;font-family:Oxanium;-inkscape-font-specification:'Oxanium, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#808080;fill-opacity:0.996078;stroke-width:0.524932"
+           id="path1402"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 218.68057,264.79871 v -5.98835 h 1.35388 l 2.37798,3.93148 v -3.93148 h 1.24975 v 5.98835 h -1.35389 l -2.37798,-3.93148 v 3.93148 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.67876px;font-family:Oxanium;-inkscape-font-specification:'Oxanium, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#808080;fill-opacity:0.996078;stroke-width:0.524932"
+           id="path1404"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 224.58456,259.9386 v -1.12824 h 4.89482 v 1.12824 h -1.82254 v 4.86011 h -1.24974 v -4.86011 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.67876px;font-family:Oxanium;-inkscape-font-specification:'Oxanium, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#808080;fill-opacity:0.996078;stroke-width:0.524932"
+           id="path1406"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+</svg>
