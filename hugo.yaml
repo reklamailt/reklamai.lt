@@ -81,7 +81,7 @@ params:
   enableLanguageSwitcher: false
   search: true
   
-  # Konfiguracja logo dla motywu Blowfish (pliki muszą być w folderze assets/)
+  # Konfiguracja logo dla motywu Blowfish (wymaga pliku logo.svg w katalogu assets/)
   logoLight: "logo.svg"
   logoDark: "logo.svg"
   
