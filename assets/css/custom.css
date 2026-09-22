@@ -134,7 +134,7 @@ header nav a[href="/"] span.font-bold {
   display: none !important;
 }
 
-/* Siłowe wymuszenie 3x większego rozmiaru całego bloku logo i grafiki SVG */
+/* Siłowe wymuszenie odpowiedniego rozmiaru całego bloku logo i grafiki SVG */
 header nav > a[href="/"] {
   height: auto !important;
   display: flex !important;
@@ -145,8 +145,8 @@ header nav a[href="/"] img,
 header nav a[href="/"] svg,
 header .logo,
 nav img.logo {
-  height: 4.5rem !important;
-  max-height: 4.5rem !important;
+  height: 3.8rem !important;
+  max-height: 3.8rem !important;
   width: auto !important;
   min-width: auto !important;
 }
