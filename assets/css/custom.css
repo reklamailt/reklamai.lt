@@ -109,12 +109,9 @@ footer {
   padding-top: 1rem !important;
 }
 
-
-
 h1 {
   font-size: clamp(1.75rem, 4vw, 2.5rem) !important;
 }
-
 
 /* Zwiększenie czytelności tekstu na mobile i dla seniorów */
 body {
@@ -126,4 +123,15 @@ body {
 .prose p, .prose li {
   font-size: 1.125rem !important;
   margin-bottom: 1.25rem !important;
+}
+
+/* ==========================================
+   6. Powiększenie logo w nagłówku (2x większe)
+   ========================================== */
+header img.logo, 
+.header img, 
+nav img.logo {
+  height: 2.5rem !important; /* Zwiększenie rozmiaru z domyślnych ok. 1.25rem do 2.5rem */
+  max-height: none !important;
+  width: auto !important;
 }
