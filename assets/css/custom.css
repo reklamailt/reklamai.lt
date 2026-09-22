@@ -126,20 +126,23 @@ body {
 }
 
 /* ==========================================
-   6. Logo 2x większe i ukrycie napisu obok niego w nagłówku
+   6. Logo 2x większe i całkowite ukrycie napisu obok niego
    ========================================== */
-header nav a[href="/"] span,
-header nav .text-xl span,
-header nav .font-bold span {
-  display: none !important; /* Ukrywa tekst obok logo */
+/* Ukrywa tekstowy tytuł serwisu w pasku nawigacji Blowfish */
+header nav a.text-xl,
+header nav .font-bold,
+header nav span.font-bold,
+header nav a span {
+  display: none !important;
 }
 
+/* Utrzymuje powiększony rozmiar logo SVG */
 header nav a[href="/"] img,
 header nav a[href="/"] svg,
 header .logo,
 nav img.logo,
 nav svg {
-  height: 2.8rem !important; /* Powiększenie logo dwukrotnie */
+  height: 2.8rem !important;
   max-height: 2.8rem !important;
   width: auto !important;
 }
