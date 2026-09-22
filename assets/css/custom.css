@@ -131,7 +131,22 @@ body {
 header img.logo, 
 .header img, 
 nav img.logo {
-  height: 2.5rem !important; /* Zwiększenie rozmiaru z domyślnych ok. 1.25rem do 2.5rem */
+  height: 2.5rem !important;
   max-height: none !important;
+  width: auto !important;
+}
+
+/* ==========================================
+   7. Awaryjne wymuszenie rozmiaru dla SVG w nagłówku
+   ========================================== */
+header nav a[href="/"], 
+.flex.items-center.justify-between nav a.text-xl,
+nav .font-bold.text-lg,
+header svg,
+header img, 
+nav img,
+nav svg {
+  height: 2.5rem !important;
+  max-height: 2.5rem !important;
   width: auto !important;
 }
