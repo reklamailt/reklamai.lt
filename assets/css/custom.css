@@ -141,7 +141,7 @@ header nav > a[href="/"] {
   align-items: center !important;
 }
 
-header nav a[href="/"] img,
+header nav svg,
 header nav a[href="/"] svg,
 header .logo,
 nav img.logo {
