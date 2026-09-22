@@ -126,22 +126,19 @@ body {
 }
 
 /* ==========================================
-   6. Logo 2x większe i całkowite ukrycie napisu obok niego
+   6. Logo 2x większe i ukrycie wyłącznie napisu obok niego (menu pozostaje nienaruszone)
    ========================================== */
-/* Ukrywa tekstowy tytuł serwisu w pasku nawigacji Blowfish */
-header nav a.text-xl,
-header nav .font-bold,
-header nav span.font-bold,
-header nav a span {
+/* Ukrywa tekst będący bezpośrednio w linku logotypu (gdy występuje obok SVG) */
+header nav > a[href="/"] > span:not(.sr-only),
+header nav a[href="/"] span.font-bold {
   display: none !important;
 }
 
-/* Utrzymuje powiększony rozmiar logo SVG */
+/* Utrzymuje powiększony rozmiar logo SVG / grafiki */
 header nav a[href="/"] img,
 header nav a[href="/"] svg,
 header .logo,
-nav img.logo,
-nav svg {
+nav img.logo {
   height: 2.8rem !important;
   max-height: 2.8rem !important;
   width: auto !important;
