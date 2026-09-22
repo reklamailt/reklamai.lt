@@ -87,6 +87,7 @@ params:
   logoLight: "logo.svg"
   logoDark: "logo.svg"
   showTitle: false
+  favicon: "favicon.png"
   
   customCSS:
     - "css/custom.css"
