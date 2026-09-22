@@ -81,6 +81,9 @@ params:
   enableLanguageSwitcher: false
   search: true
   
+  # Konfiguracja logo w nagłówku (plik umieść w folderze assets/)
+  logo: "logo.svg"
+  
   customCSS:
     - "css/custom.css"
 
@@ -97,4 +100,3 @@ params:
       url: "/kontaktai/"
     - name: "Apsauginės pertvaros"
       url: "/saugiam-verslui/"
-
