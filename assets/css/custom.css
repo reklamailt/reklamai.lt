@@ -126,7 +126,7 @@ body {
 }
 
 /* ==========================================
-   6. Precyzyjne powiększenie wyłącznie logo (ikony menu zostają normalne)
+   6. Znaczące powiększenie wyłącznie logo SVG (ikony menu zostają normalne)
    ========================================== */
 /* Ukrycie tekstowego tytułu obok logo w nagłówku */
 header nav > a[href="/"] > span:not(.sr-only),
@@ -137,8 +137,8 @@ header nav a[href="/"] span.font-bold {
 /* Wymuszenie dużego rozmiaru TYLKO dla logo w linku głównym */
 header nav > a[href="/"] img,
 header nav > a[href="/"] svg {
-  height: 3.8rem !important;
-  max-height: 3.8rem !important;
+  height: 6rem !important;
+  max-height: 6rem !important;
   width: auto !important;
   min-width: auto !important;
 }
