@@ -8,6 +8,7 @@ languages:
   lt:
     label: "Lietuvių"
     weight: 1
+    title: "" # Ukrycie tytułu w wersji litewskiej
 
 outputs:
   home:
@@ -81,7 +82,7 @@ params:
   enableLanguageSwitcher: false
   search: true
   
-  # Konfiguracja logo i ukrycie napisu tekstowego
+  # Konfiguracja logo i całkowite wyłączenie tekstu obok niego
   logo: "logo.svg"
   logoLight: "logo.svg"
   logoDark: "logo.svg"
