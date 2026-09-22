@@ -126,7 +126,7 @@ body {
 }
 
 /* ==========================================
-   6. Logo 2x większe i ukrycie wyłącznie napisu obok niego (menu pozostaje nienaruszone)
+   6. Logo 3x większe i ukrycie wyłącznie napisu obok niego (menu pozostaje nienaruszone)
    ========================================== */
 /* Ukrywa tekst będący bezpośrednio w linku logotypu (gdy występuje obok SVG) */
 header nav > a[href="/"] > span:not(.sr-only),
@@ -134,12 +134,12 @@ header nav a[href="/"] span.font-bold {
   display: none !important;
 }
 
-/* Utrzymuje powiększony rozmiar logo SVG / grafiki */
+/* Utrzymuje trzykrotnie powiększony rozmiar logo SVG / grafiki */
 header nav a[href="/"] img,
 header nav a[href="/"] svg,
 header .logo,
 nav img.logo {
-  height: 2.8rem !important;
-  max-height: 2.8rem !important;
+  height: 4rem !important;
+  max-height: 4rem !important;
   width: auto !important;
 }
