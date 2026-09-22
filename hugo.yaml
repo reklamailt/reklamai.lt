@@ -81,10 +81,11 @@ params:
   enableLanguageSwitcher: false
   search: true
   
-  # Konfiguracja logo dla motywu Blowfish
+  # Konfiguracja logo i ukrycie napisu tekstowego
   logo: "logo.svg"
   logoLight: "logo.svg"
   logoDark: "logo.svg"
+  showTitle: false
   
   customCSS:
     - "css/custom.css"
