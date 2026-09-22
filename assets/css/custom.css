@@ -126,7 +126,7 @@ body {
 }
 
 /* ==========================================
-   6. Siłowe powiększenie logo SVG (3x) i ukrycie napisu obok
+   6. Precyzyjne powiększenie wyłącznie logo (ikony menu zostają normalne)
    ========================================== */
 /* Ukrycie tekstowego tytułu obok logo w nagłówku */
 header nav > a[href="/"] > span:not(.sr-only),
@@ -134,17 +134,9 @@ header nav a[href="/"] span.font-bold {
   display: none !important;
 }
 
-/* Siłowe wymuszenie odpowiedniego rozmiaru całego bloku logo i grafiki SVG */
-header nav > a[href="/"] {
-  height: auto !important;
-  display: flex !important;
-  align-items: center !important;
-}
-
-header nav svg,
-header nav a[href="/"] svg,
-header .logo,
-nav img.logo {
+/* Wymuszenie dużego rozmiaru TYLKO dla logo w linku głównym */
+header nav > a[href="/"] img,
+header nav > a[href="/"] svg {
   height: 3.8rem !important;
   max-height: 3.8rem !important;
   width: auto !important;
