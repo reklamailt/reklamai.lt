@@ -1,7 +1,7 @@
 baseURL: "https://reklamai.lt/"
 locale: "lt-LT"
 defaultContentLanguage: "lt"
-title: "Primum Print"
+title: ""
 theme: "blowfish"
 
 languages:
