@@ -1,4 +1,5 @@
 ---
+type: \"page\"
 title: "COVID-19 projektas"
 slug: "covid-19-produktai"
 menu_title: "COVID-19"

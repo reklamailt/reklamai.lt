@@ -1,4 +1,5 @@
 ---
+type: \"page\"
 title: "Reklaminių iškabų ir šviesdėžių gamyba"
 slug: "iskabos-sviesdezes"
 menu_title: "Iškabos ir šviesdėžės"

@@ -1,4 +1,5 @@
 ---
+type: \"page\"
 title: "Kartono dėžių ir pakuočių gamyba"
 slug: "dezes"
 menu_title: "Dėžės ir pakuotės"

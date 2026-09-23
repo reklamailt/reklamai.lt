@@ -1,4 +1,5 @@
 ---
+type: \"page\"
 title: "Apsauginės pertvaros ir priemonės verslui"
 slug: "saugiam-verslui"
 menu_title: "Apsauginės pertvaros"

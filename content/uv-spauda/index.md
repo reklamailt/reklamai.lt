@@ -1,4 +1,5 @@
 ---
+type: \"page\"
 title: "Tiesioginė UV spauda"
 slug: "uv-spauda"
 menu_title: "UV spauda"

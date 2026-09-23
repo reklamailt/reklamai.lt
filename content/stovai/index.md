@@ -1,4 +1,5 @@
 ---
+type: \"page\"
 title: "Reklaminių ir prekybinių stovų gamyba"
 slug: "stovai"
 menu_title: "Stovai"

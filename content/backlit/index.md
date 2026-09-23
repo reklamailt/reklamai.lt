@@ -1,4 +1,5 @@
 ---
+type: \"page\"
 title: "Backlit plakatai šviesdėžėms"
 slug: "backlit"
 menu_title: "Backlit plakatai"

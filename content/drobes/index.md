@@ -1,4 +1,5 @@
 ---
+type: \"page\"
 title: "Fotodrobių spausdinimas"
 slug: "drobes"
 menu_title: "Fotodrobės"

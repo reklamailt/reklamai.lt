@@ -1,4 +1,5 @@
 ---
+type: \"page\"
 title: "Dažniausiai užduodami klausimai (FAQ)"
 slug: "faq"
 menu_title: "FAQ"

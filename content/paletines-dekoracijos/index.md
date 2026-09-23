@@ -1,4 +1,5 @@
 ---
+type: \"page\"
 title: "Paletinių dekoracijų ir apjuosimų gamyba"
 slug: "paletines-dekoracijos"
 menu_title: "Paletinės dekoracijos"

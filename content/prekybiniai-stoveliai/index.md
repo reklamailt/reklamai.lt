@@ -1,4 +1,5 @@
 ---
+type: \"page\"
 title: "Prekybiniai stoveliai, prekių laikikliai iš kartono"
 slug: "prekybiniai-stoveliai"
 menu_title: "Stoveliai"

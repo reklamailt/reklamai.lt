@@ -1,4 +1,5 @@
 ---
+type: \"page\"
 title: "Apie Primum Print"
 slug: "apie-uab-primum"
 menu_title: "Apie Primum Print"

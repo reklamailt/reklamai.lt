@@ -1,4 +1,5 @@
 ---
+type: \"page\"
 title: "ES finansuojami projektai"
 slug: "es-investicijos"
 menu_title: "ES investicijos"

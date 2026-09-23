@@ -1,4 +1,5 @@
 ---
+type: \"page\"
 title: "Proginių ir dovanų dėžučių gamyba"
 slug: "progines-dezutes"
 menu_title: "Proginės dėžutės"

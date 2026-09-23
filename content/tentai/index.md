@@ -1,4 +1,5 @@
 ---
+type: \"page\"
 title: "Reklaminių tentų gamyba"
 url: "/tentai/"
 menu_title: "Tentai"

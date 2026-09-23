@@ -1,4 +1,5 @@
 ---
+type: \"page\"
 title: "Eco-inovacijos LT"
 slug: "eco-inovacijos-lt"
 menu_title: "Eco-inovacijos"

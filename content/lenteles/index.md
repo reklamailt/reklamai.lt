@@ -1,4 +1,5 @@
 ---
+type: \"page\"
 title: "Informacinių lentelių ir ženklų gamyba"
 slug: "lenteles"
 menu_title: "Lentelės ir ženklai"

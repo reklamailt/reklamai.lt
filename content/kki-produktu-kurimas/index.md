@@ -1,4 +1,5 @@
 ---
+type: \"page\"
 title: "KKI produktų kūrimas"
 slug: "kki-produktu-kurimas"
 menu_title: "KKI"

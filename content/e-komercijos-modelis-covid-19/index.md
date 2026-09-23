@@ -1,4 +1,5 @@
 ---
+type: \"page\"
 title: "E. komercijos modelio diegimas"
 slug: "e-komercijos-modelis-covid-19"
 menu_title: "E. komercija"

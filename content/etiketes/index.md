@@ -1,4 +1,5 @@
 ---
+type: \"page\"
 title: "Lipdukų ir etikečių gamyba"
 slug: "etiketes"
 menu_title: "Etiketės ir lipdukai"

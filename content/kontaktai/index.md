@@ -1,4 +1,5 @@
 ---
+type: \"page\"
 title: "Kontaktai ir rekvizitai"
 slug: "kontaktai"
 menu_title: "Kontaktai"
