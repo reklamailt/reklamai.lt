@@ -147,3 +147,10 @@ header nav > a[href="/"] svg {
   min-width: unset !important;
   overflow: visible !important;
 }
+
+/* ==========================================
+   7. Ukrycie tekstu tytułu obok logo w nagłówku Blowfish
+   ========================================== */
+header nav .font-bold.text-base {
+  display: none !important;
+}
