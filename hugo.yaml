@@ -1,14 +1,14 @@
 baseURL: "https://reklamai.lt/"
 locale: "lt-LT"
 defaultContentLanguage: "lt"
-title: ""
+title: "Primum Print – Reklamos gamyba ir skaitmeninė spauda"
 theme: "blowfish"
 
 languages:
   lt:
     label: "Lietuvių"
     weight: 1
-    title: "" # Ukrycie tytułu w wersji litewskiej
+    title: "Primum Print – Reklamos gamyba ir skaitmeninė spauda"
 
 outputs:
   home:
@@ -109,4 +109,3 @@ params:
       url: "/kontaktai/"
     - name: "Apsauginės pertvaros"
       url: "/saugiam-verslui/"
-      
