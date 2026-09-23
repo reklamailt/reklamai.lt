@@ -1,0 +1,84 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  {{ if .IsHome }}
+  "@type": "LocalBusiness",
+  "name": "Primum Print",
+  "alternateName": "UAB Primum",
+  "url": "{{ .Site.BaseURL }}",
+  "logo": "{{ .Site.BaseURL }}logo.svg",
+  "image": "{{ .Site.BaseURL }}logo.svg",
+  "description": "Profesionali reklama ir skaitmeninė spauda. Plačiaformatė spauda, UV spauda, lauko reklama, tentai, tvarūs kartono gaminiai bei pakuotės prekybos vietoms.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Raudondvario pl. 101A-3",
+    "addressLocality": "Kaunas",
+    "postalCode": "47184",
+    "addressCountry": "LT"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "54.9134",
+    "longitude": "23.8647"
+  },
+  "telephone": "+37060035828",
+  "email": "vaida@reklamai.lt",
+  "taxID": "LT100006734318",
+  "vatID": "LT100006734318",
+  "identifier": "302640482",
+  "priceRange": "€€",
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "opens": "08:00",
+    "closes": "17:00"
+  },
+  "areaServed": {
+    "@type": "Country",
+    "name": "Lithuania"
+  }
+  {{ else if or (strings.HasPrefix .RelPermalink "/spauda/") (strings.HasPrefix .RelPermalink "/kartono-sprendimai-reklamai/") (strings.HasPrefix .RelPermalink "/saugiam-verslui/") (strings.HasPrefix .RelPermalink "/backlit/") }}
+  "@type": "Service",
+  "name": "{{ .Title }}",
+  "description": "{{ .Description | default .Summary | plainify }}",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "Primum Print",
+    "url": "{{ .Site.BaseURL }}",
+    "telephone": "+37060035828",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Raudondvario pl. 101A-3",
+      "addressLocality": "Kaunas",
+      "postalCode": "47184",
+      "addressCountry": "LT"
+    }
+  },
+  "areaServed": {
+    "@type": "Country",
+    "name": "Lithuania"
+  },
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "EUR",
+    "price": "{{ .Params.price | default "0.00" }}",
+    "availability": "https://schema.org/InStock",
+    "url": "{{ .Permalink }}"
+  }
+  {{ else }}
+  "@type": "WebPage",
+  "name": "{{ .Title }}",
+  "url": "{{ .Permalink }}",
+  "publisher": {
+    "@type": "LocalBusiness",
+    "name": "Primum Print"
+  }
+  {{ end }}
+}
+</script>
