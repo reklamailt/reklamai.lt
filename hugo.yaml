@@ -8,7 +8,7 @@ languages:
   lt:
     label: "Lietuvių"
     weight: 1
-    title: "Primum Print – Reklamos gamyba ir skaitmeninė spauda"
+    title: "" # <--- Pusty tytuł w sekcji języka uniemożliwia motywowi wyświetlenie napisu obok logo
 
 outputs:
   home:
