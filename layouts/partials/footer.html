@@ -18,3 +18,27 @@
 
     </div>
 </footer>
+
+<!-- Skrypt automatycznie uzupełniający aria-label dla dostępności (Lighthouse / czytniki) -->
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    // Przycisk wyszukiwania (lupa)
+    const searchBtn = document.querySelector('button[id*="search"], button[aria-label*="search"], header button:has(svg path[d*="M21 21l-6-6"])');
+    if (searchBtn && !searchBtn.hasAttribute('aria-label')) {
+        searchBtn.setAttribute('aria-label', 'Paieška');
+    }
+
+    // Przycisk trybu ciemnego/jasnego
+    const themeBtn = document.querySelector('button[id*="appearance"], button[id*="theme"], header button:has(svg)');
+    if (themeBtn && !themeBtn.hasAttribute('aria-label')) {
+        themeBtn.setAttribute('aria-label', 'Perjungti režimą');
+    }
+
+    // Pozostałe przyciski interaktywne w nagłówku bez etykiet
+    document.querySelectorAll('header button:not([aria-label]), header a[role="button"]:not([aria-label])').forEach(el => {
+        if (!el.getAttribute('aria-label')) {
+            el.setAttribute('aria-label', 'Meniu elementas');
+        }
+    });
+});
+</script>
