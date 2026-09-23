@@ -20,6 +20,10 @@ markup:
     renderer:
       unsafe: true
 
+# Dodana sekcja optymalizacji i minifikacji assetów (likwiduje render-blocking)
+minify:
+  minifyOutput: true
+
 menus:
   main:
     - name: "Plačiaformatė spauda"
