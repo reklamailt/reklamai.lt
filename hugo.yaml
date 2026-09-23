@@ -82,11 +82,12 @@ params:
   enableLanguageSwitcher: false
   search: true
   
-  # Konfiguracja logo i całkowite wyłączenie tekstu obok niego
+  # Konfiguracja logo – pusty string w 'title:' ukrywa tekst obok logo w menu, zachowując SEO w nagłówku pliku
   logo: "logo.svg"
   logoLight: "logo.svg"
   logoDark: "logo.svg"
   showTitle: false
+  title: "" 
   
   # Poprawiona obsługa favicon w Blowfish
   favicon: "favicon.png"
