@@ -131,7 +131,6 @@ header nav a[href="/"] span.font-bold {
   display: none !important;
 }
 
-/* Zezwolenie kontenerowi na wyświetlanie grafiki w pełnym rozmiarze bez obcinania */
 header nav > a[href="/"] {
   display: flex !important;
   align-items: center !important;
@@ -139,25 +138,10 @@ header nav > a[href="/"] {
   max-width: none !important;
 }
 
-/* Pełne, nieobcięte renderowanie SVG w dużej skali */
 header nav > a[href="/"] svg {
   height: 9rem !important;
   max-height: 9rem !important;
   width: auto !important;
   min-width: unset !important;
   overflow: visible !important;
-}
-
-/* ==========================================
-   7. Bezwzględne ukrycie tekstu obok logo w nagłówku Blowfish (Max Specyficzność)
-   ========================================== */
-body header nav a[href="/"] + span,
-body header nav a[href="/"] ~ span,
-body header nav .flex.items-center > a[href="/"] span,
-header nav a[href="/"] span {
-  display: none !important;
-  visibility: hidden !important;
-  width: 0 !important;
-  height: 0 !important;
-  overflow: hidden !important;
 }
