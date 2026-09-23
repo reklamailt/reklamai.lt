@@ -1,13 +1,13 @@
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
+  {{ if .IsHome }}
   "@type": "LocalBusiness",
   "name": "Primum Print",
   "alternateName": "UAB Primum",
-  "url": "https://reklamai.lt/",
-  "logo": "https://reklamai.lt/logo.svg",
-  "image": "https://reklamai.lt/logo.svg",
+  "url": "{{ .Site.BaseURL }}",
+  "logo": "{{ .Site.BaseURL }}logo.svg",
+  "image": "{{ .Site.BaseURL }}logo.svg",
   "description": "Profesionali reklama ir skaitmeninė spauda. Plačiaformatė spauda, UV spauda, lauko reklama, tentai, tvarūs kartono gaminiai bei pakuotės prekybos vietoms.",
   "address": {
     "@type": "PostalAddress",
@@ -43,5 +43,42 @@
     "@type": "Country",
     "name": "Lithuania"
   }
+  {{ else if .Params.is_money_page }}
+  "@type": "Service",
+  "name": "{{ .Title }}",
+  "description": "{{ .Description | default .Summary | plainify }}",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "Primum Print",
+    "url": "{{ .Site.BaseURL }}",
+    "telephone": "+37060035828",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Raudondvario pl. 101A-3",
+      "addressLocality": "Kaunas",
+      "postalCode": "47184",
+      "addressCountry": "LT"
+    }
+  },
+  "areaServed": {
+    "@type": "Country",
+    "name": "Lithuania"
+  },
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "EUR",
+    "price": "{{ .Params.price | default "0.00" }}",
+    "availability": "https://schema.org/InStock",
+    "url": "{{ .Permalink }}"
+  }
+  {{ else }}
+  "@type": "WebPage",
+  "name": "{{ .Title }}",
+  "url": "{{ .Permalink }}",
+  "publisher": {
+    "@type": "LocalBusiness",
+    "name": "Primum Print"
+  }
+  {{ end }}
 }
 </script>
