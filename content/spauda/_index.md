@@ -17,7 +17,7 @@ draft: false
 <ul>
     <li><strong>Lauko reklama:</strong> <a href="/tentai/">Reklaminiai tentai</a> – tvirti, atsparūs oro sąlygoms sprendimai su metalinėmis kilpomis.</li>
     <li><strong>Spauda ant plokščių ir kietų paviršių:</strong> <a href="/uv-spauda/">Tiesioginė UV spauda</a> ant medžio, stiklo, plastiko ar metalo.</li>
-    <li><strong>Backlit plakatų gamyba: </strong> <a href="/backlit/">Backlit plakatai</a> spauda ant šviesdėžėms skirtos šviesai pralaidžios medžiagos.</li> 
+    <li><strong>Backlit gamyba: </strong> <a href="/backlit/">Backlit plakatai su spauda</a> ant šviesdėžėms skirtos šviesai pralaidžios medžiagos.</li> 
     <li><strong>Lipdukai ir ženklinimas:</strong> <a href="/etiketes/">Lipdukai bei etiketės</a> su stipriais, drėgmei ir UV spinduliams atspariais klijais.</li>
     <li><strong>Interjeras ir dekoras:</strong> <a href="/drobes/">Fotodrobių spausdinimas</a> namams, biurui, šventėms ar renginiams.</li>
     <li><strong>Informaciniai elementai:</strong> <a href="/lenteles/">Informacinės lentelės ir ženklai</a> su pasirinktu mechaniniu ir cheminiu atsparumu.</li>
@@ -25,3 +25,6 @@ draft: false
 </ul>
 
 <p>Jei turite nestandartinį projektą ar nežinote, kuri technologija geriausiai tinka Jūsų idėjai, <a href="/kontaktai/">susisiekite su Primum Print</a> – padėsime pasirinkti optimaliausią variantą.</p>
+
+
+
