@@ -17,10 +17,10 @@ draft: false
 <ul>
     <li><strong>Lauko reklama:</strong> <a href="/tentai/">Reklaminiai tentai</a> – tvirti, atsparūs oro sąlygoms sprendimai su metalinėmis kilpomis.</li>
     <li><strong>Spauda ant plokščių ir kietų paviršių:</strong> <a href="/uv-spauda/">Tiesioginė UV spauda</a> ant medžio, stiklo, plastiko ar metalo.</li>
-    <li><strong>Apšviečiami elementai:</strong> <a href="/backlit/">Backlit plakatai</a> šviesdėžėms ir reklaminiams kasetonams.</li>
+    <li><strong>Backlit plakatų gamyba: </strong> <a href="/backlit/">Backlit plakatai</a> spauda ant šviesdėžėms skirtos šviesai pralaidžios medžiagos.</li> 
     <li><strong>Lipdukai ir ženklinimas:</strong> <a href="/etiketes/">Lipdukai bei etiketės</a> su stipriais, drėgmei ir UV spinduliams atspariais klijais.</li>
-    <li><strong>Interjeras ir dekoras:</strong> <a href="/drobes/">Fotodrobių spausdinimas</a> namams, biurui ar prezentacijoms.</li>
-    <li><strong>Informacinės sistemos:</strong> <a href="/lenteles/">Informacinės lentelės ir ženklai</a> su mechaniniu atsparumu.</li>
+    <li><strong>Interjeras ir dekoras:</strong> <a href="/drobes/">Fotodrobių spausdinimas</a> namams, biurui, šventėms ar renginiams.</li>
+    <li><strong>Informaciniai elementai:</strong> <a href="/lenteles/">Informacinės lentelės ir ženklai</a> su pasirinktu mechaniniu ir cheminiu atsparumu.</li>
     <li><strong>Kartono sprendimai:</strong> <a href="/kartono-sprendimai-reklamai/">Kartono sprendimai reklamai</a>, įskaitant <a href="/stovai/">stovus</a>, <a href="/prekybiniai-stoveliai/">prekybinius stovelius</a>, <a href="/paletines-dekoracijos/">paletines dekoracijas</a>, <a href="/dezes/">dėžes</a> bei <a href="/progines-dezutes/">progines dėžutes</a>.</li>
 </ul>
 
