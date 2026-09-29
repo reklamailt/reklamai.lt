@@ -13,7 +13,7 @@ draft: false
 
 ## Profesionali reklama ir skaitmeninė spauda
 
-Realizuojame užsakymus nuo vieno egzemplioriaus iki didelių tiražų. Užtikriname nuosavą gamybos bazę, modernų parką bei operatyvų vykdymą visoje Lietuvoje.
+Realizuojame užsakymus nuo vieno egzemplioriaus iki didelių tiražų. Užtikriname nuosavą gamybos bazę, modernų parką bei operatyvų pristatymą visoje Lietuvoje.
 
 * **[Plačiaformatė spauda](/spauda/)**
   Lauko ir vidaus reklamos sprendimai: reklaminiai tentai, tiesioginė UV spauda ant plokščių medžiagų, backlit plakatai šviesdėžėms, lipdukai bei informacinės lentelės.
@@ -24,7 +24,7 @@ Realizuojame užsakymus nuo vieno egzemplioriaus iki didelių tiražų. Užtikri
 
 **Kontaktas**
 
-Susisiekite su mumis dėl detalių ir individualaus pasiūlymo: **[Susisiekti / Kontaktai](/kontaktai/)**
+**[Kviečiame susisiekti su Primum Print](/kontaktai/)** dėl individualaus pasiūlymo.
 
 </div>
 
