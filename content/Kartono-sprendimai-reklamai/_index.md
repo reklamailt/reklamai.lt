@@ -22,4 +22,4 @@ draft: false
 </ul>
 
 <p>Visi gaminiai gaminami pasitelkiant aukštos kokybės skaitmeninę spaudą, užtikrinančią ryškias spalvas, ilgaamžiškumą ir nepriekaištingą estetiką. 
-  Jei turite sumanymą, kuriam reikalingas konstrukcinis sprendimas iš kartono, **<a href="/kontaktai/">susisiekite su Primum Print</a>, mielai aptarsime Jūsų projekto įgyvendinimą.</p>**
+  Jei turite sumanymą, kuriam reikalingas konstrukcinis sprendimas iš kartono, <a href="/kontaktai/">susisiekite su Primum Print</a>, mielai aptarsime Jūsų projekto įgyvendinimą.</p>
