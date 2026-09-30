@@ -12,3 +12,10 @@ draft: false
 ---
 
 {{< contactbox >}}
+
+<style>
+/* Ukrywa pasek okruszków (breadcrumbs) tylko na tej stronie */
+.breadcrumbs, nav.flex.flex-row.text-sm {
+    display: none !important;
+}
+</style>
