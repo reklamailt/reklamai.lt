@@ -38,7 +38,7 @@ main .flex.flex-col.items-center {
 }
 
 body.index h1, body.index h2, body.index p, body.index ul,
-.home h1, .home h2, .home h, .home p, .home ul {
+.home h1, .home h2, .home h3, .home p, .home ul {
   text-align: left !important;
   margin-left: 0 !important;
   margin-right: auto !important;
@@ -144,13 +144,4 @@ header nav > a[href="/"] svg {
   width: auto !important;
   min-width: unset !important;
   overflow: visible !important;
-}
-
-/* ==========================================
-    7. Celowe ukrycie breadcrumbs na podstronie kontaktów
-   ========================================== */
-body[class*="kontaktai"] nav.flex.flex-row.text-sm,
-body[class*="kontaktai"] .flex.flex-row.text-sm,
-body[class*="kontaktai"] nav[aria-label="Breadcrumb"] {
-  display: none !important;
 }
