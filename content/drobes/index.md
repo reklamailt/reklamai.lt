@@ -11,7 +11,7 @@ weight: 35
 draft: false
 ---
 
-<p>Individualaus dizaino fototapetai ir spaustuviniai tapetai – tai efektyvus, stilingas ir ilgaamžis būdas greitai pakeisti bet kurio interjero išvaizdą. Tinkamai parinkta ir kokybiškai atspausdinta grafika tampa stipriu akcentu, kuris kuria išskirtinę atmosferą biuruose, parduotuvėse, restoranuose, viešosiose erdvėse ar edukacinėse įstaigose bei stiprina prekės ženklo įvaizdį.</p>
+<p>Individualaus dizaino fototapetai ir didelio formato drobės su spauda – tai efektyvus, stilingas ir ilgaamžis būdas greitai pakeisti bet kurio interjero išvaizdą. Tinkamai parinkta ir kokybiškai atspausdinta grafika tampa stipriu akcentu, kuris kuria išskirtinę atmosferą biuruose, parduotuvėse, restoranuose, viešosiose erdvėse ar edukacinėse įstaigose bei stiprina prekės ženklo įvaizdį.</p>
 
 <h3>Pritaikymo galimybės ir sprendimai</h3>
 <p>Modernios spaudos technologijos leidžia neribotai eksperimentuoti su vizualiniu įvaizdziu:</p>
@@ -31,7 +31,7 @@ draft: false
 
 <h3>Pagrindiniai fototapetų privalumai</h3>
 <ul>
-    <li><strong>Estetika ir išskirtinumas:</strong> Galimybė sukurti vientisą koliažą iš kelių kliento nuotraukų arba parinkti profesionalią grafiką iš vizualinių bankų.</li>
+    <li><strong>Estetika ir išskirtinumas:</strong> Galimybė sukurti vientisą koliažą iš kelių kliento nuotraukų arba parinkti profesionalią grafiką iš vaizdų bankų.</li>
     <li><strong>Ilgaamžiškumas:</strong> Atsparumas blukimui, drėgmei ir mechaniniam poveikiui užtikrina nepriekaištingą išvaizdą ilgam laikui.</li>
     <li><strong>Lankstumas:</strong> Gaminame pagal individualius matmenis ir poreikius – nuo nedidelių plotų iki didelės apimties sienų dekoravimo projektų.</li>
 </ul>
