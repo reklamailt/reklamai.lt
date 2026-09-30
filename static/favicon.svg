@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000"><metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"><rdf:Description><dc:creator>RealFaviconGenerator</dc:creator><dc:source>https://realfavicongenerator.net</dc:source></rdf:Description></rdf:RDF></metadata><style>
+    #light-icon {
+      display: inline;
+    }
+    #dark-icon {
+      display: none;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      #light-icon {
+        display: none;
+      }
+      #dark-icon {
+        display: inline;
+      }
+    }
+  </style><g id="light-icon"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000"><g clip-path="url(#SvgjsClipPath1289)"><rect width="1000" height="1000" fill="#ffffff"></rect><g transform="matrix(5.664374162274464,0,0,5.664374162274464,0,85.11682290237889)"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="176.54201" height="146.48862" viewBox="0 0 46.71024 38.758448" id="svg1489" inkscape:version="1.2.2 (b0a8486541, 2022-12-01)" sodipodi:docname="favicon.svg" inkscape:export-filename="../../../../Desktop/Primum Print golden1 .svg.png" inkscape:export-xdpi="335.53461" inkscape:export-ydpi="335.53461" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"><defs id="defs1483"><clipPath id="SvgjsClipPath1289"><rect width="1000" height="1000" x="0" y="0" rx="0" ry="0"></rect></clipPath></defs><sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="1.235" inkscape:cx="281.78138" inkscape:cy="289.87854" inkscape:document-units="mm" inkscape:current-layer="layer1" showgrid="false" units="px" inkscape:window-width="1920" inkscape:window-height="1008" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:showpageshadow="0" inkscape:pagecheckerboard="true" inkscape:deskcolor="#d1d1d1"></sodipodi:namedview><metadata id="metadata1486">
+    <rdf:rdf>
+      <cc:work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"></dc:type>
+      </cc:work>
+    </rdf:rdf>
+  </metadata><g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(-17.460695,-245.11819)" style="display:inline">
+    <g id="g10337">
+      <rect style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583" id="rect8820" width="46.584812" height="38.678967" x="17.586054" y="245.19757"></rect>
+      <g id="g8092">
+        <rect style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583" id="rect4453" width="26.549173" height="26.481121" x="27.823811" y="251.47057"></rect>
+        <g id="g2211" transform="translate(10.235723,17.579241)">
+          <path id="rect10893-79-5-3-7-0-91-9-9" d="m 66.628906,61.550781 v 20 19.999999 20 20 20 h 20 v -20 -20 h 20.000004 v 20 20 h 20 v -20 -20 h 20 20 v -20 -19.999999 -20 h -20 -20 -20 -20.000004 z m 20,20 H 106.62891 V 101.55078 H 86.628906 Z m 40.000004,0 h 20 v 19.999999 h -20 z" style="opacity:1;fill:#808080;fill-opacity:0.996016;fill-rule:nonzero;stroke:#8a0303;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0" inkscape:connector-curvature="0" transform="matrix(0.26458333,0,0,0.26458333,0,217.62498)"></path>
+          <path style="opacity:1;fill:#ff6600;fill-opacity:0.996016;fill-rule:nonzero;stroke:#8a0303;stroke-width:0.0529167;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0" d="m 38.79562,255.07708 h 5.29167 v 5.29166 h -5.29167 z" id="rect10893-61-2-3-5" inkscape:connector-curvature="0"></path>
+        </g>
+        <rect style="fill:#ffffff;fill-opacity:0;stroke-width:0.264583" id="rect190" width="26.429502" height="26.416092" x="27.865572" y="251.46289"></rect>
+        <rect style="fill:#ffffff;fill-opacity:0;stroke-width:0.264583" id="rect921" width="24.730841" height="16.358349" x="17.460695" y="245.11795"></rect>
+        <rect style="fill:#ffffff;fill-opacity:0;stroke-width:0.264583" id="rect923" width="26.451618" height="26.389538" x="27.870016" y="251.4803"></rect>
+      </g>
+    </g>
+  </g></svg></g></g></svg></g><g id="dark-icon"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000"><g clip-path="url(#SvgjsClipPath1290)"><rect width="1000" height="1000" fill="#ffffff"></rect><g transform="matrix(5.664374162274464,0,0,5.664374162274464,0,85.11682290237889)"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="176.54201" height="146.48862" viewBox="0 0 46.71024 38.758448" id="svg1489" inkscape:version="1.2.2 (b0a8486541, 2022-12-01)" sodipodi:docname="favicon.svg" inkscape:export-filename="../../../../Desktop/Primum Print golden1 .svg.png" inkscape:export-xdpi="335.53461" inkscape:export-ydpi="335.53461" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"><defs id="defs1483"><clipPath id="SvgjsClipPath1290"><rect width="1000" height="1000" x="0" y="0" rx="0" ry="0"></rect></clipPath></defs><sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="1.235" inkscape:cx="281.78138" inkscape:cy="289.87854" inkscape:document-units="mm" inkscape:current-layer="layer1" showgrid="false" units="px" inkscape:window-width="1920" inkscape:window-height="1008" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:showpageshadow="0" inkscape:pagecheckerboard="true" inkscape:deskcolor="#d1d1d1"></sodipodi:namedview><metadata id="metadata1486">
+    <rdf:rdf>
+      <cc:work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"></dc:type>
+      </cc:work>
+    </rdf:rdf>
+  </metadata><g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(-17.460695,-245.11819)" style="display:inline">
+    <g id="g10337">
+      <rect style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583" id="rect8820" width="46.584812" height="38.678967" x="17.586054" y="245.19757"></rect>
+      <g id="g8092">
+        <rect style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583" id="rect4453" width="26.549173" height="26.481121" x="27.823811" y="251.47057"></rect>
+        <g id="g2211" transform="translate(10.235723,17.579241)">
+          <path id="rect10893-79-5-3-7-0-91-9-9" d="m 66.628906,61.550781 v 20 19.999999 20 20 20 h 20 v -20 -20 h 20.000004 v 20 20 h 20 v -20 -20 h 20 20 v -20 -19.999999 -20 h -20 -20 -20 -20.000004 z m 20,20 H 106.62891 V 101.55078 H 86.628906 Z m 40.000004,0 h 20 v 19.999999 h -20 z" style="opacity:1;fill:#808080;fill-opacity:0.996016;fill-rule:nonzero;stroke:#8a0303;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0" inkscape:connector-curvature="0" transform="matrix(0.26458333,0,0,0.26458333,0,217.62498)"></path>
+          <path style="opacity:1;fill:#ff6600;fill-opacity:0.996016;fill-rule:nonzero;stroke:#8a0303;stroke-width:0.0529167;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0" d="m 38.79562,255.07708 h 5.29167 v 5.29166 h -5.29167 z" id="rect10893-61-2-3-5" inkscape:connector-curvature="0"></path>
+        </g>
+        <rect style="fill:#ffffff;fill-opacity:0;stroke-width:0.264583" id="rect190" width="26.429502" height="26.416092" x="27.865572" y="251.46289"></rect>
+        <rect style="fill:#ffffff;fill-opacity:0;stroke-width:0.264583" id="rect921" width="24.730841" height="16.358349" x="17.460695" y="245.11795"></rect>
+        <rect style="fill:#ffffff;fill-opacity:0;stroke-width:0.264583" id="rect923" width="26.451618" height="26.389538" x="27.870016" y="251.4803"></rect>
+      </g>
+    </g>
+  </g></svg></g></g></svg></g></svg>
