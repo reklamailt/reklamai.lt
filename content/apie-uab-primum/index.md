@@ -1,5 +1,5 @@
 ---
-type: \"page\"
+type: "page"
 title: "Apie Primum Print"
 slug: "apie-uab-primum"
 menu_title: "Apie Primum Print"
@@ -18,8 +18,8 @@ draft: false
 <h3>Mūsų veiklos kryptys ir sprendimai verslui</h3>
 <p>Siekdami patenkinti net išrankiausius klientų lūkesčius, specializuojamės dviejose pagrindinėse srityse:</p>
 <ul>
-    <li><strong>Plačiaformatė spauda:</strong> Kuriame ir gaminame lauko bei vidaus reklamos elementus. Visą asortimentą ir technologijas galite rasti mūsų <a href="/spauda/">plačiaformatės spaudos kategorijoje</a>.</li>
-    <li><strong>Kartono gaminiai ir pakuotės:</strong> Tvarūs, ekologiški bei funkcionalūs sprendimai prekybai ir reprezentacijai. Daugiau informacijos pateikiama <a href="/kartono-sprendimai-reklamai/">kartono gaminių skyriuje</a>.</li>
+    <li><strong>Plačiaformatė spauda:</strong> Kuriame ir gaminame lauko bei vidaus reklamos elementus. Visą asortimentą ir technologijas galite rasti mūsų <a href="../spauda/">plačiaformatės spaudos kategorijoje</a>.</li>
+    <li><strong>Kartono gaminiai ir pakuotės:</strong> Tvarūs, ekologiški bei funkcionalūs sprendimai prekybai ir reprezentacijai. Daugiau informacijos pateikiama <a href="../kartono-sprendimai-reklamai/">kartono gaminių skyriuje</a>.</li>
 </ul>
 
 <h3>Kodėl verta rinktis mus?</h3>
@@ -29,4 +29,4 @@ draft: false
     <li><strong>Lankstumas:</strong> Prisitaikome prie individualių kliento techninių bei dizaino reikalavimų, užtikrindami operatyvų darbų atlikimą.</li>
 </ul>
 
-<p>Jei ieškote patikimo partnerio savo reklaminiams projektams ar norite aptarti bendradarbiavimo galimybes, <a href="/kontaktai/">susisiekite su mūsų komanda</a> – padėsime rasti geriausią techninį sprendimą Jūsų verslui.</p>
+<p>Jei ieškote patikimo partnerio savo reklaminiams projektams ar norite aptarti bendradarbiavimo galimybes, <a href="../kontaktai/">susisiekite su mūsų komanda</a> – padėsime rasti geriausią techninį sprendimą Jūsų verslui.</p>
