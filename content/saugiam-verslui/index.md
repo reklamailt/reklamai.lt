@@ -21,17 +21,6 @@ draft: false
 
 <div style="height:46px" aria-hidden="true" class="wp-block-spacer"></div>
 
-<p style="font-size:18px">Mūsų eshop: <a href="https://primumprint.lt/" target="_blank" rel="noreferrer noopener"><strong>primumprint.lt</strong></a></p>
-
-<p style="font-size:18px">Taip pat mūsų gaminamus skydus galite įsigyti jums patogiame mieste pas partnerius:</p>
-
-<p><strong>Kaune</strong> <a href="https://www.adgo.lt/skaidri-kasos-apsauga-atskyrimas/" target="_blank" rel="noreferrer noopener nofollow">UAB "White Line Styling"</a>, <a href="https://adsystems.lt/kontaktai/" target="_blank" rel="noreferrer noopener nofollow">UAB "Reklamos sistemos"</a>, <a href="http://bigudy.lt/kontaktai/?fbclid=IwAR1ocHFEE6CIN3ot1-RhaNb1Q4krhQEFiiyhAONMj4K39F3m2x0x2yUvIUg" target="_blank" rel="noreferrer noopener nofollow">UAB "BIGUDY"</a> </p>
-
-<p><strong>Vilniuje</strong> <a href="https://www.vizpro.lt/saugiam-verslui/?fbclid=IwAR20JIHZ3TOCX4xuPKUwVliAx-1EDpJciOREp-Sd2IPzJo0QWFLAzECYaLw" target="_blank" rel="noreferrer noopener nofollow">UAB "Vizualiniai projektai"</a> </p>
-
-<p><strong>Šakiuose</strong> <a href="https://www.virsmas.in/kontaktai?fbclid=IwAR2EVFbsqJhd7HE9Yz4neudphb7s9BU2DXdPRKwBHMLKJWFk35rJLbFA0r0" target="_blank" rel="noreferrer noopener nofollow">MB "Virsmas"</a></p>
-
-<p><strong>Šilutėje</strong> <a href="https://www.reklamospriedai.lt/?fbclid=IwAR0Q0EpJAFQgH6L9T6kFJwhKJluVCnUTSNgPEpf2tul4zZjdyZmCfd_6a60#slide5" target="_blank" rel="noreferrer noopener nofollow">UAB "Reklamos priedai"</a></p>
 
 <div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
 
