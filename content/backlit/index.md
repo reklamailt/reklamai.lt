@@ -20,11 +20,11 @@ draft: false
 <ul>
     <li><strong>Puikus šviesos pralaidumas:</strong> Tolygiai paskirsto šviesą nuo galinio apšvietimo (LED ar lempų), pašalindamas neestetiškus šviesos taškus.</li>
     <li><strong>Gilios ir sodrios spalvos:</strong> Grafika išlieka itin ryški ir išraiškinga tiek dieną, tiek sutemus.</li>
-    <li><strong>Matmenų stabilumas ir atsparumas:</strong> Medžiaga atspari drėgmei, temperatūros svyravimams bei šviesos šaltinių generuojamai šilumai, kas užtikrina ilgaamžiškumą šviesdėžėse ir citylight stenduose.</li>
+    <li><strong>Matmenų stabilumas ir atsparumas:</strong> Medžiaga atspari drėgmei, temperatūros svyravimams bei šviesos šaltinių generuojamai šilumai, kas užtikrina ilgaamžiškumą šviesdėžėse ir stenduose.</li>
     <li><strong>Įvairūs sprendimai:</strong> Galime pasiūlyti ir specifines parinktis – nuo klasikinės spaudos iki backlit tekstilių spaudos (šviesdėžėms, vitrinoms ar įtempiamoms luboms), atliekant profesionalų apdirbimą pagal Jūsų nurodytą formą ir tvirtinimo būdą.</li>
 </ul>
 
 <h3>Lankstus užsakymų vykdymas ir pristatymas</h3>
-<p>Priimame užsakymus spaustuvėje tiek dideliais tiražais, pasiūlydami patrauklias nuolaidas, tiek gaminame vienetinius projektus – <strong>nuo 1 egzemplioriaus</strong>. Gamyba atliekama pateikus techniškai tvarkingą maketą.</p>
+<p>Spaustuvė Primum Print priima užsakymus vienetiniams projektams – <strong>nuo 1 egzemplioriaus</strong> ir dideliems tiražams. Gamyba atliekama pateikus techniškai tvarkingą maketą.</p>
 
 <p>Užsakymus galite atsiimti mūsų gamyboje Kaune arba pasirinkti patogų pristatymą kurjeriu visoje Lietuvoje. Jei ieškote patikimo partnerio savo šviečiančios reklamos projektams, <a href="/kontaktai/">susisiekite su Primum Print</a> – aptarsime Jūsų užsakymo detales.</p>
