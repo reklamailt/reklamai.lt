@@ -21,4 +21,5 @@ draft: false
   <li><strong>Pramoninė tara:</strong> <a href="/dezes/">Kartono dėžės ir pakuotės</a> – tvirtos, tvarios konstrukcijos pagal individualius matmenis ir kiekius kasdienei logistikai.</li>
 </ul>
 
-<p>Visi gaminiai gaminami pasitelkiant aukštos kokybės skaitmeninę spaudą, užtikrinančią ryškias spalvas, ilgaamžiškumą ir nepriekaištingą estetiką. Jei turite sumanymą, kuriam reikalingas konstrukcinis sprendimas iš kartono ir spauda, **<a href="/kontaktai/">susisiekite su Primum Print</a></p>**, mielai aptarsime Jūsų projekto įgyvendinimą.
+<p>Visi gaminiai gaminami pasitelkiant aukštos kokybės skaitmeninę spaudą, užtikrinančią ryškias spalvas, ilgaamžiškumą ir nepriekaištingą estetiką. 
+  Jei turite sumanymą, kuriam reikalingas konstrukcinis sprendimas iš kartono, **<a href="/kontaktai/">susisiekite su Primum Print</a>, mielai aptarsime Jūsų projekto įgyvendinimą.</p>**
