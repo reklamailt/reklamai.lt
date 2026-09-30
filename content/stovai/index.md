@@ -29,6 +29,6 @@ draft: false
     <li><strong>Pristatymas visoje Lietuvoje:</strong> Paruoštus gaminius saugiai supakuojame ir pristatome tiesiai į Jūsų nurodytą prekybos tašką ar sandėlį.</li>
 </ul>
 
-<p>Jei domitės mažesnio formato sprendimais, kviečiame susipažinti su mūsų <a href="/prekybiniai-stoveliai/">prekybinių stoveliai ir laikiklių asortimentu</a>, o platesnę reklamos gaminių apžvalgą rasite <a href="/spauda/">plačiaformatės spaudos skiltyje</a>.</p>
+<p>Jei domitės mažesnio formato sprendimais, kviečiame susipažinti su mūsų <a href="/prekybiniai-stoveliai/">prekybinių stovelių ir laikiklių asortimentu</a>, o platesnę reklamos gaminių apžvalgą rasite <a href="/spauda/">plačiaformatės spaudos skiltyje</a>.</p>
 
 <p>Norite sėkmingai išsiskirti prekybos salėje ir padidinti pardavimus? <a href="/kontaktai/">Susisiekite su Primum Print komanda</a> – paruošime geriausią ekspozicijos projektą ir tikslią sąmatą.</p>
