@@ -1,5 +1,5 @@
 /* ==========================================
-   1. Bezwzględne wyrównanie do lewej i usunięcie centrowania z article
+    1. Bezwzględne wyrównanie do lewej i usunięcie centrowania z article
    ========================================== */
 article,
 main article,
@@ -28,7 +28,7 @@ article header,
 }
 
 /* ==========================================
-   2. Pełne wyrównanie strony głównej
+    2. Pełne wyrównanie strony głównej
    ========================================== */
 body.index main,
 .home main,
@@ -50,7 +50,7 @@ body.index .article-pagination,
 }
 
 /* ==========================================
-   3. Usunięcie kropek i metadanych pod H1
+    3. Usunięcie kropek i metadanych pod H1
    ========================================== */
 article header .flex.items-center,
 .article-meta,
@@ -63,7 +63,7 @@ header .flex.flex-wrap.items-center {
 }
 
 /* ==========================================
-   4. Ukrycie zbędnej dolnej nawigacji
+    4. Ukrycie zbędnej dolnej nawigacji
    ========================================== */
 article nav,
 .article-pagination,
@@ -76,7 +76,7 @@ article footer,
 }
 
 /* ==========================================
-   5. Jednolite odstępy A = B = C dla wszystkich stron i kategorii
+    5. Jednolite odstępy A = B = C dla wszystkich stron i kategorii
    ========================================== */
 main {
   padding-top: 0 !important;
@@ -124,7 +124,7 @@ body {
 }
 
 /* ==========================================
-   6. Naprawa ucięcia i potężne powiększenie logo SVG
+    6. Naprawa ucięcia i potężne powiększenie logo SVG
    ========================================== */
 header nav > a[href="/"] > span:not(.sr-only),
 header nav a[href="/"] span.font-bold {
@@ -144,4 +144,13 @@ header nav > a[href="/"] svg {
   width: auto !important;
   min-width: unset !important;
   overflow: visible !important;
+}
+
+/* ==========================================
+    7. Celowe ukrycie breadcrumbs na podstronie kontaktów
+   ========================================== */
+body[class*="kontaktai"] nav.flex.flex-row.text-sm,
+body[class*="kontaktai"] .flex.flex-row.text-sm,
+body[class*="kontaktai"] nav[aria-label="Breadcrumb"] {
+  display: none !important;
 }
