@@ -24,11 +24,11 @@ draft: false
 </ul>
 
 <h3>Galimi spaudos pagrindai ir medžiagos</h3>
-<p>Dėl modernių plokščiųjų (flatbed) ir ruloninių ploterių galime spausdinti ant itin plačios standžių bei lanksčių medžiagų paletės, kurių storis siekia iki 100 mm (maksimalus stalo plotas iki 2,80 m x 3,20 m):</p>
+<p>Dėl modernių plokščiųjų (flatbed) ir ruloninių ploterių galime spausdinti ant itin plačios standžių bei lanksčių medžiagų paletės, kurių storis - iki 80 mm (maksimalus stalo plotas iki 2,00 m x 3,00 m):</p>
 <ul>
     <li><strong>Plastikai ir kompozitai:</strong> Pleksi (akrilas), PVC, PET, dibondo (aliuminio kompozito) plokštės.</li>
     <li><strong>Interjero ir baldų elementai:</strong> Stiklas, keramika, baldų plokštės, medis, fanera, MDF, metalas.</li>
-    <li><strong>Tekstilė ir ruloniniai gaminiai:</strong> Drobė (canvas), skajus, natūralios bei sintetinės medžiagos iš rulono.</li>
+    <li><strong>Tekstilė ir ruloniniai gaminiai:</strong> Drobė, dirbtinė oda, natūralios bei sintetinės medžiagos iš rulono.</li>
 </ul>
 
 <p>UV spauda plačiai naudojama reklaminėms iškaboms, stendams, reprezentacinėms plokštėms, interjero dekoravimui bei originaliems nestandartiniams gaminiams kurti. Platesnį spaudos paslaugų spektrą galite apžvelgti bendroje <a href="/spauda/">plačiaformatės spaudos apžvalgoje</a>.</p>
